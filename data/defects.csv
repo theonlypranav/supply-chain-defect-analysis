@@ -1,0 +1,2001 @@
+defect_id,unit_id,batch_id,checkpoint_id,defect_type,severity,root_cause,reported_date
+DEF-00001,UNIT-10488,BATCH-2025-00731,3,Speaker distortion,Low,Environmental exposure,2025-12-29
+DEF-00002,UNIT-28817,BATCH-2025-02015,3,Speaker distortion,Medium,Supplier quality issue,2025-11-04
+DEF-00003,UNIT-23888,BATCH-2025-01672,3,Low volume output,Medium,Equipment calibration drift,2025-12-21
+DEF-00004,UNIT-48958,BATCH-2026-03425,4,Charging instability,Low,Equipment calibration drift,2026-03-12
+DEF-00005,UNIT-18550,BATCH-2025-01297,8,Packaging damage,High,Investigation pending,2025-01-24
+DEF-00006,UNIT-21234,BATCH-2025-01485,7,Thermal runaway risk,Medium,Packaging error,2025-01-22
+DEF-00007,UNIT-10347,BATCH-2025-00721,5,Screen artifact,High,Environmental exposure,2025-08-07
+DEF-00008,UNIT-36640,BATCH-2026-02561,7,Overheating,Low,Supplier quality issue,2026-06-05
+DEF-00009,UNIT-19198,BATCH-2025-01343,1,Connector misalignment,Low,Investigation pending,2025-07-28
+DEF-00010,UNIT-46369,BATCH-2026-03249,1,Short circuit,High,Handling damage,2026-06-15
+DEF-00011,UNIT-31804,BATCH-2026-02225,1,Connector misalignment,Critical,Material defect,2026-02-25
+DEF-00012,UNIT-43504,BATCH-2026-03048,8,Ingress issue,Critical,Handling damage,2026-08-25
+DEF-00013,UNIT-42542,BATCH-2025-02982,8,Packaging damage,High,Packaging error,2025-08-19
+DEF-00014,UNIT-31656,BATCH-2025-02215,7,Overheating,Critical,Handling damage,2025-07-14
+DEF-00015,UNIT-47835,BATCH-2025-03349,5,Color calibration issue,Medium,Handling damage,2025-01-28
+DEF-00016,UNIT-30728,BATCH-2026-02149,5,Dead pixel,High,Supplier quality issue,2026-08-17
+DEF-00017,UNIT-05435,BATCH-2026-00373,3,Speaker distortion,High,Environmental exposure,2026-08-26
+DEF-00018,UNIT-19890,BATCH-2025-01391,6,Signal interference,High,Handling damage,2025-06-23
+DEF-00019,UNIT-27604,BATCH-2025-01930,5,Screen artifact,Low,Environmental exposure,2025-03-11
+DEF-00020,UNIT-27499,BATCH-2025-01923,4,Battery not detected,Medium,Packaging error,2025-11-18
+DEF-00021,UNIT-09809,BATCH-2025-00681,5,Color calibration issue,Medium,Equipment calibration drift,2025-10-29
+DEF-00022,UNIT-16961,BATCH-2026-01187,5,Screen artifact,Medium,Packaging error,2026-06-21
+DEF-00023,UNIT-10477,BATCH-2025-00730,2,Camera focus failed,High,Process variation,2025-12-19
+DEF-00024,UNIT-25625,BATCH-2026-01790,7,Thermal runaway risk,Low,Supplier quality issue,2026-07-03
+DEF-00025,UNIT-42225,BATCH-2025-02958,7,Overheating,Medium,Environmental exposure,2025-06-16
+DEF-00026,UNIT-06546,BATCH-2026-00452,7,Thermal runaway risk,Medium,Process variation,2026-06-09
+DEF-00027,UNIT-20480,BATCH-2025-01431,7,Overheating,Medium,Equipment calibration drift,2025-09-14
+DEF-00028,UNIT-23333,BATCH-2026-01634,4,Cell imbalance,Medium,Material defect,2026-02-24
+DEF-00029,UNIT-25682,BATCH-2025-01795,4,Charging instability,Medium,Packaging error,2025-02-23
+DEF-00030,UNIT-08516,BATCH-2025-00590,7,Fan failure,High,Investigation pending,2025-12-20
+DEF-00031,UNIT-26908,BATCH-2025-01881,6,Port instability,Medium,Process variation,2025-07-07
+DEF-00032,UNIT-03324,BATCH-2025-00229,3,Audio clipping,Low,Supplier quality issue,2025-04-03
+DEF-00033,UNIT-11060,BATCH-2025-00770,5,Dead pixel,High,Equipment calibration drift,2025-11-29
+DEF-00034,UNIT-09341,BATCH-2025-00647,2,Lens scratch,Low,Supplier quality issue,2025-06-25
+DEF-00035,UNIT-46419,BATCH-2026-03252,4,Battery not detected,Critical,Process variation,2026-08-27
+DEF-00036,UNIT-45755,BATCH-2025-03206,2,Lens scratch,Medium,Investigation pending,2025-08-03
+DEF-00037,UNIT-24655,BATCH-2026-01724,7,Fan failure,High,Supplier quality issue,2026-06-18
+DEF-00038,UNIT-04017,BATCH-2025-00277,2,Camera focus failed,Medium,Equipment calibration drift,2025-09-26
+DEF-00039,UNIT-19220,BATCH-2026-01344,5,Dead pixel,High,Investigation pending,2026-05-09
+DEF-00040,UNIT-48595,BATCH-2025-03399,7,Fan failure,Medium,Handling damage,2025-07-07
+DEF-00041,UNIT-16509,BATCH-2024-01156,7,Thermal runaway risk,Low,Investigation pending,2024-10-23
+DEF-00042,UNIT-16028,BATCH-2025-01121,7,Fan failure,Low,Handling damage,2025-08-23
+DEF-00043,UNIT-10925,BATCH-2025-00762,5,Screen artifact,Critical,Supplier quality issue,2025-10-22
+DEF-00044,UNIT-27181,BATCH-2025-01901,4,Cell imbalance,Low,Process variation,2025-05-23
+DEF-00045,UNIT-48059,BATCH-2025-03364,3,Low volume output,Low,Supplier quality issue,2025-12-04
+DEF-00046,UNIT-24596,BATCH-2025-01721,7,Thermal runaway risk,Critical,Packaging error,2025-08-02
+DEF-00047,UNIT-18062,BATCH-2025-01262,5,Screen artifact,Medium,Investigation pending,2025-08-12
+DEF-00048,UNIT-05687,BATCH-2026-00392,1,Power fluctuation,Medium,Environmental exposure,2026-08-06
+DEF-00049,UNIT-21442,BATCH-2025-01500,5,Dead pixel,Medium,Equipment calibration drift,2025-01-22
+DEF-00050,UNIT-09841,BATCH-2026-00683,6,Signal interference,Medium,Process variation,2026-08-26
+DEF-00051,UNIT-28509,BATCH-2026-01993,7,Thermal runaway risk,Medium,Packaging error,2026-07-27
+DEF-00052,UNIT-21809,BATCH-2026-01525,5,Color calibration issue,High,Handling damage,2026-05-16
+DEF-00053,UNIT-35637,BATCH-2025-02490,7,Fan failure,High,Process variation,2025-07-12
+DEF-00054,UNIT-26625,BATCH-2026-01860,5,Dead pixel,Low,Handling damage,2026-08-30
+DEF-00055,UNIT-05753,BATCH-2025-00397,2,Lens scratch,High,Environmental exposure,2026-01-01
+DEF-00056,UNIT-24853,BATCH-2026-01738,3,Low volume output,Low,Environmental exposure,2026-01-29
+DEF-00057,UNIT-37123,BATCH-2025-02594,8,Final assembly defect,High,Process variation,2026-01-20
+DEF-00058,UNIT-15246,BATCH-2025-01068,7,Fan failure,Medium,Process variation,2025-08-23
+DEF-00059,UNIT-14657,BATCH-2025-01025,1,Power fluctuation,Medium,Supplier quality issue,2025-12-02
+DEF-00060,UNIT-23706,BATCH-2025-01660,1,Power fluctuation,Low,Handling damage,2026-01-08
+DEF-00061,UNIT-03057,BATCH-2026-00211,5,Dead pixel,Medium,Process variation,2026-07-20
+DEF-00062,UNIT-25627,BATCH-2025-01791,5,Screen artifact,Medium,Handling damage,2025-10-15
+DEF-00063,UNIT-16640,BATCH-2024-01165,4,Charging instability,Medium,Material defect,2024-12-21
+DEF-00064,UNIT-25253,BATCH-2024-01766,2,Lens scratch,Medium,Supplier quality issue,2024-11-23
+DEF-00065,UNIT-48879,BATCH-2026-03419,1,Connector misalignment,Low,Equipment calibration drift,2026-06-13
+DEF-00066,UNIT-24216,BATCH-2025-01695,4,Charging instability,High,Packaging error,2025-08-01
+DEF-00067,UNIT-46463,BATCH-2025-03256,2,Sensor calibration drift,Low,Handling damage,2025-01-28
+DEF-00068,UNIT-14685,BATCH-2026-01027,6,Connectivity drop,Critical,Handling damage,2026-03-24
+DEF-00069,UNIT-48222,BATCH-2026-03375,6,Connectivity drop,Low,Environmental exposure,2026-08-26
+DEF-00070,UNIT-09381,BATCH-2025-00650,3,Speaker distortion,Critical,Packaging error,2025-05-09
+DEF-00071,UNIT-07730,BATCH-2025-00536,1,Short circuit,Medium,Supplier quality issue,2025-12-13
+DEF-00072,UNIT-23642,BATCH-2025-01655,3,Low volume output,Low,Supplier quality issue,2025-05-08
+DEF-00073,UNIT-31581,BATCH-2025-02211,4,Battery not detected,Medium,Material defect,2025-04-19
+DEF-00074,UNIT-31069,BATCH-2026-02174,2,Lens scratch,Low,Process variation,2026-05-05
+DEF-00075,UNIT-11206,BATCH-2025-00781,4,Battery not detected,Medium,Packaging error,2025-12-19
+DEF-00076,UNIT-08415,BATCH-2026-00584,2,Sensor calibration drift,High,Investigation pending,2026-05-16
+DEF-00077,UNIT-46921,BATCH-2026-03285,5,Screen artifact,Medium,Equipment calibration drift,2026-02-05
+DEF-00078,UNIT-39178,BATCH-2025-02743,7,Fan failure,High,Equipment calibration drift,2025-08-29
+DEF-00079,UNIT-45455,BATCH-2024-03185,8,Packaging damage,High,Packaging error,2024-10-10
+DEF-00080,UNIT-37240,BATCH-2026-02603,8,Ingress issue,Medium,Investigation pending,2026-03-03
+DEF-00081,UNIT-23596,BATCH-2025-01652,1,Connector misalignment,Low,Handling damage,2025-11-11
+DEF-00082,UNIT-16501,BATCH-2025-01155,5,Screen artifact,Critical,Material defect,2025-04-29
+DEF-00083,UNIT-10335,BATCH-2025-00721,6,Signal interference,Low,Environmental exposure,2025-08-08
+DEF-00084,UNIT-42240,BATCH-2025-02960,4,Cell imbalance,Low,Equipment calibration drift,2025-05-27
+DEF-00085,UNIT-14551,BATCH-2025-01018,2,Sensor calibration drift,Low,Process variation,2025-05-05
+DEF-00086,UNIT-25272,BATCH-2025-01767,3,Speaker distortion,Medium,Environmental exposure,2025-12-28
+DEF-00087,UNIT-46747,BATCH-2024-03274,4,Cell imbalance,Medium,Supplier quality issue,2024-10-29
+DEF-00088,UNIT-07844,BATCH-2025-00544,1,Connector misalignment,Medium,Environmental exposure,2025-08-28
+DEF-00089,UNIT-23354,BATCH-2025-01635,6,Port instability,High,Process variation,2025-04-09
+DEF-00090,UNIT-19245,BATCH-2026-01346,5,Screen artifact,Critical,Investigation pending,2026-07-07
+DEF-00091,UNIT-44323,BATCH-2025-03105,3,Speaker distortion,Low,Equipment calibration drift,2025-08-29
+DEF-00092,UNIT-47249,BATCH-2026-03308,3,Audio clipping,High,Equipment calibration drift,2026-03-22
+DEF-00093,UNIT-26190,BATCH-2025-01830,5,Dead pixel,High,Environmental exposure,2025-02-02
+DEF-00094,UNIT-08077,BATCH-2026-00560,7,Thermal runaway risk,Low,Equipment calibration drift,2026-03-20
+DEF-00095,UNIT-32575,BATCH-2026-02276,4,Cell imbalance,High,Environmental exposure,2026-08-05
+DEF-00096,UNIT-20430,BATCH-2025-01428,4,Cell imbalance,Medium,Packaging error,2025-04-09
+DEF-00097,UNIT-02345,BATCH-2025-00163,1,Power fluctuation,High,Material defect,2025-07-18
+DEF-00098,UNIT-39928,BATCH-2026-02794,2,Camera focus failed,Critical,Handling damage,2026-03-20
+DEF-00099,UNIT-00825,BATCH-2025-00059,1,Power fluctuation,Critical,Environmental exposure,2025-09-12
+DEF-00100,UNIT-34001,BATCH-2024-02376,2,Camera focus failed,High,Environmental exposure,2024-10-24
+DEF-00101,UNIT-01336,BATCH-2025-00094,8,Final assembly defect,Medium,Supplier quality issue,2025-03-24
+DEF-00102,UNIT-22433,BATCH-2025-01570,2,Sensor calibration drift,High,Process variation,2025-02-01
+DEF-00103,UNIT-15840,BATCH-2025-01108,5,Screen artifact,Medium,Material defect,2025-03-18
+DEF-00104,UNIT-21178,BATCH-2025-01481,1,Short circuit,High,Environmental exposure,2025-04-23
+DEF-00105,UNIT-28289,BATCH-2024-01978,7,Thermal runaway risk,Medium,Environmental exposure,2025-01-10
+DEF-00106,UNIT-39149,BATCH-2026-02741,3,Audio clipping,Medium,Process variation,2026-06-11
+DEF-00107,UNIT-07172,BATCH-2025-00497,8,Packaging damage,Medium,Supplier quality issue,2026-01-12
+DEF-00108,UNIT-47570,BATCH-2025-03331,8,Final assembly defect,Low,Process variation,2025-11-29
+DEF-00109,UNIT-42463,BATCH-2025-02977,6,Signal interference,Critical,Material defect,2025-09-09
+DEF-00110,UNIT-30386,BATCH-2025-02127,5,Screen artifact,Medium,Packaging error,2025-01-20
+DEF-00111,UNIT-16202,BATCH-2026-01132,1,Short circuit,High,Packaging error,2026-08-12
+DEF-00112,UNIT-26975,BATCH-2025-01886,5,Dead pixel,Low,Material defect,2025-07-20
+DEF-00113,UNIT-23752,BATCH-2025-01663,3,Low volume output,Low,Investigation pending,2025-08-30
+DEF-00114,UNIT-02644,BATCH-2024-00182,3,Speaker distortion,High,Investigation pending,2024-12-23
+DEF-00115,UNIT-05582,BATCH-2026-00384,7,Fan failure,Medium,Handling damage,2026-01-27
+DEF-00116,UNIT-14407,BATCH-2024-01008,8,Final assembly defect,Low,Supplier quality issue,2025-01-03
+DEF-00117,UNIT-25262,BATCH-2024-01766,6,Port instability,High,Investigation pending,2024-11-26
+DEF-00118,UNIT-18924,BATCH-2025-01323,6,Connectivity drop,Low,Environmental exposure,2025-11-04
+DEF-00119,UNIT-08206,BATCH-2025-00568,1,Power fluctuation,Medium,Investigation pending,2025-11-07
+DEF-00120,UNIT-13402,BATCH-2026-00938,3,Speaker distortion,Low,Handling damage,2026-07-02
+DEF-00121,UNIT-05398,BATCH-2026-00371,1,Short circuit,Medium,Investigation pending,2026-08-30
+DEF-00122,UNIT-49941,BATCH-2026-03492,7,Thermal runaway risk,Low,Investigation pending,2026-01-18
+DEF-00123,UNIT-41884,BATCH-2025-02934,4,Battery not detected,Critical,Investigation pending,2025-02-17
+DEF-00124,UNIT-07611,BATCH-2025-00528,6,Signal interference,Low,Packaging error,2025-02-26
+DEF-00125,UNIT-49742,BATCH-2025-03477,6,Signal interference,High,Packaging error,2025-01-29
+DEF-00126,UNIT-30379,BATCH-2026-02126,2,Camera focus failed,Critical,Material defect,2026-07-30
+DEF-00127,UNIT-16819,BATCH-2025-01177,6,Connectivity drop,High,Supplier quality issue,2025-10-30
+DEF-00128,UNIT-35568,BATCH-2025-02486,3,Speaker distortion,Medium,Equipment calibration drift,2025-04-06
+DEF-00129,UNIT-13756,BATCH-2025-00964,5,Dead pixel,Critical,Equipment calibration drift,2025-03-18
+DEF-00130,UNIT-30314,BATCH-2024-02122,7,Thermal runaway risk,Low,Packaging error,2025-01-17
+DEF-00131,UNIT-12818,BATCH-2025-00897,4,Charging instability,Medium,Handling damage,2025-11-13
+DEF-00132,UNIT-45814,BATCH-2025-03211,5,Color calibration issue,Low,Investigation pending,2025-10-07
+DEF-00133,UNIT-00732,BATCH-2025-00051,4,Charging instability,Low,Process variation,2025-10-10
+DEF-00134,UNIT-46959,BATCH-2026-03288,6,Port instability,High,Material defect,2026-08-15
+DEF-00135,UNIT-26510,BATCH-2025-01852,3,Speaker distortion,Medium,Material defect,2025-12-10
+DEF-00136,UNIT-18026,BATCH-2026-01259,8,Ingress issue,Low,Supplier quality issue,2026-03-23
+DEF-00137,UNIT-27597,BATCH-2025-01930,2,Camera focus failed,Critical,Equipment calibration drift,2025-03-14
+DEF-00138,UNIT-05737,BATCH-2026-00396,7,Thermal runaway risk,Low,Supplier quality issue,2026-07-22
+DEF-00139,UNIT-49754,BATCH-2026-03478,2,Sensor calibration drift,High,Material defect,2026-06-06
+DEF-00140,UNIT-11889,BATCH-2025-00830,5,Color calibration issue,Medium,Material defect,2025-04-01
+DEF-00141,UNIT-40705,BATCH-2024-02851,6,Signal interference,High,Equipment calibration drift,2024-10-04
+DEF-00142,UNIT-45326,BATCH-2025-03176,2,Lens scratch,Medium,Investigation pending,2025-06-27
+DEF-00143,UNIT-21470,BATCH-2024-01502,5,Screen artifact,High,Equipment calibration drift,2024-11-19
+DEF-00144,UNIT-49707,BATCH-2025-03474,2,Lens scratch,High,Material defect,2025-04-12
+DEF-00145,UNIT-23843,BATCH-2025-01669,7,Fan failure,Critical,Environmental exposure,2025-11-01
+DEF-00146,UNIT-19429,BATCH-2025-01358,5,Screen artifact,Low,Investigation pending,2025-05-25
+DEF-00147,UNIT-26514,BATCH-2025-01853,4,Cell imbalance,Medium,Material defect,2025-08-19
+DEF-00148,UNIT-32754,BATCH-2025-02288,2,Lens scratch,Medium,Process variation,2025-03-22
+DEF-00149,UNIT-33814,BATCH-2025-02363,4,Battery not detected,High,Supplier quality issue,2025-05-27
+DEF-00150,UNIT-01438,BATCH-2024-00101,8,Final assembly defect,Low,Packaging error,2024-12-17
+DEF-00151,UNIT-25031,BATCH-2024-01751,2,Lens scratch,High,Environmental exposure,2025-01-14
+DEF-00152,UNIT-07556,BATCH-2025-00524,4,Cell imbalance,Medium,Process variation,2025-01-31
+DEF-00153,UNIT-01252,BATCH-2026-00088,5,Dead pixel,Medium,Process variation,2026-05-02
+DEF-00154,UNIT-19031,BATCH-2025-01330,1,Connector misalignment,High,Packaging error,2025-11-07
+DEF-00155,UNIT-32824,BATCH-2026-02294,2,Lens scratch,High,Material defect,2026-09-21
+DEF-00156,UNIT-09526,BATCH-2024-00661,6,Signal interference,High,Environmental exposure,2024-12-12
+DEF-00157,UNIT-01029,BATCH-2025-00072,1,Power fluctuation,Medium,Process variation,2025-01-25
+DEF-00158,UNIT-18055,BATCH-2025-01261,4,Battery not detected,Medium,Supplier quality issue,2025-09-24
+DEF-00159,UNIT-43472,BATCH-2026-03046,3,Low volume output,High,Handling damage,2026-08-11
+DEF-00160,UNIT-44840,BATCH-2026-03141,7,Overheating,Low,Handling damage,2026-08-18
+DEF-00161,UNIT-10967,BATCH-2025-00764,2,Camera focus failed,High,Environmental exposure,2025-03-26
+DEF-00162,UNIT-01583,BATCH-2025-00111,7,Fan failure,Medium,Equipment calibration drift,2025-11-26
+DEF-00163,UNIT-38489,BATCH-2024-02693,6,Port instability,High,Process variation,2025-01-01
+DEF-00164,UNIT-03736,BATCH-2025-00257,6,Connectivity drop,Medium,Material defect,2025-05-24
+DEF-00165,UNIT-47000,BATCH-2025-03291,2,Lens scratch,High,Process variation,2025-02-23
+DEF-00166,UNIT-17688,BATCH-2024-01237,7,Fan failure,Low,Investigation pending,2024-10-12
+DEF-00167,UNIT-25898,BATCH-2025-01811,3,Audio clipping,Low,Equipment calibration drift,2025-11-23
+DEF-00168,UNIT-10372,BATCH-2025-00723,2,Lens scratch,Low,Supplier quality issue,2025-11-27
+DEF-00169,UNIT-05713,BATCH-2024-00394,2,Camera focus failed,Medium,Process variation,2024-10-16
+DEF-00170,UNIT-36153,BATCH-2026-02528,7,Fan failure,High,Handling damage,2026-03-23
+DEF-00171,UNIT-07424,BATCH-2024-00515,4,Battery not detected,High,Equipment calibration drift,2024-10-16
+DEF-00172,UNIT-33711,BATCH-2025-02356,7,Fan failure,Low,Packaging error,2025-07-30
+DEF-00173,UNIT-24763,BATCH-2026-01733,2,Sensor calibration drift,Low,Handling damage,2026-05-03
+DEF-00174,UNIT-25826,BATCH-2025-01805,4,Battery not detected,Medium,Handling damage,2025-09-29
+DEF-00175,UNIT-14125,BATCH-2025-00988,7,Thermal runaway risk,Low,Packaging error,2025-02-22
+DEF-00176,UNIT-19001,BATCH-2024-01328,6,Signal interference,Critical,Material defect,2024-10-20
+DEF-00177,UNIT-27260,BATCH-2026-01906,5,Dead pixel,Critical,Packaging error,2026-06-28
+DEF-00178,UNIT-24954,BATCH-2024-01746,1,Short circuit,High,Equipment calibration drift,2025-01-15
+DEF-00179,UNIT-18692,BATCH-2025-01307,4,Cell imbalance,Medium,Process variation,2025-10-29
+DEF-00180,UNIT-29284,BATCH-2025-02050,7,Overheating,Low,Investigation pending,2025-12-03
+DEF-00181,UNIT-47171,BATCH-2024-03302,3,Audio clipping,Medium,Equipment calibration drift,2024-12-19
+DEF-00182,UNIT-07223,BATCH-2025-00500,4,Battery not detected,Critical,Environmental exposure,2025-06-11
+DEF-00183,UNIT-21108,BATCH-2025-01476,7,Thermal runaway risk,Low,Investigation pending,2026-01-06
+DEF-00184,UNIT-39901,BATCH-2026-02793,5,Dead pixel,Medium,Process variation,2026-06-27
+DEF-00185,UNIT-22645,BATCH-2025-01586,7,Thermal runaway risk,Medium,Packaging error,2025-07-14
+DEF-00186,UNIT-00978,BATCH-2024-00069,4,Cell imbalance,High,Process variation,2025-01-20
+DEF-00187,UNIT-36330,BATCH-2026-02540,5,Dead pixel,Medium,Packaging error,2026-03-04
+DEF-00188,UNIT-10211,BATCH-2025-00711,5,Screen artifact,High,Supplier quality issue,2025-08-07
+DEF-00189,UNIT-27360,BATCH-2025-01914,2,Sensor calibration drift,High,Material defect,2025-03-30
+DEF-00190,UNIT-03687,BATCH-2026-00254,8,Ingress issue,Critical,Material defect,2026-04-01
+DEF-00191,UNIT-41618,BATCH-2026-02915,2,Camera focus failed,Low,Equipment calibration drift,2026-05-05
+DEF-00192,UNIT-37459,BATCH-2025-02618,2,Camera focus failed,High,Packaging error,2025-03-21
+DEF-00193,UNIT-24149,BATCH-2026-01690,4,Charging instability,Medium,Investigation pending,2026-05-30
+DEF-00194,UNIT-34639,BATCH-2025-02422,2,Camera focus failed,Medium,Environmental exposure,2025-04-10
+DEF-00195,UNIT-46923,BATCH-2025-03286,3,Speaker distortion,Low,Material defect,2025-08-01
+DEF-00196,UNIT-07042,BATCH-2026-00487,2,Lens scratch,Medium,Supplier quality issue,2026-04-03
+DEF-00197,UNIT-01915,BATCH-2025-00133,6,Connectivity drop,Low,Investigation pending,2025-07-04
+DEF-00198,UNIT-46120,BATCH-2025-03232,4,Battery not detected,High,Environmental exposure,2025-07-06
+DEF-00199,UNIT-03297,BATCH-2025-00227,6,Connectivity drop,Low,Packaging error,2025-04-04
+DEF-00200,UNIT-14903,BATCH-2025-01044,3,Speaker distortion,Low,Environmental exposure,2025-05-09
+DEF-00201,UNIT-13199,BATCH-2026-00924,5,Color calibration issue,Medium,Material defect,2026-06-07
+DEF-00202,UNIT-21184,BATCH-2025-01481,5,Color calibration issue,High,Handling damage,2025-04-27
+DEF-00203,UNIT-25804,BATCH-2025-01803,8,Packaging damage,Critical,Environmental exposure,2025-01-18
+DEF-00204,UNIT-35403,BATCH-2026-02475,4,Cell imbalance,Medium,Process variation,2026-09-08
+DEF-00205,UNIT-11351,BATCH-2025-00792,2,Lens scratch,Medium,Equipment calibration drift,2025-09-13
+DEF-00206,UNIT-26472,BATCH-2025-01850,7,Overheating,High,Process variation,2025-01-29
+DEF-00207,UNIT-27534,BATCH-2024-01925,2,Lens scratch,Low,Equipment calibration drift,2024-10-31
+DEF-00208,UNIT-15944,BATCH-2026-01115,8,Final assembly defect,Low,Investigation pending,2026-03-23
+DEF-00209,UNIT-07292,BATCH-2026-00505,2,Lens scratch,Medium,Equipment calibration drift,2026-05-21
+DEF-00210,UNIT-27792,BATCH-2025-01944,2,Lens scratch,Medium,Process variation,2025-05-09
+DEF-00211,UNIT-18639,BATCH-2026-01303,3,Low volume output,Medium,Process variation,2026-04-10
+DEF-00212,UNIT-25994,BATCH-2024-01817,8,Ingress issue,Low,Investigation pending,2024-10-17
+DEF-00213,UNIT-38192,BATCH-2025-02671,8,Packaging damage,High,Packaging error,2026-01-09
+DEF-00214,UNIT-46261,BATCH-2025-03241,8,Final assembly defect,High,Packaging error,2025-04-24
+DEF-00215,UNIT-11843,BATCH-2025-00827,8,Packaging damage,Medium,Equipment calibration drift,2025-12-09
+DEF-00216,UNIT-37558,BATCH-2024-02625,2,Camera focus failed,Critical,Handling damage,2024-11-19
+DEF-00217,UNIT-04425,BATCH-2026-00305,1,Connector misalignment,Low,Equipment calibration drift,2026-04-08
+DEF-00218,UNIT-13465,BATCH-2026-00942,8,Ingress issue,Critical,Handling damage,2026-03-13
+DEF-00219,UNIT-48263,BATCH-2025-03378,8,Final assembly defect,Low,Handling damage,2025-07-07
+DEF-00220,UNIT-29078,BATCH-2025-02034,3,Audio clipping,High,Investigation pending,2025-06-14
+DEF-00221,UNIT-32224,BATCH-2025-02252,5,Screen artifact,Low,Material defect,2025-06-16
+DEF-00222,UNIT-29445,BATCH-2025-02061,4,Battery not detected,High,Handling damage,2025-11-26
+DEF-00223,UNIT-41006,BATCH-2025-02872,7,Fan failure,High,Supplier quality issue,2025-02-17
+DEF-00224,UNIT-14503,BATCH-2024-01015,7,Overheating,High,Process variation,2025-01-18
+DEF-00225,UNIT-08288,BATCH-2026-00574,8,Ingress issue,Low,Investigation pending,2026-04-09
+DEF-00226,UNIT-14926,BATCH-2026-01045,5,Screen artifact,High,Supplier quality issue,2026-02-21
+DEF-00227,UNIT-43437,BATCH-2025-03044,5,Dead pixel,Low,Environmental exposure,2025-02-05
+DEF-00228,UNIT-09220,BATCH-2026-00638,5,Dead pixel,Low,Material defect,2026-08-21
+DEF-00229,UNIT-12054,BATCH-2025-00842,8,Ingress issue,Medium,Investigation pending,2025-10-04
+DEF-00230,UNIT-19949,BATCH-2026-01395,7,Fan failure,Medium,Material defect,2026-02-02
+DEF-00231,UNIT-27249,BATCH-2026-01905,3,Audio clipping,Low,Packaging error,2026-04-23
+DEF-00232,UNIT-37257,BATCH-2025-02604,2,Lens scratch,High,Handling damage,2025-03-09
+DEF-00233,UNIT-13336,BATCH-2026-00933,6,Port instability,High,Investigation pending,2026-08-04
+DEF-00234,UNIT-01384,BATCH-2024-00098,4,Battery not detected,Medium,Investigation pending,2024-10-16
+DEF-00235,UNIT-08753,BATCH-2026-00607,3,Low volume output,Medium,Environmental exposure,2026-03-29
+DEF-00236,UNIT-07274,BATCH-2025-00504,1,Power fluctuation,High,Investigation pending,2025-04-08
+DEF-00237,UNIT-17972,BATCH-2026-01255,8,Final assembly defect,Critical,Environmental exposure,2026-07-15
+DEF-00238,UNIT-32168,BATCH-2026-02249,8,Ingress issue,Medium,Supplier quality issue,2026-03-02
+DEF-00239,UNIT-01169,BATCH-2024-00082,7,Overheating,High,Process variation,2024-10-12
+DEF-00240,UNIT-08359,BATCH-2025-00580,4,Battery not detected,Low,Handling damage,2025-09-28
+DEF-00241,UNIT-27806,BATCH-2026-01945,6,Connectivity drop,Low,Supplier quality issue,2026-03-19
+DEF-00242,UNIT-36578,BATCH-2025-02556,8,Packaging damage,Medium,Investigation pending,2025-03-03
+DEF-00243,UNIT-34297,BATCH-2025-02397,1,Connector misalignment,Medium,Process variation,2025-04-04
+DEF-00244,UNIT-12449,BATCH-2024-00869,2,Lens scratch,Critical,Equipment calibration drift,2024-12-30
+DEF-00245,UNIT-49979,BATCH-2026-03495,6,Signal interference,Medium,Process variation,2026-02-06
+DEF-00246,UNIT-02073,BATCH-2026-00144,7,Overheating,Medium,Handling damage,2026-05-16
+DEF-00247,UNIT-46217,BATCH-2026-03238,2,Sensor calibration drift,Medium,Packaging error,2026-05-10
+DEF-00248,UNIT-11585,BATCH-2025-00808,1,Power fluctuation,Low,Equipment calibration drift,2025-02-05
+DEF-00249,UNIT-22376,BATCH-2025-01566,8,Ingress issue,Low,Supplier quality issue,2025-05-13
+DEF-00250,UNIT-29784,BATCH-2025-02085,4,Charging instability,High,Packaging error,2025-06-17
+DEF-00251,UNIT-22499,BATCH-2024-01574,2,Lens scratch,Medium,Investigation pending,2024-12-30
+DEF-00252,UNIT-12680,BATCH-2025-00887,8,Ingress issue,Medium,Supplier quality issue,2025-06-24
+DEF-00253,UNIT-08141,BATCH-2025-00565,8,Ingress issue,High,Supplier quality issue,2025-06-11
+DEF-00254,UNIT-33208,BATCH-2026-02322,4,Battery not detected,Medium,Supplier quality issue,2026-01-31
+DEF-00255,UNIT-29604,BATCH-2024-02072,1,Short circuit,Critical,Handling damage,2025-01-08
+DEF-00256,UNIT-09207,BATCH-2026-00638,6,Signal interference,Low,Investigation pending,2026-08-26
+DEF-00257,UNIT-18738,BATCH-2025-01310,4,Cell imbalance,Low,Environmental exposure,2025-09-18
+DEF-00258,UNIT-45526,BATCH-2025-03190,1,Power fluctuation,Low,Handling damage,2025-11-14
+DEF-00259,UNIT-48138,BATCH-2025-03369,6,Signal interference,Medium,Handling damage,2025-05-18
+DEF-00260,UNIT-33699,BATCH-2026-02355,8,Ingress issue,High,Investigation pending,2026-02-02
+DEF-00261,UNIT-07589,BATCH-2026-00527,6,Connectivity drop,Low,Material defect,2026-04-19
+DEF-00262,UNIT-07390,BATCH-2026-00512,5,Dead pixel,High,Supplier quality issue,2026-08-08
+DEF-00263,UNIT-11487,BATCH-2025-00801,8,Final assembly defect,Critical,Environmental exposure,2025-01-27
+DEF-00264,UNIT-11611,BATCH-2025-00810,5,Color calibration issue,Medium,Supplier quality issue,2025-11-08
+DEF-00265,UNIT-07314,BATCH-2025-00507,3,Low volume output,Low,Equipment calibration drift,2025-08-01
+DEF-00266,UNIT-35690,BATCH-2025-02494,6,Connectivity drop,Low,Material defect,2025-04-29
+DEF-00267,UNIT-27658,BATCH-2026-01934,7,Fan failure,Low,Process variation,2026-05-27
+DEF-00268,UNIT-26197,BATCH-2025-01830,8,Packaging damage,Critical,Handling damage,2025-02-01
+DEF-00269,UNIT-17698,BATCH-2026-01238,4,Charging instability,High,Equipment calibration drift,2026-07-24
+DEF-00270,UNIT-18385,BATCH-2025-01285,6,Connectivity drop,Low,Material defect,2025-11-13
+DEF-00271,UNIT-42522,BATCH-2025-02981,6,Connectivity drop,Medium,Investigation pending,2025-09-11
+DEF-00272,UNIT-09697,BATCH-2025-00672,7,Thermal runaway risk,Medium,Environmental exposure,2025-05-26
+DEF-00273,UNIT-24189,BATCH-2024-01693,8,Packaging damage,Low,Supplier quality issue,2025-01-13
+DEF-00274,UNIT-18333,BATCH-2026-01282,3,Low volume output,Low,Environmental exposure,2026-07-12
+DEF-00275,UNIT-04318,BATCH-2026-00297,3,Speaker distortion,Medium,Equipment calibration drift,2026-05-08
+DEF-00276,UNIT-39506,BATCH-2026-02765,6,Port instability,Low,Environmental exposure,2026-06-18
+DEF-00277,UNIT-23528,BATCH-2026-01647,5,Screen artifact,Low,Supplier quality issue,2026-04-27
+DEF-00278,UNIT-45445,BATCH-2024-03185,6,Connectivity drop,Medium,Environmental exposure,2024-10-05
+DEF-00279,UNIT-18239,BATCH-2025-01274,3,Low volume output,Low,Supplier quality issue,2025-11-29
+DEF-00280,UNIT-39701,BATCH-2026-02779,7,Thermal runaway risk,Low,Investigation pending,2026-06-26
+DEF-00281,UNIT-09030,BATCH-2025-00626,4,Charging instability,Medium,Investigation pending,2025-05-27
+DEF-00282,UNIT-06270,BATCH-2025-00432,2,Camera focus failed,Medium,Equipment calibration drift,2025-03-03
+DEF-00283,UNIT-12853,BATCH-2025-00899,2,Lens scratch,Medium,Process variation,2025-11-17
+DEF-00284,UNIT-47876,BATCH-2025-03351,4,Cell imbalance,Medium,Packaging error,2025-08-31
+DEF-00285,UNIT-49150,BATCH-2025-03437,8,Packaging damage,Medium,Supplier quality issue,2026-01-04
+DEF-00286,UNIT-28275,BATCH-2025-01977,7,Thermal runaway risk,Medium,Process variation,2025-07-27
+DEF-00287,UNIT-45187,BATCH-2025-03165,1,Connector misalignment,Critical,Material defect,2025-10-04
+DEF-00288,UNIT-39343,BATCH-2025-02754,2,Lens scratch,High,Supplier quality issue,2025-11-06
+DEF-00289,UNIT-34437,BATCH-2026-02407,5,Screen artifact,Low,Process variation,2026-08-24
+DEF-00290,UNIT-18653,BATCH-2025-01304,5,Screen artifact,Medium,Supplier quality issue,2025-08-11
+DEF-00291,UNIT-24245,BATCH-2026-01697,5,Color calibration issue,Low,Handling damage,2026-08-03
+DEF-00292,UNIT-24081,BATCH-2026-01685,7,Thermal runaway risk,Medium,Handling damage,2026-08-03
+DEF-00293,UNIT-08888,BATCH-2026-00616,8,Ingress issue,Medium,Equipment calibration drift,2026-03-05
+DEF-00294,UNIT-22964,BATCH-2026-01608,2,Lens scratch,Low,Process variation,2026-04-09
+DEF-00295,UNIT-46698,BATCH-2026-03271,8,Packaging damage,High,Material defect,2026-05-03
+DEF-00296,UNIT-17459,BATCH-2026-01221,3,Speaker distortion,Critical,Equipment calibration drift,2026-01-17
+DEF-00297,UNIT-47561,BATCH-2025-03330,4,Battery not detected,Medium,Handling damage,2026-01-02
+DEF-00298,UNIT-00728,BATCH-2025-00051,1,Connector misalignment,Medium,Equipment calibration drift,2025-10-16
+DEF-00299,UNIT-32101,BATCH-2026-02244,1,Connector misalignment,High,Investigation pending,2026-10-01
+DEF-00300,UNIT-21508,BATCH-2025-01505,6,Port instability,Medium,Process variation,2025-07-27
+DEF-00301,UNIT-36663,BATCH-2026-02562,6,Port instability,Low,Handling damage,2026-05-28
+DEF-00302,UNIT-18557,BATCH-2025-01297,1,Power fluctuation,Medium,Material defect,2025-01-20
+DEF-00303,UNIT-16959,BATCH-2026-01187,1,Power fluctuation,Medium,Equipment calibration drift,2026-06-15
+DEF-00304,UNIT-16589,BATCH-2026-01161,1,Connector misalignment,Low,Environmental exposure,2026-02-28
+DEF-00305,UNIT-03508,BATCH-2024-00242,7,Overheating,Medium,Supplier quality issue,2024-12-08
+DEF-00306,UNIT-03221,BATCH-2024-00222,2,Camera focus failed,High,Packaging error,2024-11-17
+DEF-00307,UNIT-32098,BATCH-2026-02244,8,Ingress issue,Low,Handling damage,2026-10-03
+DEF-00308,UNIT-00966,BATCH-2025-00068,7,Overheating,Critical,Investigation pending,2026-01-03
+DEF-00309,UNIT-01729,BATCH-2026-00121,1,Short circuit,Medium,Process variation,2026-09-02
+DEF-00310,UNIT-47292,BATCH-2024-03311,5,Color calibration issue,Medium,Investigation pending,2024-12-02
+DEF-00311,UNIT-31977,BATCH-2025-02236,5,Screen artifact,Critical,Handling damage,2025-07-15
+DEF-00312,UNIT-05095,BATCH-2025-00350,8,Final assembly defect,Critical,Packaging error,2025-04-09
+DEF-00313,UNIT-09626,BATCH-2025-00667,2,Lens scratch,High,Packaging error,2025-10-02
+DEF-00314,UNIT-41245,BATCH-2025-02889,7,Overheating,Medium,Supplier quality issue,2025-06-21
+DEF-00315,UNIT-48756,BATCH-2025-03411,8,Packaging damage,Medium,Supplier quality issue,2026-01-12
+DEF-00316,UNIT-22867,BATCH-2026-01601,2,Lens scratch,High,Process variation,2026-02-19
+DEF-00317,UNIT-22221,BATCH-2025-01555,2,Lens scratch,Medium,Packaging error,2025-01-23
+DEF-00318,UNIT-19507,BATCH-2025-01363,1,Connector misalignment,Medium,Investigation pending,2025-09-09
+DEF-00319,UNIT-42900,BATCH-2026-03007,5,Screen artifact,High,Material defect,2026-07-08
+DEF-00320,UNIT-02832,BATCH-2026-00196,6,Signal interference,High,Material defect,2026-05-21
+DEF-00321,UNIT-08835,BATCH-2024-00612,3,Speaker distortion,Low,Process variation,2024-10-18
+DEF-00322,UNIT-19720,BATCH-2026-01379,4,Battery not detected,Medium,Investigation pending,2026-04-02
+DEF-00323,UNIT-41903,BATCH-2024-02936,1,Power fluctuation,Medium,Supplier quality issue,2024-11-14
+DEF-00324,UNIT-23378,BATCH-2025-01637,8,Packaging damage,Medium,Investigation pending,2025-12-25
+DEF-00325,UNIT-34213,BATCH-2025-02391,8,Final assembly defect,Medium,Supplier quality issue,2025-11-02
+DEF-00326,UNIT-16320,BATCH-2024-01140,3,Low volume output,Medium,Handling damage,2024-11-13
+DEF-00327,UNIT-02548,BATCH-2026-00176,5,Color calibration issue,Medium,Environmental exposure,2026-08-25
+DEF-00328,UNIT-09865,BATCH-2025-00685,2,Camera focus failed,Medium,Material defect,2026-01-22
+DEF-00329,UNIT-16930,BATCH-2025-01185,4,Battery not detected,High,Process variation,2025-08-06
+DEF-00330,UNIT-16694,BATCH-2026-01168,2,Lens scratch,Critical,Environmental exposure,2026-02-03
+DEF-00331,UNIT-05977,BATCH-2025-00412,2,Camera focus failed,Low,Equipment calibration drift,2025-06-28
+DEF-00332,UNIT-06908,BATCH-2025-00477,8,Ingress issue,High,Packaging error,2025-08-29
+DEF-00333,UNIT-29880,BATCH-2026-02092,8,Final assembly defect,Critical,Investigation pending,2026-03-19
+DEF-00334,UNIT-13742,BATCH-2026-00963,6,Signal interference,High,Environmental exposure,2026-06-14
+DEF-00335,UNIT-27415,BATCH-2025-01917,6,Signal interference,Critical,Process variation,2025-03-03
+DEF-00336,UNIT-29870,BATCH-2024-02091,8,Final assembly defect,Medium,Process variation,2024-12-22
+DEF-00337,UNIT-14513,BATCH-2024-01015,6,Port instability,High,Supplier quality issue,2025-01-10
+DEF-00338,UNIT-04125,BATCH-2025-00284,4,Battery not detected,Low,Handling damage,2025-09-06
+DEF-00339,UNIT-37544,BATCH-2026-02624,7,Fan failure,Medium,Packaging error,2026-05-10
+DEF-00340,UNIT-19291,BATCH-2024-01349,8,Packaging damage,Low,Investigation pending,2025-01-10
+DEF-00341,UNIT-29577,BATCH-2024-02071,8,Final assembly defect,Low,Environmental exposure,2024-11-04
+DEF-00342,UNIT-03268,BATCH-2026-00226,3,Speaker distortion,Medium,Supplier quality issue,2026-09-12
+DEF-00343,UNIT-32955,BATCH-2025-02303,2,Lens scratch,Medium,Process variation,2025-07-30
+DEF-00344,UNIT-44025,BATCH-2026-03085,4,Cell imbalance,Low,Investigation pending,2026-08-29
+DEF-00345,UNIT-37956,BATCH-2025-02654,3,Audio clipping,High,Packaging error,2025-10-28
+DEF-00346,UNIT-22452,BATCH-2025-01572,7,Thermal runaway risk,High,Equipment calibration drift,2025-03-23
+DEF-00347,UNIT-25621,BATCH-2026-01790,5,Screen artifact,Medium,Investigation pending,2026-07-07
+DEF-00348,UNIT-12889,BATCH-2025-00901,1,Connector misalignment,Medium,Process variation,2025-03-19
+DEF-00349,UNIT-13974,BATCH-2025-00978,7,Thermal runaway risk,Medium,Process variation,2025-05-16
+DEF-00350,UNIT-05646,BATCH-2025-00389,6,Signal interference,High,Handling damage,2025-02-08
+DEF-00351,UNIT-02899,BATCH-2024-00201,6,Connectivity drop,Medium,Investigation pending,2024-10-12
+DEF-00352,UNIT-40860,BATCH-2025-02862,2,Lens scratch,Medium,Packaging error,2025-12-12
+DEF-00353,UNIT-04983,BATCH-2024-00343,1,Connector misalignment,Medium,Supplier quality issue,2024-11-18
+DEF-00354,UNIT-04949,BATCH-2025-00341,8,Final assembly defect,Low,Handling damage,2025-11-29
+DEF-00355,UNIT-48694,BATCH-2025-03405,1,Power fluctuation,Low,Supplier quality issue,2025-07-12
+DEF-00356,UNIT-20637,BATCH-2026-01442,3,Audio clipping,High,Environmental exposure,2026-03-14
+DEF-00357,UNIT-43127,BATCH-2025-03023,2,Camera focus failed,Medium,Equipment calibration drift,2025-09-29
+DEF-00358,UNIT-43170,BATCH-2026-03026,6,Signal interference,Low,Material defect,2026-03-11
+DEF-00359,UNIT-13182,BATCH-2025-00923,2,Lens scratch,Medium,Handling damage,2025-01-23
+DEF-00360,UNIT-40612,BATCH-2026-02844,8,Packaging damage,High,Investigation pending,2026-01-27
+DEF-00361,UNIT-18886,BATCH-2025-01320,8,Final assembly defect,Critical,Investigation pending,2025-03-15
+DEF-00362,UNIT-08416,BATCH-2026-00584,2,Lens scratch,Low,Supplier quality issue,2026-05-14
+DEF-00363,UNIT-42593,BATCH-2025-02986,3,Low volume output,Medium,Equipment calibration drift,2025-02-18
+DEF-00364,UNIT-04703,BATCH-2025-00324,7,Thermal runaway risk,High,Handling damage,2025-06-08
+DEF-00365,UNIT-44297,BATCH-2025-03103,3,Speaker distortion,High,Equipment calibration drift,2025-07-04
+DEF-00366,UNIT-02605,BATCH-2025-00179,5,Color calibration issue,Low,Environmental exposure,2025-07-19
+DEF-00367,UNIT-44414,BATCH-2024-03112,7,Overheating,Medium,Investigation pending,2024-12-27
+DEF-00368,UNIT-38600,BATCH-2025-02701,7,Overheating,Medium,Equipment calibration drift,2025-10-03
+DEF-00369,UNIT-24821,BATCH-2025-01736,8,Packaging damage,Medium,Handling damage,2025-01-22
+DEF-00370,UNIT-42580,BATCH-2024-02985,3,Low volume output,Medium,Process variation,2025-01-19
+DEF-00371,UNIT-04638,BATCH-2026-00320,6,Port instability,Low,Process variation,2026-06-18
+DEF-00372,UNIT-11704,BATCH-2025-00816,6,Signal interference,Low,Supplier quality issue,2025-01-31
+DEF-00373,UNIT-32458,BATCH-2026-02268,7,Overheating,High,Material defect,2026-04-19
+DEF-00374,UNIT-23863,BATCH-2026-01670,4,Cell imbalance,Medium,Process variation,2026-02-17
+DEF-00375,UNIT-03180,BATCH-2025-00219,6,Connectivity drop,High,Investigation pending,2025-07-10
+DEF-00376,UNIT-48773,BATCH-2025-03411,6,Port instability,Medium,Supplier quality issue,2026-01-14
+DEF-00377,UNIT-35896,BATCH-2026-02508,1,Short circuit,Critical,Process variation,2026-07-02
+DEF-00378,UNIT-29483,BATCH-2025-02064,4,Charging instability,Low,Material defect,2025-08-05
+DEF-00379,UNIT-05333,BATCH-2025-00366,8,Final assembly defect,High,Handling damage,2025-07-07
+DEF-00380,UNIT-41991,BATCH-2025-02941,8,Ingress issue,High,Equipment calibration drift,2025-02-18
+DEF-00381,UNIT-09346,BATCH-2025-00647,7,Thermal runaway risk,Medium,Supplier quality issue,2025-06-18
+DEF-00382,UNIT-22855,BATCH-2025-01600,6,Port instability,Medium,Investigation pending,2025-05-15
+DEF-00383,UNIT-31091,BATCH-2025-02176,1,Connector misalignment,Low,Handling damage,2025-05-02
+DEF-00384,UNIT-02551,BATCH-2026-00176,4,Cell imbalance,High,Packaging error,2026-08-30
+DEF-00385,UNIT-41546,BATCH-2026-02909,1,Connector misalignment,Medium,Packaging error,2026-06-11
+DEF-00386,UNIT-36671,BATCH-2026-02563,7,Thermal runaway risk,Medium,Material defect,2026-07-10
+DEF-00387,UNIT-12921,BATCH-2025-00904,3,Speaker distortion,Medium,Environmental exposure,2025-02-14
+DEF-00388,UNIT-06545,BATCH-2025-00451,8,Packaging damage,Low,Supplier quality issue,2025-10-12
+DEF-00389,UNIT-34273,BATCH-2025-02395,1,Power fluctuation,Medium,Environmental exposure,2025-03-03
+DEF-00390,UNIT-23541,BATCH-2026-01648,7,Overheating,Low,Investigation pending,2026-08-27
+DEF-00391,UNIT-08559,BATCH-2025-00593,8,Final assembly defect,Medium,Packaging error,2025-02-02
+DEF-00392,UNIT-11959,BATCH-2025-00834,1,Power fluctuation,Medium,Environmental exposure,2025-07-03
+DEF-00393,UNIT-09058,BATCH-2025-00628,7,Fan failure,High,Handling damage,2025-05-12
+DEF-00394,UNIT-19108,BATCH-2025-01335,5,Dead pixel,Low,Supplier quality issue,2025-09-21
+DEF-00395,UNIT-28560,BATCH-2026-01996,2,Sensor calibration drift,High,Supplier quality issue,2026-07-03
+DEF-00396,UNIT-17858,BATCH-2026-01248,8,Ingress issue,High,Supplier quality issue,2026-04-15
+DEF-00397,UNIT-36944,BATCH-2025-02582,1,Short circuit,Medium,Supplier quality issue,2025-09-17
+DEF-00398,UNIT-38360,BATCH-2026-02684,1,Power fluctuation,Medium,Equipment calibration drift,2026-07-22
+DEF-00399,UNIT-22143,BATCH-2025-01549,4,Cell imbalance,Low,Material defect,2025-09-06
+DEF-00400,UNIT-26693,BATCH-2026-01865,1,Power fluctuation,Medium,Investigation pending,2026-03-18
+DEF-00401,UNIT-04000,BATCH-2026-00275,4,Cell imbalance,Low,Handling damage,2026-07-12
+DEF-00402,UNIT-46344,BATCH-2025-03247,6,Connectivity drop,Medium,Environmental exposure,2025-10-01
+DEF-00403,UNIT-49005,BATCH-2025-03428,1,Power fluctuation,Medium,Equipment calibration drift,2025-02-20
+DEF-00404,UNIT-32600,BATCH-2026-02277,8,Packaging damage,Low,Equipment calibration drift,2026-08-17
+DEF-00405,UNIT-06541,BATCH-2025-00451,1,Short circuit,Medium,Handling damage,2025-10-12
+DEF-00406,UNIT-47053,BATCH-2025-03294,8,Packaging damage,High,Equipment calibration drift,2026-01-20
+DEF-00407,UNIT-37824,BATCH-2025-02645,2,Lens scratch,Low,Equipment calibration drift,2025-06-11
+DEF-00408,UNIT-07717,BATCH-2025-00536,7,Thermal runaway risk,Low,Supplier quality issue,2025-12-10
+DEF-00409,UNIT-30471,BATCH-2025-02132,7,Overheating,High,Equipment calibration drift,2025-08-25
+DEF-00410,UNIT-17244,BATCH-2026-01207,8,Ingress issue,Low,Equipment calibration drift,2026-03-19
+DEF-00411,UNIT-07898,BATCH-2024-00547,2,Sensor calibration drift,Critical,Environmental exposure,2024-10-14
+DEF-00412,UNIT-27407,BATCH-2025-01916,8,Final assembly defect,Low,Handling damage,2025-04-13
+DEF-00413,UNIT-07215,BATCH-2025-00500,5,Color calibration issue,Low,Investigation pending,2025-06-14
+DEF-00414,UNIT-02151,BATCH-2026-00149,4,Charging instability,High,Material defect,2026-05-08
+DEF-00415,UNIT-41576,BATCH-2025-02911,5,Color calibration issue,High,Equipment calibration drift,2025-11-22
+DEF-00416,UNIT-41944,BATCH-2025-02939,1,Connector misalignment,Critical,Environmental exposure,2025-09-25
+DEF-00417,UNIT-36579,BATCH-2025-02556,2,Lens scratch,High,Process variation,2025-02-23
+DEF-00418,UNIT-21324,BATCH-2026-01492,1,Short circuit,Medium,Supplier quality issue,2026-04-15
+DEF-00419,UNIT-05992,BATCH-2025-00413,4,Charging instability,Medium,Material defect,2025-07-05
+DEF-00420,UNIT-41980,BATCH-2025-02941,1,Power fluctuation,Low,Supplier quality issue,2025-02-18
+DEF-00421,UNIT-28151,BATCH-2024-01968,7,Fan failure,Medium,Packaging error,2024-11-25
+DEF-00422,UNIT-19335,BATCH-2026-01352,8,Final assembly defect,High,Equipment calibration drift,2026-02-22
+DEF-00423,UNIT-07346,BATCH-2025-00509,3,Low volume output,High,Environmental exposure,2025-08-15
+DEF-00424,UNIT-23943,BATCH-2026-01676,7,Fan failure,Medium,Environmental exposure,2026-08-24
+DEF-00425,UNIT-27856,BATCH-2026-01948,7,Thermal runaway risk,High,Process variation,2026-09-14
+DEF-00426,UNIT-14918,BATCH-2026-01045,3,Low volume output,Medium,Handling damage,2026-02-12
+DEF-00427,UNIT-14281,BATCH-2026-00999,3,Speaker distortion,Low,Supplier quality issue,2026-01-23
+DEF-00428,UNIT-45466,BATCH-2025-03186,3,Speaker distortion,Medium,Material defect,2025-08-14
+DEF-00429,UNIT-20873,BATCH-2026-01459,5,Color calibration issue,Critical,Supplier quality issue,2026-08-04
+DEF-00430,UNIT-03856,BATCH-2025-00266,5,Color calibration issue,Medium,Process variation,2025-04-08
+DEF-00431,UNIT-33876,BATCH-2025-02368,1,Short circuit,High,Material defect,2025-04-28
+DEF-00432,UNIT-39882,BATCH-2024-02791,1,Connector misalignment,Low,Equipment calibration drift,2024-10-22
+DEF-00433,UNIT-05283,BATCH-2025-00363,2,Lens scratch,Low,Process variation,2026-01-07
+DEF-00434,UNIT-04513,BATCH-2025-00311,2,Camera focus failed,Medium,Packaging error,2025-03-13
+DEF-00435,UNIT-39455,BATCH-2025-02761,5,Dead pixel,High,Handling damage,2025-07-20
+DEF-00436,UNIT-17702,BATCH-2026-01238,8,Packaging damage,High,Supplier quality issue,2026-07-23
+DEF-00437,UNIT-14031,BATCH-2025-00982,4,Battery not detected,Low,Equipment calibration drift,2025-04-11
+DEF-00438,UNIT-33456,BATCH-2024-02338,8,Final assembly defect,Medium,Supplier quality issue,2024-12-10
+DEF-00439,UNIT-14628,BATCH-2024-01024,4,Charging instability,Low,Supplier quality issue,2024-11-06
+DEF-00440,UNIT-48099,BATCH-2025-03367,3,Low volume output,Low,Handling damage,2025-09-27
+DEF-00441,UNIT-48873,BATCH-2026-03418,7,Overheating,Medium,Equipment calibration drift,2026-02-26
+DEF-00442,UNIT-01950,BATCH-2025-00135,4,Cell imbalance,Medium,Packaging error,2025-10-09
+DEF-00443,UNIT-22138,BATCH-2025-01549,6,Port instability,High,Process variation,2025-09-07
+DEF-00444,UNIT-48989,BATCH-2025-03427,6,Signal interference,High,Packaging error,2025-10-25
+DEF-00445,UNIT-11055,BATCH-2025-00770,6,Signal interference,Medium,Material defect,2025-11-30
+DEF-00446,UNIT-19122,BATCH-2025-01336,8,Final assembly defect,High,Investigation pending,2025-01-24
+DEF-00447,UNIT-16146,BATCH-2024-01128,6,Connectivity drop,Medium,Packaging error,2025-01-22
+DEF-00448,UNIT-23530,BATCH-2026-01647,6,Connectivity drop,Low,Equipment calibration drift,2026-04-18
+DEF-00449,UNIT-49310,BATCH-2025-03448,8,Final assembly defect,Low,Packaging error,2025-04-27
+DEF-00450,UNIT-42513,BATCH-2025-02980,5,Screen artifact,Low,Handling damage,2025-07-16
+DEF-00451,UNIT-47015,BATCH-2025-03292,7,Overheating,Low,Packaging error,2025-02-15
+DEF-00452,UNIT-22593,BATCH-2024-01581,7,Thermal runaway risk,Medium,Investigation pending,2024-10-13
+DEF-00453,UNIT-02098,BATCH-2026-00146,2,Lens scratch,Medium,Material defect,2026-09-17
+DEF-00454,UNIT-35246,BATCH-2024-02464,3,Low volume output,Medium,Equipment calibration drift,2024-11-17
+DEF-00455,UNIT-32695,BATCH-2025-02284,4,Charging instability,Medium,Investigation pending,2025-01-28
+DEF-00456,UNIT-08062,BATCH-2024-00558,4,Charging instability,High,Handling damage,2024-10-31
+DEF-00457,UNIT-14149,BATCH-2025-00990,8,Packaging damage,Low,Environmental exposure,2025-08-02
+DEF-00458,UNIT-23436,BATCH-2025-01641,2,Lens scratch,High,Environmental exposure,2025-01-27
+DEF-00459,UNIT-32867,BATCH-2026-02297,3,Audio clipping,High,Equipment calibration drift,2026-08-22
+DEF-00460,UNIT-41256,BATCH-2025-02889,8,Final assembly defect,High,Investigation pending,2025-06-18
+DEF-00461,UNIT-31783,BATCH-2025-02224,3,Low volume output,Medium,Material defect,2025-04-28
+DEF-00462,UNIT-12093,BATCH-2026-00844,8,Packaging damage,Medium,Process variation,2026-08-01
+DEF-00463,UNIT-36008,BATCH-2025-02517,8,Final assembly defect,High,Environmental exposure,2025-06-30
+DEF-00464,UNIT-04196,BATCH-2026-00289,4,Charging instability,High,Process variation,2026-07-07
+DEF-00465,UNIT-04268,BATCH-2025-00294,1,Power fluctuation,Medium,Environmental exposure,2025-02-13
+DEF-00466,UNIT-35932,BATCH-2026-02512,4,Cell imbalance,Medium,Packaging error,2026-07-12
+DEF-00467,UNIT-04570,BATCH-2026-00315,2,Camera focus failed,Medium,Handling damage,2026-04-07
+DEF-00468,UNIT-02196,BATCH-2026-00152,7,Thermal runaway risk,Low,Equipment calibration drift,2026-04-20
+DEF-00469,UNIT-01107,BATCH-2026-00078,5,Dead pixel,Critical,Environmental exposure,2026-05-06
+DEF-00470,UNIT-27566,BATCH-2026-01928,2,Camera focus failed,Critical,Supplier quality issue,2026-02-25
+DEF-00471,UNIT-34208,BATCH-2024-02390,8,Packaging damage,High,Equipment calibration drift,2024-10-18
+DEF-00472,UNIT-21682,BATCH-2025-01517,5,Screen artifact,High,Equipment calibration drift,2025-02-24
+DEF-00473,UNIT-30557,BATCH-2026-02137,3,Audio clipping,High,Investigation pending,2026-03-30
+DEF-00474,UNIT-08757,BATCH-2026-00607,4,Charging instability,High,Process variation,2026-04-05
+DEF-00475,UNIT-38813,BATCH-2024-02717,5,Screen artifact,Low,Process variation,2024-12-09
+DEF-00476,UNIT-30815,BATCH-2026-02156,6,Signal interference,High,Handling damage,2026-01-29
+DEF-00477,UNIT-19352,BATCH-2025-01353,2,Sensor calibration drift,Medium,Handling damage,2025-10-01
+DEF-00478,UNIT-39444,BATCH-2025-02761,6,Signal interference,Critical,Packaging error,2025-07-16
+DEF-00479,UNIT-18114,BATCH-2025-01266,6,Signal interference,Low,Process variation,2025-09-21
+DEF-00480,UNIT-25518,BATCH-2025-01783,4,Cell imbalance,Low,Material defect,2025-03-03
+DEF-00481,UNIT-08149,BATCH-2025-00565,7,Thermal runaway risk,Low,Material defect,2025-06-17
+DEF-00482,UNIT-09967,BATCH-2025-00693,1,Connector misalignment,High,Packaging error,2025-07-08
+DEF-00483,UNIT-13817,BATCH-2026-00968,1,Short circuit,Critical,Packaging error,2026-07-23
+DEF-00484,UNIT-39879,BATCH-2024-02791,2,Lens scratch,Low,Packaging error,2024-10-23
+DEF-00485,UNIT-09541,BATCH-2024-00662,8,Packaging damage,Medium,Supplier quality issue,2024-11-20
+DEF-00486,UNIT-46444,BATCH-2026-03254,5,Color calibration issue,High,Supplier quality issue,2026-05-30
+DEF-00487,UNIT-43737,BATCH-2026-03065,2,Camera focus failed,Medium,Equipment calibration drift,2026-09-07
+DEF-00488,UNIT-35277,BATCH-2025-02467,6,Port instability,Low,Handling damage,2025-03-18
+DEF-00489,UNIT-35275,BATCH-2025-02467,7,Overheating,High,Investigation pending,2025-03-14
+DEF-00490,UNIT-33221,BATCH-2026-02322,1,Short circuit,High,Material defect,2026-01-29
+DEF-00491,UNIT-04025,BATCH-2025-00277,3,Low volume output,High,Process variation,2025-09-29
+DEF-00492,UNIT-34989,BATCH-2024-02447,4,Cell imbalance,Low,Supplier quality issue,2024-10-23
+DEF-00493,UNIT-38459,BATCH-2026-02691,1,Connector misalignment,Low,Supplier quality issue,2026-01-19
+DEF-00494,UNIT-25274,BATCH-2025-01767,8,Final assembly defect,Low,Process variation,2025-12-24
+DEF-00495,UNIT-07420,BATCH-2024-00515,3,Audio clipping,Critical,Packaging error,2024-10-13
+DEF-00496,UNIT-15367,BATCH-2024-01075,7,Fan failure,Critical,Handling damage,2024-10-25
+DEF-00497,UNIT-05635,BATCH-2025-00389,5,Screen artifact,Critical,Supplier quality issue,2025-02-09
+DEF-00498,UNIT-32121,BATCH-2025-02246,7,Thermal runaway risk,Low,Investigation pending,2025-03-19
+DEF-00499,UNIT-37267,BATCH-2026-02605,6,Connectivity drop,Medium,Supplier quality issue,2026-07-01
+DEF-00500,UNIT-22930,BATCH-2025-01605,7,Thermal runaway risk,Medium,Material defect,2025-02-20
+DEF-00501,UNIT-42289,BATCH-2025-02963,1,Power fluctuation,High,Supplier quality issue,2025-02-02
+DEF-00502,UNIT-37196,BATCH-2025-02600,4,Cell imbalance,Medium,Material defect,2025-12-12
+DEF-00503,UNIT-43282,BATCH-2025-03033,2,Sensor calibration drift,Medium,Material defect,2026-01-09
+DEF-00504,UNIT-10098,BATCH-2024-00702,3,Low volume output,Medium,Supplier quality issue,2024-12-12
+DEF-00505,UNIT-04097,BATCH-2025-00282,5,Color calibration issue,High,Equipment calibration drift,2025-06-23
+DEF-00506,UNIT-24056,BATCH-2026-01683,6,Port instability,Medium,Environmental exposure,2026-07-21
+DEF-00507,UNIT-30970,BATCH-2024-02167,5,Color calibration issue,Low,Supplier quality issue,2024-12-29
+DEF-00508,UNIT-25453,BATCH-2025-01779,8,Packaging damage,Low,Handling damage,2026-01-20
+DEF-00509,UNIT-30366,BATCH-2026-02126,4,Battery not detected,Medium,Process variation,2026-07-29
+DEF-00510,UNIT-40992,BATCH-2024-02871,1,Connector misalignment,High,Supplier quality issue,2024-10-14
+DEF-00511,UNIT-41340,BATCH-2024-02895,5,Dead pixel,Medium,Material defect,2024-11-20
+DEF-00512,UNIT-40228,BATCH-2026-02816,2,Sensor calibration drift,Critical,Handling damage,2026-07-21
+DEF-00513,UNIT-47081,BATCH-2024-03297,2,Sensor calibration drift,Medium,Packaging error,2024-11-20
+DEF-00514,UNIT-17497,BATCH-2026-01224,6,Signal interference,High,Process variation,2026-04-19
+DEF-00515,UNIT-43418,BATCH-2025-03043,8,Ingress issue,Critical,Equipment calibration drift,2025-04-23
+DEF-00516,UNIT-09829,BATCH-2026-00682,3,Speaker distortion,Low,Environmental exposure,2026-02-16
+DEF-00517,UNIT-39267,BATCH-2025-02748,6,Port instability,High,Material defect,2025-06-27
+DEF-00518,UNIT-41700,BATCH-2025-02921,2,Camera focus failed,High,Handling damage,2025-12-25
+DEF-00519,UNIT-18360,BATCH-2026-01283,6,Port instability,Low,Material defect,2026-06-22
+DEF-00520,UNIT-28077,BATCH-2025-01963,3,Speaker distortion,Low,Supplier quality issue,2025-10-26
+DEF-00521,UNIT-24470,BATCH-2025-01712,8,Ingress issue,Medium,Supplier quality issue,2025-02-05
+DEF-00522,UNIT-40023,BATCH-2024-02801,5,Screen artifact,Low,Packaging error,2025-01-12
+DEF-00523,UNIT-39730,BATCH-2024-02780,6,Connectivity drop,Medium,Environmental exposure,2024-10-26
+DEF-00524,UNIT-48330,BATCH-2025-03382,8,Ingress issue,Low,Packaging error,2025-11-18
+DEF-00525,UNIT-06449,BATCH-2026-00446,3,Speaker distortion,Medium,Supplier quality issue,2026-07-04
+DEF-00526,UNIT-10292,BATCH-2026-00717,4,Cell imbalance,Medium,Packaging error,2026-08-31
+DEF-00527,UNIT-04734,BATCH-2024-00326,6,Port instability,High,Material defect,2024-11-06
+DEF-00528,UNIT-36521,BATCH-2026-02553,7,Fan failure,Low,Equipment calibration drift,2026-05-19
+DEF-00529,UNIT-43174,BATCH-2026-03026,3,Low volume output,Low,Environmental exposure,2026-03-15
+DEF-00530,UNIT-22718,BATCH-2026-01591,1,Power fluctuation,Low,Packaging error,2026-07-24
+DEF-00531,UNIT-21381,BATCH-2026-01496,7,Fan failure,High,Investigation pending,2026-05-16
+DEF-00532,UNIT-39710,BATCH-2026-02779,4,Battery not detected,Medium,Packaging error,2026-06-26
+DEF-00533,UNIT-13804,BATCH-2026-00967,4,Cell imbalance,High,Handling damage,2026-03-16
+DEF-00534,UNIT-23912,BATCH-2026-01674,6,Port instability,Low,Material defect,2026-01-14
+DEF-00535,UNIT-36606,BATCH-2026-02558,1,Short circuit,Medium,Investigation pending,2026-08-27
+DEF-00536,UNIT-47461,BATCH-2026-03322,3,Low volume output,Low,Handling damage,2026-07-07
+DEF-00537,UNIT-38089,BATCH-2026-02664,7,Overheating,Medium,Equipment calibration drift,2026-07-18
+DEF-00538,UNIT-08058,BATCH-2024-00558,1,Power fluctuation,Critical,Material defect,2024-10-30
+DEF-00539,UNIT-08113,BATCH-2025-00562,8,Packaging damage,Low,Investigation pending,2025-03-14
+DEF-00540,UNIT-37313,BATCH-2025-02608,8,Packaging damage,High,Process variation,2025-11-23
+DEF-00541,UNIT-31832,BATCH-2025-02227,3,Low volume output,High,Handling damage,2025-03-10
+DEF-00542,UNIT-06813,BATCH-2024-00471,7,Thermal runaway risk,Medium,Equipment calibration drift,2025-01-14
+DEF-00543,UNIT-46682,BATCH-2025-03270,3,Speaker distortion,Medium,Material defect,2025-05-28
+DEF-00544,UNIT-44010,BATCH-2026-03084,1,Connector misalignment,High,Process variation,2026-05-12
+DEF-00545,UNIT-32855,BATCH-2026-02296,1,Short circuit,Medium,Packaging error,2026-07-20
+DEF-00546,UNIT-11599,BATCH-2025-00809,6,Port instability,Medium,Material defect,2025-02-11
+DEF-00547,UNIT-22634,BATCH-2026-01585,4,Charging instability,Low,Environmental exposure,2026-07-26
+DEF-00548,UNIT-12512,BATCH-2026-00874,7,Thermal runaway risk,Low,Material defect,2026-02-05
+DEF-00549,UNIT-24141,BATCH-2026-01690,1,Short circuit,Low,Packaging error,2026-06-02
+DEF-00550,UNIT-48779,BATCH-2026-03412,4,Charging instability,High,Environmental exposure,2026-03-03
+DEF-00551,UNIT-48665,BATCH-2025-03403,7,Overheating,Critical,Supplier quality issue,2026-01-11
+DEF-00552,UNIT-38878,BATCH-2026-02722,3,Low volume output,Medium,Material defect,2026-08-24
+DEF-00553,UNIT-37507,BATCH-2025-02621,1,Short circuit,Low,Handling damage,2025-10-28
+DEF-00554,UNIT-20513,BATCH-2025-01433,2,Camera focus failed,Critical,Packaging error,2025-12-28
+DEF-00555,UNIT-09499,BATCH-2025-00659,2,Camera focus failed,Low,Packaging error,2025-04-02
+DEF-00556,UNIT-42924,BATCH-2024-03008,8,Packaging damage,Low,Material defect,2024-12-09
+DEF-00557,UNIT-27609,BATCH-2025-01930,7,Thermal runaway risk,Low,Material defect,2025-03-14
+DEF-00558,UNIT-40975,BATCH-2025-02870,7,Thermal runaway risk,Critical,Process variation,2025-08-02
+DEF-00559,UNIT-39889,BATCH-2026-02792,4,Cell imbalance,Low,Material defect,2026-05-16
+DEF-00560,UNIT-22075,BATCH-2026-01545,7,Fan failure,Medium,Handling damage,2026-04-09
+DEF-00561,UNIT-33970,BATCH-2026-02374,6,Connectivity drop,Low,Material defect,2026-03-04
+DEF-00562,UNIT-48189,BATCH-2026-03372,3,Low volume output,Low,Investigation pending,2026-05-01
+DEF-00563,UNIT-34271,BATCH-2025-02395,6,Signal interference,High,Equipment calibration drift,2025-03-04
+DEF-00564,UNIT-14109,BATCH-2026-00987,1,Short circuit,Low,Investigation pending,2026-06-19
+DEF-00565,UNIT-26424,BATCH-2025-01847,6,Connectivity drop,High,Supplier quality issue,2025-04-21
+DEF-00566,UNIT-40210,BATCH-2025-02815,7,Overheating,High,Environmental exposure,2025-09-29
+DEF-00567,UNIT-07659,BATCH-2025-00532,1,Power fluctuation,High,Equipment calibration drift,2025-11-06
+DEF-00568,UNIT-40433,BATCH-2025-02831,3,Audio clipping,Medium,Supplier quality issue,2025-10-24
+DEF-00569,UNIT-04376,BATCH-2026-00301,7,Overheating,High,Equipment calibration drift,2026-01-29
+DEF-00570,UNIT-19478,BATCH-2025-01361,3,Speaker distortion,High,Handling damage,2025-07-20
+DEF-00571,UNIT-02170,BATCH-2025-00150,4,Charging instability,High,Investigation pending,2025-04-24
+DEF-00572,UNIT-32344,BATCH-2024-02260,7,Fan failure,Medium,Equipment calibration drift,2024-10-31
+DEF-00573,UNIT-03071,BATCH-2025-00212,4,Charging instability,Medium,Process variation,2025-07-04
+DEF-00574,UNIT-44575,BATCH-2026-03122,2,Camera focus failed,Medium,Supplier quality issue,2026-02-28
+DEF-00575,UNIT-04611,BATCH-2024-00318,7,Overheating,Low,Equipment calibration drift,2024-10-12
+DEF-00576,UNIT-49290,BATCH-2026-03447,5,Screen artifact,High,Environmental exposure,2026-02-08
+DEF-00577,UNIT-24953,BATCH-2024-01746,5,Screen artifact,High,Equipment calibration drift,2025-01-08
+DEF-00578,UNIT-16929,BATCH-2025-01184,6,Signal interference,Medium,Material defect,2025-10-19
+DEF-00579,UNIT-28496,BATCH-2026-01992,5,Dead pixel,Low,Supplier quality issue,2026-03-07
+DEF-00580,UNIT-46101,BATCH-2026-03231,3,Speaker distortion,High,Environmental exposure,2026-05-13
+DEF-00581,UNIT-23345,BATCH-2025-01635,3,Speaker distortion,Low,Packaging error,2025-04-07
+DEF-00582,UNIT-38217,BATCH-2026-02673,8,Packaging damage,Medium,Investigation pending,2026-03-09
+DEF-00583,UNIT-34135,BATCH-2026-02385,7,Thermal runaway risk,Low,Handling damage,2026-07-30
+DEF-00584,UNIT-11609,BATCH-2025-00810,3,Low volume output,Medium,Packaging error,2025-11-07
+DEF-00585,UNIT-33327,BATCH-2025-02329,3,Audio clipping,Medium,Supplier quality issue,2025-06-19
+DEF-00586,UNIT-43039,BATCH-2026-03017,4,Battery not detected,Medium,Equipment calibration drift,2026-09-24
+DEF-00587,UNIT-41225,BATCH-2025-02887,3,Audio clipping,Medium,Packaging error,2025-09-07
+DEF-00588,UNIT-45578,BATCH-2025-03194,6,Signal interference,High,Packaging error,2025-05-30
+DEF-00589,UNIT-08086,BATCH-2026-00560,8,Final assembly defect,Low,Environmental exposure,2026-03-25
+DEF-00590,UNIT-18867,BATCH-2025-01319,4,Cell imbalance,Low,Environmental exposure,2025-03-20
+DEF-00591,UNIT-02961,BATCH-2026-00205,4,Battery not detected,Medium,Handling damage,2026-06-05
+DEF-00592,UNIT-36782,BATCH-2025-02570,1,Connector misalignment,Low,Material defect,2025-04-21
+DEF-00593,UNIT-26428,BATCH-2025-01847,1,Power fluctuation,Medium,Material defect,2025-04-24
+DEF-00594,UNIT-37838,BATCH-2025-02645,1,Connector misalignment,Medium,Material defect,2025-06-19
+DEF-00595,UNIT-04390,BATCH-2024-00302,8,Final assembly defect,Low,Material defect,2024-11-26
+DEF-00596,UNIT-30925,BATCH-2025-02163,6,Connectivity drop,Critical,Supplier quality issue,2025-08-07
+DEF-00597,UNIT-43801,BATCH-2026-03070,4,Charging instability,High,Process variation,2026-09-06
+DEF-00598,UNIT-31221,BATCH-2025-02185,1,Connector misalignment,Low,Supplier quality issue,2025-03-24
+DEF-00599,UNIT-02055,BATCH-2026-00143,5,Dead pixel,High,Investigation pending,2026-04-26
+DEF-00600,UNIT-05660,BATCH-2025-00390,7,Thermal runaway risk,High,Process variation,2025-12-08
+DEF-00601,UNIT-14064,BATCH-2026-00984,7,Overheating,Low,Environmental exposure,2026-08-20
+DEF-00602,UNIT-31567,BATCH-2024-02209,1,Power fluctuation,Medium,Packaging error,2024-12-08
+DEF-00603,UNIT-26892,BATCH-2025-01880,4,Cell imbalance,Medium,Equipment calibration drift,2025-10-26
+DEF-00604,UNIT-14965,BATCH-2025-01048,2,Lens scratch,Low,Supplier quality issue,2025-08-07
+DEF-00605,UNIT-04771,BATCH-2026-00329,1,Power fluctuation,Medium,Investigation pending,2026-10-01
+DEF-00606,UNIT-47417,BATCH-2026-03319,4,Battery not detected,Medium,Supplier quality issue,2026-03-17
+DEF-00607,UNIT-26051,BATCH-2025-01821,3,Speaker distortion,High,Material defect,2025-12-07
+DEF-00608,UNIT-35039,BATCH-2026-02450,5,Screen artifact,Low,Investigation pending,2026-07-15
+DEF-00609,UNIT-40379,BATCH-2026-02828,1,Short circuit,High,Material defect,2026-05-14
+DEF-00610,UNIT-03404,BATCH-2026-00235,1,Power fluctuation,Low,Process variation,2026-04-02
+DEF-00611,UNIT-37986,BATCH-2025-02656,6,Signal interference,Medium,Process variation,2025-07-03
+DEF-00612,UNIT-16180,BATCH-2025-01131,6,Signal interference,Medium,Equipment calibration drift,2025-07-29
+DEF-00613,UNIT-16245,BATCH-2025-01135,3,Speaker distortion,High,Process variation,2025-02-10
+DEF-00614,UNIT-25103,BATCH-2025-01756,4,Battery not detected,High,Investigation pending,2025-07-31
+DEF-00615,UNIT-18598,BATCH-2026-01300,3,Audio clipping,Low,Investigation pending,2026-09-21
+DEF-00616,UNIT-08362,BATCH-2025-00580,1,Short circuit,Medium,Environmental exposure,2025-09-23
+DEF-00617,UNIT-48286,BATCH-2024-03379,5,Color calibration issue,Low,Environmental exposure,2024-11-23
+DEF-00618,UNIT-40127,BATCH-2025-02808,3,Speaker distortion,Medium,Investigation pending,2025-10-14
+DEF-00619,UNIT-32147,BATCH-2025-02248,3,Audio clipping,High,Process variation,2025-03-11
+DEF-00620,UNIT-18200,BATCH-2025-01271,8,Ingress issue,Medium,Material defect,2025-11-23
+DEF-00621,UNIT-41820,BATCH-2026-02929,5,Color calibration issue,Medium,Process variation,2026-09-20
+DEF-00622,UNIT-39785,BATCH-2026-02784,8,Ingress issue,High,Material defect,2026-07-16
+DEF-00623,UNIT-26883,BATCH-2025-01879,3,Low volume output,Medium,Equipment calibration drift,2026-01-04
+DEF-00624,UNIT-45804,BATCH-2026-03210,2,Sensor calibration drift,High,Equipment calibration drift,2026-08-18
+DEF-00625,UNIT-44422,BATCH-2024-03112,7,Thermal runaway risk,Low,Investigation pending,2024-12-26
+DEF-00626,UNIT-29974,BATCH-2025-02098,8,Packaging damage,Medium,Investigation pending,2025-07-08
+DEF-00627,UNIT-34601,BATCH-2026-02419,1,Power fluctuation,Medium,Supplier quality issue,2026-02-19
+DEF-00628,UNIT-29258,BATCH-2026-02048,8,Final assembly defect,Medium,Equipment calibration drift,2026-04-11
+DEF-00629,UNIT-04539,BATCH-2026-00313,1,Connector misalignment,Medium,Supplier quality issue,2026-03-06
+DEF-00630,UNIT-22905,BATCH-2025-01604,3,Speaker distortion,High,Handling damage,2025-05-20
+DEF-00631,UNIT-47675,BATCH-2026-03337,3,Speaker distortion,High,Process variation,2026-07-14
+DEF-00632,UNIT-33198,BATCH-2025-02321,4,Cell imbalance,Low,Equipment calibration drift,2025-01-27
+DEF-00633,UNIT-33339,BATCH-2025-02330,2,Lens scratch,Low,Environmental exposure,2025-11-26
+DEF-00634,UNIT-06180,BATCH-2026-00425,5,Color calibration issue,Low,Handling damage,2026-02-15
+DEF-00635,UNIT-47742,BATCH-2025-03343,1,Connector misalignment,High,Material defect,2025-10-17
+DEF-00636,UNIT-27928,BATCH-2025-01953,4,Cell imbalance,High,Handling damage,2025-11-22
+DEF-00637,UNIT-37371,BATCH-2026-02613,5,Color calibration issue,High,Supplier quality issue,2026-08-16
+DEF-00638,UNIT-19656,BATCH-2025-01374,8,Final assembly defect,Medium,Handling damage,2025-09-27
+DEF-00639,UNIT-43123,BATCH-2025-03023,3,Low volume output,Low,Handling damage,2025-09-27
+DEF-00640,UNIT-22960,BATCH-2026-01608,3,Low volume output,Medium,Investigation pending,2026-04-05
+DEF-00641,UNIT-26902,BATCH-2025-01881,6,Signal interference,Medium,Packaging error,2025-07-10
+DEF-00642,UNIT-27397,BATCH-2025-01916,1,Connector misalignment,Medium,Equipment calibration drift,2025-04-14
+DEF-00643,UNIT-07866,BATCH-2025-00545,2,Camera focus failed,Low,Supplier quality issue,2025-10-14
+DEF-00644,UNIT-10522,BATCH-2025-00734,3,Speaker distortion,Medium,Equipment calibration drift,2025-12-11
+DEF-00645,UNIT-23933,BATCH-2026-01675,5,Screen artifact,Medium,Packaging error,2026-08-07
+DEF-00646,UNIT-25279,BATCH-2025-01767,5,Dead pixel,Medium,Handling damage,2025-12-29
+DEF-00647,UNIT-22130,BATCH-2025-01549,6,Port instability,High,Environmental exposure,2025-09-07
+DEF-00648,UNIT-42248,BATCH-2025-02960,5,Screen artifact,Medium,Handling damage,2025-05-23
+DEF-00649,UNIT-42495,BATCH-2024-02979,7,Thermal runaway risk,Medium,Process variation,2024-11-12
+DEF-00650,UNIT-42041,BATCH-2025-02945,2,Sensor calibration drift,Medium,Process variation,2025-11-22
+DEF-00651,UNIT-09574,BATCH-2026-00664,1,Connector misalignment,High,Handling damage,2026-08-08
+DEF-00652,UNIT-34604,BATCH-2026-02419,7,Fan failure,High,Investigation pending,2026-02-21
+DEF-00653,UNIT-04798,BATCH-2025-00330,3,Speaker distortion,Medium,Packaging error,2025-09-22
+DEF-00654,UNIT-43607,BATCH-2025-03056,3,Low volume output,Medium,Environmental exposure,2025-07-23
+DEF-00655,UNIT-32699,BATCH-2025-02284,1,Short circuit,Low,Environmental exposure,2025-01-30
+DEF-00656,UNIT-06266,BATCH-2025-00432,1,Connector misalignment,Medium,Equipment calibration drift,2025-03-04
+DEF-00657,UNIT-03935,BATCH-2026-00271,4,Charging instability,High,Packaging error,2026-08-02
+DEF-00658,UNIT-15184,BATCH-2025-01063,6,Connectivity drop,Medium,Process variation,2025-08-28
+DEF-00659,UNIT-26884,BATCH-2025-01879,8,Ingress issue,High,Material defect,2026-01-04
+DEF-00660,UNIT-18337,BATCH-2026-01282,2,Camera focus failed,Low,Environmental exposure,2026-07-18
+DEF-00661,UNIT-27515,BATCH-2024-01924,3,Low volume output,Low,Packaging error,2024-12-30
+DEF-00662,UNIT-24201,BATCH-2026-01694,2,Sensor calibration drift,Low,Environmental exposure,2026-03-27
+DEF-00663,UNIT-01176,BATCH-2024-00082,2,Lens scratch,High,Environmental exposure,2024-10-10
+DEF-00664,UNIT-19469,BATCH-2025-01361,4,Cell imbalance,Medium,Environmental exposure,2025-07-23
+DEF-00665,UNIT-36010,BATCH-2025-02517,4,Battery not detected,Medium,Packaging error,2025-06-29
+DEF-00666,UNIT-09789,BATCH-2026-00679,2,Sensor calibration drift,Critical,Equipment calibration drift,2026-04-28
+DEF-00667,UNIT-04212,BATCH-2025-00290,6,Signal interference,Medium,Packaging error,2025-11-23
+DEF-00668,UNIT-34327,BATCH-2026-02399,3,Speaker distortion,Medium,Material defect,2026-04-10
+DEF-00669,UNIT-42376,BATCH-2024-02970,3,Speaker distortion,High,Handling damage,2025-01-25
+DEF-00670,UNIT-13849,BATCH-2025-00970,4,Battery not detected,Low,Material defect,2025-08-20
+DEF-00671,UNIT-16479,BATCH-2025-01153,5,Dead pixel,Critical,Material defect,2025-11-26
+DEF-00672,UNIT-27377,BATCH-2025-01914,6,Port instability,Critical,Material defect,2025-03-26
+DEF-00673,UNIT-17311,BATCH-2026-01212,8,Ingress issue,Low,Investigation pending,2026-08-14
+DEF-00674,UNIT-29966,BATCH-2025-02098,4,Cell imbalance,Low,Process variation,2025-07-02
+DEF-00675,UNIT-07431,BATCH-2026-00516,6,Port instability,Medium,Equipment calibration drift,2026-02-06
+DEF-00676,UNIT-01370,BATCH-2026-00097,7,Thermal runaway risk,Medium,Process variation,2026-06-21
+DEF-00677,UNIT-40186,BATCH-2025-02813,1,Power fluctuation,Medium,Material defect,2025-05-17
+DEF-00678,UNIT-13787,BATCH-2025-00966,1,Short circuit,Medium,Equipment calibration drift,2025-10-30
+DEF-00679,UNIT-40236,BATCH-2026-02816,6,Connectivity drop,Low,Packaging error,2026-07-23
+DEF-00680,UNIT-19851,BATCH-2026-01388,1,Connector misalignment,Low,Investigation pending,2026-05-06
+DEF-00681,UNIT-42093,BATCH-2025-02949,4,Battery not detected,High,Handling damage,2026-01-02
+DEF-00682,UNIT-13234,BATCH-2024-00926,3,Speaker distortion,Critical,Handling damage,2024-10-17
+DEF-00683,UNIT-10543,BATCH-2025-00735,4,Cell imbalance,Low,Packaging error,2025-05-08
+DEF-00684,UNIT-11858,BATCH-2025-00828,5,Screen artifact,Critical,Supplier quality issue,2025-04-08
+DEF-00685,UNIT-46084,BATCH-2025-03229,3,Low volume output,Low,Environmental exposure,2025-06-17
+DEF-00686,UNIT-25007,BATCH-2026-01750,7,Fan failure,Critical,Investigation pending,2026-08-28
+DEF-00687,UNIT-14594,BATCH-2025-01021,8,Ingress issue,High,Packaging error,2025-12-26
+DEF-00688,UNIT-19196,BATCH-2025-01342,7,Thermal runaway risk,Low,Packaging error,2025-09-17
+DEF-00689,UNIT-39421,BATCH-2025-02759,1,Power fluctuation,Medium,Process variation,2025-07-09
+DEF-00690,UNIT-24181,BATCH-2026-01692,4,Battery not detected,Medium,Environmental exposure,2026-04-20
+DEF-00691,UNIT-49100,BATCH-2025-03434,4,Charging instability,High,Supplier quality issue,2025-04-25
+DEF-00692,UNIT-05047,BATCH-2024-00347,1,Short circuit,Low,Environmental exposure,2024-10-09
+DEF-00693,UNIT-19887,BATCH-2025-01390,2,Sensor calibration drift,High,Material defect,2025-08-29
+DEF-00694,UNIT-31352,BATCH-2025-02194,6,Connectivity drop,Low,Material defect,2025-12-31
+DEF-00695,UNIT-12824,BATCH-2025-00897,4,Charging instability,Medium,Material defect,2025-11-07
+DEF-00696,UNIT-26098,BATCH-2024-01824,4,Cell imbalance,Critical,Supplier quality issue,2024-11-26
+DEF-00697,UNIT-33129,BATCH-2025-02315,4,Cell imbalance,Low,Handling damage,2025-07-13
+DEF-00698,UNIT-35995,BATCH-2025-02516,3,Audio clipping,Low,Process variation,2025-11-18
+DEF-00699,UNIT-10251,BATCH-2026-00714,1,Connector misalignment,Low,Material defect,2026-08-10
+DEF-00700,UNIT-13547,BATCH-2026-00948,2,Camera focus failed,Low,Packaging error,2026-03-24
+DEF-00701,UNIT-35083,BATCH-2025-02453,1,Connector misalignment,High,Investigation pending,2025-11-05
+DEF-00702,UNIT-45240,BATCH-2026-03169,1,Connector misalignment,High,Environmental exposure,2026-07-07
+DEF-00703,UNIT-07798,BATCH-2025-00541,6,Connectivity drop,Critical,Supplier quality issue,2025-09-03
+DEF-00704,UNIT-08820,BATCH-2025-00611,5,Color calibration issue,High,Environmental exposure,2025-07-08
+DEF-00705,UNIT-01478,BATCH-2025-00104,4,Charging instability,Medium,Supplier quality issue,2025-11-09
+DEF-00706,UNIT-29869,BATCH-2024-02091,3,Speaker distortion,Low,Equipment calibration drift,2024-12-21
+DEF-00707,UNIT-11043,BATCH-2025-00769,2,Camera focus failed,High,Environmental exposure,2025-12-18
+DEF-00708,UNIT-09088,BATCH-2025-00630,1,Power fluctuation,Critical,Handling damage,2025-01-19
+DEF-00709,UNIT-23991,BATCH-2026-01679,1,Connector misalignment,Low,Material defect,2026-06-18
+DEF-00710,UNIT-14878,BATCH-2025-01042,1,Connector misalignment,High,Material defect,2025-07-22
+DEF-00711,UNIT-39162,BATCH-2026-02741,2,Camera focus failed,Low,Equipment calibration drift,2026-06-08
+DEF-00712,UNIT-28106,BATCH-2025-01965,3,Audio clipping,Medium,Process variation,2025-07-09
+DEF-00713,UNIT-24711,BATCH-2026-01729,7,Thermal runaway risk,Medium,Environmental exposure,2026-05-21
+DEF-00714,UNIT-19177,BATCH-2025-01341,1,Connector misalignment,Critical,Environmental exposure,2025-11-09
+DEF-00715,UNIT-26157,BATCH-2025-01828,3,Speaker distortion,Medium,Process variation,2025-10-04
+DEF-00716,UNIT-10726,BATCH-2026-00748,3,Speaker distortion,Medium,Supplier quality issue,2026-07-17
+DEF-00717,UNIT-24468,BATCH-2025-01712,7,Fan failure,Medium,Handling damage,2025-02-07
+DEF-00718,UNIT-33680,BATCH-2025-02354,1,Power fluctuation,Low,Supplier quality issue,2025-05-20
+DEF-00719,UNIT-37808,BATCH-2026-02644,5,Color calibration issue,High,Supplier quality issue,2026-03-07
+DEF-00720,UNIT-08377,BATCH-2026-00581,2,Lens scratch,Low,Material defect,2026-05-21
+DEF-00721,UNIT-30320,BATCH-2026-02123,6,Signal interference,Medium,Handling damage,2026-08-29
+DEF-00722,UNIT-32837,BATCH-2025-02295,3,Speaker distortion,High,Packaging error,2025-10-31
+DEF-00723,UNIT-42224,BATCH-2025-02958,8,Ingress issue,Low,Packaging error,2025-06-16
+DEF-00724,UNIT-44423,BATCH-2024-03112,7,Overheating,Medium,Packaging error,2024-12-26
+DEF-00725,UNIT-07727,BATCH-2025-00536,4,Cell imbalance,High,Packaging error,2025-12-13
+DEF-00726,UNIT-27044,BATCH-2026-01891,1,Power fluctuation,Medium,Equipment calibration drift,2026-05-05
+DEF-00727,UNIT-33429,BATCH-2025-02337,1,Short circuit,Low,Packaging error,2025-11-25
+DEF-00728,UNIT-31317,BATCH-2026-02192,2,Lens scratch,Medium,Packaging error,2026-05-17
+DEF-00729,UNIT-03131,BATCH-2026-00216,1,Short circuit,High,Material defect,2026-08-29
+DEF-00730,UNIT-01192,BATCH-2024-00084,3,Audio clipping,Medium,Handling damage,2024-10-30
+DEF-00731,UNIT-10479,BATCH-2025-00731,5,Screen artifact,Critical,Equipment calibration drift,2025-12-25
+DEF-00732,UNIT-09264,BATCH-2024-00642,8,Packaging damage,Low,Material defect,2024-10-25
+DEF-00733,UNIT-26888,BATCH-2025-01880,7,Overheating,Medium,Investigation pending,2025-10-29
+DEF-00734,UNIT-01087,BATCH-2025-00077,5,Color calibration issue,Medium,Handling damage,2025-06-14
+DEF-00735,UNIT-37438,BATCH-2025-02617,8,Packaging damage,Low,Equipment calibration drift,2025-11-10
+DEF-00736,UNIT-28759,BATCH-2026-02011,4,Cell imbalance,High,Material defect,2026-08-13
+DEF-00737,UNIT-21580,BATCH-2025-01510,2,Camera focus failed,Low,Material defect,2025-12-11
+DEF-00738,UNIT-01069,BATCH-2024-00075,5,Screen artifact,High,Packaging error,2025-01-07
+DEF-00739,UNIT-12331,BATCH-2025-00861,3,Speaker distortion,Medium,Environmental exposure,2025-02-14
+DEF-00740,UNIT-40191,BATCH-2025-02813,8,Final assembly defect,Medium,Process variation,2025-05-11
+DEF-00741,UNIT-23298,BATCH-2025-01631,3,Low volume output,High,Packaging error,2025-02-23
+DEF-00742,UNIT-38565,BATCH-2025-02698,2,Sensor calibration drift,Medium,Material defect,2025-03-15
+DEF-00743,UNIT-33937,BATCH-2026-02372,8,Final assembly defect,Medium,Supplier quality issue,2026-09-09
+DEF-00744,UNIT-10747,BATCH-2024-00750,8,Packaging damage,Medium,Handling damage,2024-11-19
+DEF-00745,UNIT-30773,BATCH-2026-02153,2,Camera focus failed,Low,Investigation pending,2026-08-30
+DEF-00746,UNIT-46546,BATCH-2026-03261,1,Power fluctuation,Medium,Process variation,2026-09-11
+DEF-00747,UNIT-20954,BATCH-2026-01464,4,Charging instability,High,Process variation,2026-03-07
+DEF-00748,UNIT-00589,BATCH-2025-00041,7,Overheating,High,Packaging error,2025-03-24
+DEF-00749,UNIT-15573,BATCH-2024-01089,3,Low volume output,Low,Environmental exposure,2025-01-09
+DEF-00750,UNIT-33109,BATCH-2025-02314,8,Ingress issue,High,Material defect,2025-06-16
+DEF-00751,UNIT-05025,BATCH-2026-00345,6,Port instability,High,Process variation,2026-02-19
+DEF-00752,UNIT-35467,BATCH-2026-02479,2,Camera focus failed,High,Equipment calibration drift,2026-09-06
+DEF-00753,UNIT-43001,BATCH-2026-03014,2,Lens scratch,High,Handling damage,2026-02-23
+DEF-00754,UNIT-45605,BATCH-2026-03196,7,Fan failure,High,Packaging error,2026-06-15
+DEF-00755,UNIT-06514,BATCH-2025-00450,8,Packaging damage,Medium,Supplier quality issue,2026-01-01
+DEF-00756,UNIT-49922,BATCH-2025-03491,6,Port instability,High,Process variation,2025-03-14
+DEF-00757,UNIT-40288,BATCH-2026-02821,5,Color calibration issue,Critical,Equipment calibration drift,2026-03-26
+DEF-00758,UNIT-41449,BATCH-2025-02903,8,Ingress issue,Low,Process variation,2025-03-15
+DEF-00759,UNIT-48358,BATCH-2026-03384,7,Fan failure,Medium,Equipment calibration drift,2026-09-19
+DEF-00760,UNIT-28875,BATCH-2025-02019,8,Final assembly defect,Medium,Equipment calibration drift,2025-10-29
+DEF-00761,UNIT-21503,BATCH-2026-01504,1,Power fluctuation,Medium,Investigation pending,2026-06-07
+DEF-00762,UNIT-45875,BATCH-2026-03215,7,Fan failure,Medium,Equipment calibration drift,2026-02-02
+DEF-00763,UNIT-05432,BATCH-2026-00373,5,Screen artifact,Medium,Investigation pending,2026-08-30
+DEF-00764,UNIT-48566,BATCH-2025-03397,6,Signal interference,Low,Supplier quality issue,2025-08-18
+DEF-00765,UNIT-04430,BATCH-2026-00305,2,Lens scratch,Critical,Material defect,2026-04-12
+DEF-00766,UNIT-39330,BATCH-2025-02753,2,Sensor calibration drift,Medium,Supplier quality issue,2025-04-05
+DEF-00767,UNIT-10105,BATCH-2026-00703,4,Charging instability,Low,Handling damage,2026-04-06
+DEF-00768,UNIT-45021,BATCH-2026-03154,6,Port instability,Medium,Handling damage,2026-09-10
+DEF-00769,UNIT-22177,BATCH-2025-01551,6,Connectivity drop,Medium,Material defect,2025-05-18
+DEF-00770,UNIT-22619,BATCH-2026-01583,2,Camera focus failed,Low,Environmental exposure,2026-01-30
+DEF-00771,UNIT-44584,BATCH-2026-03122,6,Port instability,Low,Equipment calibration drift,2026-02-26
+DEF-00772,UNIT-06243,BATCH-2024-00431,5,Color calibration issue,Low,Environmental exposure,2024-10-15
+DEF-00773,UNIT-45790,BATCH-2025-03209,8,Final assembly defect,Medium,Handling damage,2025-11-30
+DEF-00774,UNIT-19666,BATCH-2026-01375,7,Fan failure,Medium,Supplier quality issue,2026-03-27
+DEF-00775,UNIT-06216,BATCH-2025-00428,6,Connectivity drop,Low,Environmental exposure,2025-06-16
+DEF-00776,UNIT-25463,BATCH-2025-01779,2,Camera focus failed,Low,Handling damage,2026-01-16
+DEF-00777,UNIT-20093,BATCH-2025-01405,7,Thermal runaway risk,Medium,Material defect,2025-05-27
+DEF-00778,UNIT-20099,BATCH-2025-01405,7,Overheating,Low,Equipment calibration drift,2025-05-26
+DEF-00779,UNIT-29035,BATCH-2026-02031,4,Charging instability,High,Environmental exposure,2026-05-10
+DEF-00780,UNIT-18485,BATCH-2026-01293,1,Connector misalignment,Medium,Process variation,2026-10-06
+DEF-00781,UNIT-11294,BATCH-2025-00787,6,Connectivity drop,High,Handling damage,2025-08-04
+DEF-00782,UNIT-30156,BATCH-2025-02111,7,Thermal runaway risk,Medium,Environmental exposure,2025-02-09
+DEF-00783,UNIT-18804,BATCH-2025-01315,1,Short circuit,High,Investigation pending,2025-04-02
+DEF-00784,UNIT-24296,BATCH-2025-01700,3,Speaker distortion,High,Environmental exposure,2025-02-02
+DEF-00785,UNIT-40589,BATCH-2025-02842,2,Camera focus failed,Medium,Environmental exposure,2025-04-26
+DEF-00786,UNIT-15914,BATCH-2026-01113,3,Speaker distortion,Critical,Process variation,2026-08-14
+DEF-00787,UNIT-14625,BATCH-2025-01023,6,Signal interference,Low,Supplier quality issue,2025-08-08
+DEF-00788,UNIT-21558,BATCH-2025-01508,3,Audio clipping,Medium,Packaging error,2025-10-06
+DEF-00789,UNIT-26711,BATCH-2026-01866,1,Connector misalignment,High,Investigation pending,2026-07-24
+DEF-00790,UNIT-29525,BATCH-2025-02067,6,Port instability,High,Process variation,2025-11-13
+DEF-00791,UNIT-09420,BATCH-2026-00653,8,Ingress issue,Low,Environmental exposure,2026-10-07
+DEF-00792,UNIT-32148,BATCH-2025-02248,2,Lens scratch,Critical,Material defect,2025-03-06
+DEF-00793,UNIT-24376,BATCH-2025-01706,4,Charging instability,Medium,Handling damage,2025-11-13
+DEF-00794,UNIT-39211,BATCH-2026-02744,1,Short circuit,High,Material defect,2026-03-22
+DEF-00795,UNIT-17719,BATCH-2025-01239,7,Thermal runaway risk,Medium,Material defect,2025-01-22
+DEF-00796,UNIT-13794,BATCH-2025-00966,1,Power fluctuation,Medium,Material defect,2025-10-30
+DEF-00797,UNIT-44452,BATCH-2025-03114,6,Signal interference,Low,Packaging error,2025-12-25
+DEF-00798,UNIT-32047,BATCH-2025-02240,2,Camera focus failed,Medium,Handling damage,2025-12-24
+DEF-00799,UNIT-13816,BATCH-2026-00968,8,Ingress issue,Critical,Supplier quality issue,2026-07-25
+DEF-00800,UNIT-46118,BATCH-2025-03232,2,Camera focus failed,Critical,Equipment calibration drift,2025-06-30
+DEF-00801,UNIT-14299,BATCH-2026-01000,3,Speaker distortion,Low,Environmental exposure,2026-08-06
+DEF-00802,UNIT-43192,BATCH-2025-03027,5,Color calibration issue,Medium,Material defect,2025-02-21
+DEF-00803,UNIT-12273,BATCH-2025-00857,2,Camera focus failed,Medium,Material defect,2025-04-04
+DEF-00804,UNIT-14065,BATCH-2026-00984,8,Final assembly defect,High,Environmental exposure,2026-08-17
+DEF-00805,UNIT-36574,BATCH-2025-02556,2,Camera focus failed,Low,Equipment calibration drift,2025-02-23
+DEF-00806,UNIT-47087,BATCH-2024-03297,3,Low volume output,Low,Material defect,2024-11-20
+DEF-00807,UNIT-02335,BATCH-2025-00162,2,Lens scratch,Medium,Handling damage,2025-02-25
+DEF-00808,UNIT-39488,BATCH-2025-02764,6,Port instability,Low,Material defect,2025-02-17
+DEF-00809,UNIT-37244,BATCH-2025-02604,2,Sensor calibration drift,Medium,Process variation,2025-03-12
+DEF-00810,UNIT-10530,BATCH-2025-00734,4,Battery not detected,Low,Packaging error,2025-12-13
+DEF-00811,UNIT-07214,BATCH-2025-00500,3,Audio clipping,Low,Environmental exposure,2025-06-11
+DEF-00812,UNIT-40345,BATCH-2026-02825,4,Charging instability,Medium,Equipment calibration drift,2026-03-01
+DEF-00813,UNIT-15955,BATCH-2026-01115,7,Thermal runaway risk,Low,Supplier quality issue,2026-03-19
+DEF-00814,UNIT-31306,BATCH-2024-02191,3,Audio clipping,Medium,Process variation,2025-01-17
+DEF-00815,UNIT-08554,BATCH-2025-00593,5,Color calibration issue,Medium,Handling damage,2025-01-29
+DEF-00816,UNIT-15694,BATCH-2025-01098,4,Charging instability,Critical,Packaging error,2025-06-09
+DEF-00817,UNIT-05763,BATCH-2026-00398,5,Color calibration issue,High,Packaging error,2026-08-23
+DEF-00818,UNIT-06075,BATCH-2025-00418,2,Lens scratch,High,Material defect,2025-09-02
+DEF-00819,UNIT-37237,BATCH-2026-02603,2,Sensor calibration drift,Low,Handling damage,2026-02-25
+DEF-00820,UNIT-13750,BATCH-2025-00964,8,Packaging damage,Medium,Material defect,2025-03-19
+DEF-00821,UNIT-39044,BATCH-2025-02734,6,Port instability,High,Investigation pending,2025-05-14
+DEF-00822,UNIT-05446,BATCH-2025-00374,4,Charging instability,Medium,Packaging error,2025-07-15
+DEF-00823,UNIT-26090,BATCH-2024-01824,4,Charging instability,Medium,Equipment calibration drift,2024-11-28
+DEF-00824,UNIT-29961,BATCH-2026-02097,1,Short circuit,High,Supplier quality issue,2026-07-31
+DEF-00825,UNIT-17962,BATCH-2026-01255,7,Fan failure,High,Investigation pending,2026-07-12
+DEF-00826,UNIT-47957,BATCH-2026-03357,8,Packaging damage,Medium,Environmental exposure,2026-04-10
+DEF-00827,UNIT-33243,BATCH-2025-02324,8,Ingress issue,Low,Investigation pending,2025-08-22
+DEF-00828,UNIT-26618,BATCH-2026-01860,7,Overheating,High,Environmental exposure,2026-08-28
+DEF-00829,UNIT-04107,BATCH-2025-00282,1,Short circuit,High,Process variation,2025-06-30
+DEF-00830,UNIT-25854,BATCH-2026-01806,7,Thermal runaway risk,Medium,Handling damage,2026-03-29
+DEF-00831,UNIT-15120,BATCH-2025-01059,7,Fan failure,Medium,Process variation,2025-12-28
+DEF-00832,UNIT-07888,BATCH-2024-00547,4,Charging instability,Medium,Handling damage,2024-10-15
+DEF-00833,UNIT-27497,BATCH-2025-01923,7,Fan failure,High,Environmental exposure,2025-11-22
+DEF-00834,UNIT-23540,BATCH-2026-01648,3,Speaker distortion,Medium,Handling damage,2026-08-31
+DEF-00835,UNIT-47355,BATCH-2024-03315,2,Lens scratch,High,Equipment calibration drift,2024-10-10
+DEF-00836,UNIT-01602,BATCH-2025-00112,6,Signal interference,High,Investigation pending,2025-12-22
+DEF-00837,UNIT-48170,BATCH-2024-03371,6,Connectivity drop,High,Supplier quality issue,2024-12-25
+DEF-00838,UNIT-37479,BATCH-2025-02620,2,Lens scratch,Medium,Packaging error,2025-08-13
+DEF-00839,UNIT-10548,BATCH-2025-00735,1,Power fluctuation,High,Packaging error,2025-05-05
+DEF-00840,UNIT-04868,BATCH-2025-00335,1,Short circuit,High,Process variation,2025-06-23
+DEF-00841,UNIT-30382,BATCH-2025-02127,1,Short circuit,Low,Supplier quality issue,2025-01-24
+DEF-00842,UNIT-05311,BATCH-2024-00365,6,Signal interference,Low,Supplier quality issue,2024-11-01
+DEF-00843,UNIT-32014,BATCH-2025-02239,5,Screen artifact,Low,Supplier quality issue,2025-07-14
+DEF-00844,UNIT-40787,BATCH-2025-02857,4,Battery not detected,Medium,Material defect,2025-11-20
+DEF-00845,UNIT-25248,BATCH-2026-01765,5,Dead pixel,High,Environmental exposure,2026-09-06
+DEF-00846,UNIT-07352,BATCH-2025-00509,2,Lens scratch,Medium,Process variation,2025-08-21
+DEF-00847,UNIT-08216,BATCH-2024-00569,1,Connector misalignment,Medium,Material defect,2025-01-09
+DEF-00848,UNIT-20951,BATCH-2026-01464,3,Speaker distortion,Medium,Process variation,2026-03-07
+DEF-00849,UNIT-31956,BATCH-2025-02235,2,Sensor calibration drift,Medium,Handling damage,2025-10-14
+DEF-00850,UNIT-38832,BATCH-2025-02718,4,Battery not detected,Medium,Investigation pending,2025-07-16
+DEF-00851,UNIT-46791,BATCH-2024-03277,2,Sensor calibration drift,High,Investigation pending,2024-11-25
+DEF-00852,UNIT-40714,BATCH-2026-02852,3,Audio clipping,Medium,Equipment calibration drift,2026-02-10
+DEF-00853,UNIT-48294,BATCH-2025-03380,5,Color calibration issue,Medium,Packaging error,2025-10-17
+DEF-00854,UNIT-11142,BATCH-2025-00777,2,Lens scratch,High,Packaging error,2025-08-29
+DEF-00855,UNIT-33828,BATCH-2025-02364,5,Screen artifact,High,Process variation,2025-10-30
+DEF-00856,UNIT-33683,BATCH-2025-02354,7,Overheating,High,Process variation,2025-05-19
+DEF-00857,UNIT-20967,BATCH-2025-01465,5,Color calibration issue,Medium,Investigation pending,2025-03-30
+DEF-00858,UNIT-14334,BATCH-2026-01003,4,Cell imbalance,Critical,Supplier quality issue,2026-02-04
+DEF-00859,UNIT-06081,BATCH-2024-00419,3,Low volume output,Medium,Handling damage,2024-12-30
+DEF-00860,UNIT-48192,BATCH-2025-03373,2,Sensor calibration drift,Medium,Packaging error,2025-03-24
+DEF-00861,UNIT-49808,BATCH-2025-03482,2,Camera focus failed,High,Equipment calibration drift,2025-03-26
+DEF-00862,UNIT-48527,BATCH-2025-03395,5,Screen artifact,High,Handling damage,2025-07-14
+DEF-00863,UNIT-33783,BATCH-2025-02361,3,Low volume output,Medium,Handling damage,2025-10-06
+DEF-00864,UNIT-05040,BATCH-2025-00346,7,Overheating,Low,Environmental exposure,2025-02-03
+DEF-00865,UNIT-31183,BATCH-2025-02183,7,Thermal runaway risk,High,Equipment calibration drift,2025-10-19
+DEF-00866,UNIT-38140,BATCH-2025-02667,6,Port instability,Medium,Environmental exposure,2025-10-07
+DEF-00867,UNIT-32746,BATCH-2025-02288,3,Audio clipping,Low,Handling damage,2025-03-21
+DEF-00868,UNIT-28263,BATCH-2025-01976,4,Cell imbalance,Critical,Equipment calibration drift,2025-06-03
+DEF-00869,UNIT-00371,BATCH-2025-00026,7,Fan failure,Low,Environmental exposure,2025-07-06
+DEF-00870,UNIT-10494,BATCH-2025-00731,8,Ingress issue,Medium,Supplier quality issue,2025-12-30
+DEF-00871,UNIT-10957,BATCH-2025-00764,2,Camera focus failed,Medium,Investigation pending,2025-03-30
+DEF-00872,UNIT-27832,BATCH-2026-01946,5,Color calibration issue,Low,Handling damage,2026-09-23
+DEF-00873,UNIT-44559,BATCH-2025-03121,4,Battery not detected,Low,Investigation pending,2025-07-05
+DEF-00874,UNIT-18400,BATCH-2024-01287,1,Connector misalignment,High,Packaging error,2024-12-21
+DEF-00875,UNIT-27434,BATCH-2025-01918,2,Camera focus failed,Low,Equipment calibration drift,2025-12-02
+DEF-00876,UNIT-35392,BATCH-2026-02474,7,Fan failure,High,Material defect,2026-10-09
+DEF-00877,UNIT-30068,BATCH-2025-02105,3,Audio clipping,Low,Process variation,2025-12-27
+DEF-00878,UNIT-45370,BATCH-2026-03179,3,Speaker distortion,Low,Material defect,2026-03-26
+DEF-00879,UNIT-39568,BATCH-2025-02770,2,Sensor calibration drift,High,Packaging error,2025-12-24
+DEF-00880,UNIT-30537,BATCH-2025-02136,8,Final assembly defect,Medium,Process variation,2025-02-24
+DEF-00881,UNIT-31821,BATCH-2026-02226,8,Final assembly defect,Medium,Handling damage,2026-05-04
+DEF-00882,UNIT-23117,BATCH-2026-01618,1,Short circuit,High,Investigation pending,2026-07-28
+DEF-00883,UNIT-31697,BATCH-2025-02218,7,Fan failure,Medium,Investigation pending,2025-06-11
+DEF-00884,UNIT-36857,BATCH-2025-02575,2,Sensor calibration drift,Medium,Material defect,2025-09-22
+DEF-00885,UNIT-11612,BATCH-2025-00810,7,Fan failure,Medium,Supplier quality issue,2025-11-08
+DEF-00886,UNIT-24560,BATCH-2025-01719,4,Charging instability,Low,Packaging error,2025-06-06
+DEF-00887,UNIT-45993,BATCH-2026-03223,6,Port instability,Medium,Supplier quality issue,2026-06-08
+DEF-00888,UNIT-31226,BATCH-2026-02186,2,Sensor calibration drift,Low,Investigation pending,2026-05-14
+DEF-00889,UNIT-22268,BATCH-2025-01558,1,Power fluctuation,High,Environmental exposure,2025-11-06
+DEF-00890,UNIT-04100,BATCH-2025-00282,2,Camera focus failed,High,Environmental exposure,2025-06-26
+DEF-00891,UNIT-10346,BATCH-2025-00721,5,Screen artifact,Critical,Material defect,2025-08-10
+DEF-00892,UNIT-42378,BATCH-2024-02970,8,Ingress issue,Medium,Packaging error,2025-01-26
+DEF-00893,UNIT-26810,BATCH-2025-01874,6,Connectivity drop,Low,Supplier quality issue,2025-09-10
+DEF-00894,UNIT-05506,BATCH-2026-00378,2,Sensor calibration drift,Medium,Investigation pending,2026-06-06
+DEF-00895,UNIT-01135,BATCH-2024-00080,1,Short circuit,Medium,Investigation pending,2025-01-14
+DEF-00896,UNIT-35089,BATCH-2025-02454,3,Speaker distortion,High,Investigation pending,2025-07-25
+DEF-00897,UNIT-37951,BATCH-2025-02654,5,Color calibration issue,High,Equipment calibration drift,2025-10-31
+DEF-00898,UNIT-28503,BATCH-2026-01993,7,Thermal runaway risk,Medium,Equipment calibration drift,2026-07-22
+DEF-00899,UNIT-48184,BATCH-2026-03372,8,Final assembly defect,Low,Equipment calibration drift,2026-04-29
+DEF-00900,UNIT-32693,BATCH-2025-02284,7,Fan failure,Low,Packaging error,2025-01-26
+DEF-00901,UNIT-25093,BATCH-2025-01756,1,Short circuit,Low,Supplier quality issue,2025-08-05
+DEF-00902,UNIT-06131,BATCH-2025-00422,7,Overheating,High,Handling damage,2026-01-12
+DEF-00903,UNIT-14563,BATCH-2025-01019,4,Battery not detected,Low,Supplier quality issue,2025-02-09
+DEF-00904,UNIT-48491,BATCH-2024-03393,6,Port instability,Low,Investigation pending,2025-01-08
+DEF-00905,UNIT-40321,BATCH-2024-02823,5,Dead pixel,Low,Equipment calibration drift,2024-10-12
+DEF-00906,UNIT-26988,BATCH-2024-01887,1,Short circuit,Low,Process variation,2024-11-25
+DEF-00907,UNIT-40473,BATCH-2026-02834,3,Speaker distortion,Medium,Packaging error,2026-09-18
+DEF-00908,UNIT-11002,BATCH-2025-00767,1,Power fluctuation,Medium,Supplier quality issue,2026-01-09
+DEF-00909,UNIT-43253,BATCH-2025-03031,2,Sensor calibration drift,Medium,Equipment calibration drift,2025-01-21
+DEF-00910,UNIT-33232,BATCH-2026-02323,7,Thermal runaway risk,High,Supplier quality issue,2026-08-21
+DEF-00911,UNIT-35810,BATCH-2026-02502,1,Power fluctuation,High,Environmental exposure,2026-03-01
+DEF-00912,UNIT-22630,BATCH-2026-01584,5,Dead pixel,Medium,Handling damage,2026-02-15
+DEF-00913,UNIT-40115,BATCH-2025-02807,7,Overheating,High,Process variation,2025-12-21
+DEF-00914,UNIT-24879,BATCH-2024-01740,5,Dead pixel,Low,Process variation,2024-11-01
+DEF-00915,UNIT-19446,BATCH-2025-01359,1,Power fluctuation,Medium,Material defect,2025-12-18
+DEF-00916,UNIT-25214,BATCH-2024-01763,2,Sensor calibration drift,Medium,Supplier quality issue,2024-12-04
+DEF-00917,UNIT-03618,BATCH-2025-00250,4,Battery not detected,Medium,Supplier quality issue,2025-06-29
+DEF-00918,UNIT-14059,BATCH-2026-00984,6,Port instability,Medium,Equipment calibration drift,2026-08-25
+DEF-00919,UNIT-03285,BATCH-2025-00227,8,Final assembly defect,Medium,Investigation pending,2025-04-10
+DEF-00920,UNIT-01699,BATCH-2026-00119,1,Connector misalignment,Critical,Equipment calibration drift,2026-06-07
+DEF-00921,UNIT-16549,BATCH-2025-01159,7,Thermal runaway risk,High,Investigation pending,2025-11-13
+DEF-00922,UNIT-32713,BATCH-2025-02285,3,Audio clipping,High,Equipment calibration drift,2025-06-16
+DEF-00923,UNIT-47581,BATCH-2025-03331,4,Charging instability,Critical,Handling damage,2025-11-29
+DEF-00924,UNIT-06251,BATCH-2024-00431,1,Connector misalignment,Medium,Packaging error,2024-10-09
+DEF-00925,UNIT-11436,BATCH-2026-00798,2,Sensor calibration drift,High,Investigation pending,2026-02-07
+DEF-00926,UNIT-31624,BATCH-2025-02213,5,Dead pixel,Low,Environmental exposure,2025-03-13
+DEF-00927,UNIT-02447,BATCH-2026-00170,2,Camera focus failed,Medium,Packaging error,2026-06-14
+DEF-00928,UNIT-06066,BATCH-2025-00418,2,Camera focus failed,High,Investigation pending,2025-08-30
+DEF-00929,UNIT-00152,BATCH-2026-00011,6,Connectivity drop,Medium,Environmental exposure,2026-09-04
+DEF-00930,UNIT-25302,BATCH-2026-01769,6,Signal interference,Critical,Handling damage,2026-06-19
+DEF-00931,UNIT-15595,BATCH-2025-01091,6,Port instability,Medium,Packaging error,2025-04-14
+DEF-00932,UNIT-28348,BATCH-2025-01982,2,Sensor calibration drift,Low,Process variation,2025-09-07
+DEF-00933,UNIT-27158,BATCH-2026-01899,3,Speaker distortion,High,Supplier quality issue,2026-01-19
+DEF-00934,UNIT-05545,BATCH-2024-00381,8,Ingress issue,Medium,Environmental exposure,2024-11-09
+DEF-00935,UNIT-14185,BATCH-2025-00992,4,Battery not detected,Medium,Investigation pending,2025-07-29
+DEF-00936,UNIT-10786,BATCH-2026-00752,3,Audio clipping,Medium,Environmental exposure,2026-06-26
+DEF-00937,UNIT-06851,BATCH-2024-00473,1,Connector misalignment,High,Process variation,2024-12-06
+DEF-00938,UNIT-40339,BATCH-2026-02825,8,Final assembly defect,Medium,Investigation pending,2026-02-26
+DEF-00939,UNIT-41612,BATCH-2026-02914,8,Final assembly defect,High,Supplier quality issue,2026-05-04
+DEF-00940,UNIT-46305,BATCH-2024-03244,7,Thermal runaway risk,Medium,Equipment calibration drift,2024-10-21
+DEF-00941,UNIT-19958,BATCH-2026-01395,4,Cell imbalance,Low,Supplier quality issue,2026-01-27
+DEF-00942,UNIT-18144,BATCH-2025-01268,5,Dead pixel,Medium,Environmental exposure,2025-07-13
+DEF-00943,UNIT-03321,BATCH-2025-00229,7,Thermal runaway risk,Critical,Investigation pending,2025-03-28
+DEF-00944,UNIT-07453,BATCH-2025-00518,3,Speaker distortion,Medium,Investigation pending,2025-11-16
+DEF-00945,UNIT-08513,BATCH-2025-00590,6,Connectivity drop,Low,Process variation,2025-12-20
+DEF-00946,UNIT-03467,BATCH-2025-00239,5,Color calibration issue,Low,Investigation pending,2025-07-28
+DEF-00947,UNIT-21949,BATCH-2025-01536,7,Overheating,Low,Material defect,2025-06-18
+DEF-00948,UNIT-44108,BATCH-2026-03090,7,Fan failure,Low,Process variation,2026-07-15
+DEF-00949,UNIT-03477,BATCH-2025-00239,1,Short circuit,Medium,Process variation,2025-07-31
+DEF-00950,UNIT-37460,BATCH-2026-02619,6,Port instability,High,Investigation pending,2026-04-19
+DEF-00951,UNIT-22525,BATCH-2025-01576,5,Screen artifact,Medium,Material defect,2025-04-20
+DEF-00952,UNIT-40075,BATCH-2025-02804,3,Low volume output,High,Equipment calibration drift,2025-12-07
+DEF-00953,UNIT-36080,BATCH-2025-02522,2,Sensor calibration drift,High,Supplier quality issue,2025-05-06
+DEF-00954,UNIT-14142,BATCH-2025-00990,8,Final assembly defect,High,Handling damage,2025-08-10
+DEF-00955,UNIT-34013,BATCH-2025-02377,5,Screen artifact,High,Process variation,2025-06-20
+DEF-00956,UNIT-23301,BATCH-2025-01632,2,Sensor calibration drift,High,Environmental exposure,2026-01-18
+DEF-00957,UNIT-37186,BATCH-2025-02600,3,Low volume output,High,Process variation,2025-12-07
+DEF-00958,UNIT-21097,BATCH-2025-01475,2,Sensor calibration drift,Medium,Material defect,2025-11-21
+DEF-00959,UNIT-29822,BATCH-2025-02088,6,Signal interference,Low,Handling damage,2025-12-10
+DEF-00960,UNIT-08483,BATCH-2026-00588,3,Low volume output,High,Material defect,2026-04-11
+DEF-00961,UNIT-33450,BATCH-2024-02338,5,Dead pixel,Critical,Equipment calibration drift,2024-12-12
+DEF-00962,UNIT-32439,BATCH-2025-02267,4,Cell imbalance,High,Process variation,2025-03-06
+DEF-00963,UNIT-11812,BATCH-2024-00825,3,Low volume output,Low,Environmental exposure,2024-12-16
+DEF-00964,UNIT-44930,BATCH-2024-03147,8,Final assembly defect,Low,Equipment calibration drift,2024-11-21
+DEF-00965,UNIT-18430,BATCH-2025-01289,7,Overheating,Medium,Supplier quality issue,2025-09-02
+DEF-00966,UNIT-28006,BATCH-2026-01958,6,Signal interference,Low,Equipment calibration drift,2026-04-20
+DEF-00967,UNIT-13188,BATCH-2025-00923,3,Audio clipping,High,Material defect,2025-01-21
+DEF-00968,UNIT-36222,BATCH-2025-02532,5,Screen artifact,Medium,Equipment calibration drift,2025-03-20
+DEF-00969,UNIT-34344,BATCH-2025-02400,1,Connector misalignment,Low,Material defect,2025-06-11
+DEF-00970,UNIT-27138,BATCH-2024-01898,7,Overheating,Low,Supplier quality issue,2024-11-26
+DEF-00971,UNIT-02299,BATCH-2025-00160,4,Battery not detected,High,Supplier quality issue,2025-09-03
+DEF-00972,UNIT-00005,BATCH-2026-00001,4,Cell imbalance,Low,Packaging error,2026-02-23
+DEF-00973,UNIT-21834,BATCH-2026-01527,1,Connector misalignment,Low,Environmental exposure,2026-08-30
+DEF-00974,UNIT-05086,BATCH-2025-00350,8,Ingress issue,Medium,Material defect,2025-04-09
+DEF-00975,UNIT-43133,BATCH-2025-03023,7,Overheating,High,Supplier quality issue,2025-09-28
+DEF-00976,UNIT-29946,BATCH-2024-02096,5,Color calibration issue,Medium,Packaging error,2024-11-05
+DEF-00977,UNIT-38322,BATCH-2026-02681,4,Cell imbalance,Low,Material defect,2026-06-22
+DEF-00978,UNIT-31384,BATCH-2026-02197,5,Dead pixel,Low,Material defect,2026-02-11
+DEF-00979,UNIT-46691,BATCH-2025-03270,5,Dead pixel,High,Packaging error,2025-05-24
+DEF-00980,UNIT-39696,BATCH-2026-02778,7,Overheating,Critical,Packaging error,2026-08-23
+DEF-00981,UNIT-15394,BATCH-2024-01077,1,Connector misalignment,Medium,Supplier quality issue,2024-11-06
+DEF-00982,UNIT-25268,BATCH-2025-01767,3,Audio clipping,Medium,Investigation pending,2025-12-24
+DEF-00983,UNIT-18928,BATCH-2025-01323,1,Connector misalignment,Medium,Supplier quality issue,2025-11-01
+DEF-00984,UNIT-19721,BATCH-2026-01379,3,Speaker distortion,Low,Investigation pending,2026-04-05
+DEF-00985,UNIT-38002,BATCH-2026-02657,8,Final assembly defect,Low,Process variation,2026-05-10
+DEF-00986,UNIT-34965,BATCH-2024-02445,3,Low volume output,Medium,Packaging error,2024-10-27
+DEF-00987,UNIT-12324,BATCH-2026-00860,3,Low volume output,Medium,Investigation pending,2026-05-11
+DEF-00988,UNIT-06543,BATCH-2025-00451,7,Fan failure,Medium,Investigation pending,2025-10-11
+DEF-00989,UNIT-30566,BATCH-2025-02138,5,Color calibration issue,Medium,Environmental exposure,2025-06-04
+DEF-00990,UNIT-41652,BATCH-2025-02917,1,Short circuit,Low,Supplier quality issue,2025-03-29
+DEF-00991,UNIT-09629,BATCH-2026-00668,5,Dead pixel,Low,Supplier quality issue,2026-06-21
+DEF-00992,UNIT-49906,BATCH-2025-03490,2,Sensor calibration drift,Medium,Packaging error,2025-02-05
+DEF-00993,UNIT-25316,BATCH-2025-01770,6,Signal interference,Medium,Equipment calibration drift,2025-08-23
+DEF-00994,UNIT-05522,BATCH-2025-00379,3,Speaker distortion,Medium,Handling damage,2025-03-02
+DEF-00995,UNIT-43436,BATCH-2025-03044,1,Power fluctuation,Medium,Handling damage,2025-02-02
+DEF-00996,UNIT-03886,BATCH-2026-00268,7,Fan failure,Critical,Process variation,2026-05-15
+DEF-00997,UNIT-39849,BATCH-2025-02789,6,Signal interference,Critical,Supplier quality issue,2025-03-07
+DEF-00998,UNIT-16260,BATCH-2025-01136,6,Signal interference,High,Supplier quality issue,2025-08-13
+DEF-00999,UNIT-36709,BATCH-2026-02565,4,Battery not detected,High,Material defect,2026-01-16
+DEF-01000,UNIT-02305,BATCH-2025-00160,3,Low volume output,High,Packaging error,2025-08-30
+DEF-01001,UNIT-05133,BATCH-2025-00353,1,Power fluctuation,High,Material defect,2025-11-25
+DEF-01002,UNIT-17312,BATCH-2026-01212,6,Port instability,Critical,Packaging error,2026-08-16
+DEF-01003,UNIT-22338,BATCH-2025-01563,4,Cell imbalance,High,Process variation,2025-11-27
+DEF-01004,UNIT-10020,BATCH-2025-00697,1,Power fluctuation,Medium,Investigation pending,2025-09-24
+DEF-01005,UNIT-29256,BATCH-2026-02048,2,Sensor calibration drift,High,Equipment calibration drift,2026-04-18
+DEF-01006,UNIT-34016,BATCH-2025-02377,1,Short circuit,Medium,Handling damage,2025-06-22
+DEF-01007,UNIT-43106,BATCH-2025-03021,5,Screen artifact,High,Supplier quality issue,2025-07-13
+DEF-01008,UNIT-32752,BATCH-2025-02288,1,Power fluctuation,High,Supplier quality issue,2025-03-18
+DEF-01009,UNIT-41420,BATCH-2025-02901,5,Color calibration issue,Medium,Process variation,2025-10-08
+DEF-01010,UNIT-05022,BATCH-2026-00345,7,Thermal runaway risk,Low,Environmental exposure,2026-02-23
+DEF-01011,UNIT-44751,BATCH-2024-03134,7,Thermal runaway risk,High,Packaging error,2024-11-12
+DEF-01012,UNIT-04678,BATCH-2025-00323,8,Ingress issue,Low,Packaging error,2025-02-06
+DEF-01013,UNIT-06493,BATCH-2024-00448,2,Camera focus failed,Medium,Process variation,2024-12-27
+DEF-01014,UNIT-29162,BATCH-2024-02041,1,Power fluctuation,Low,Handling damage,2025-01-01
+DEF-01015,UNIT-38113,BATCH-2025-02666,8,Final assembly defect,Low,Environmental exposure,2025-12-27
+DEF-01016,UNIT-25969,BATCH-2025-01816,1,Short circuit,High,Investigation pending,2025-06-12
+DEF-01017,UNIT-10365,BATCH-2025-00722,4,Battery not detected,Medium,Investigation pending,2025-06-30
+DEF-01018,UNIT-17069,BATCH-2026-01194,7,Thermal runaway risk,Medium,Investigation pending,2026-10-06
+DEF-01019,UNIT-42400,BATCH-2026-02972,6,Connectivity drop,High,Process variation,2026-06-06
+DEF-01020,UNIT-37769,BATCH-2025-02641,1,Short circuit,Low,Investigation pending,2025-11-26
+DEF-01021,UNIT-10724,BATCH-2026-00748,5,Screen artifact,Medium,Handling damage,2026-07-13
+DEF-01022,UNIT-28310,BATCH-2026-01979,5,Dead pixel,Low,Material defect,2026-03-17
+DEF-01023,UNIT-34905,BATCH-2026-02441,8,Packaging damage,High,Packaging error,2026-05-08
+DEF-01024,UNIT-27610,BATCH-2024-01931,8,Ingress issue,Critical,Investigation pending,2024-10-23
+DEF-01025,UNIT-05204,BATCH-2025-00357,6,Port instability,Critical,Process variation,2025-09-10
+DEF-01026,UNIT-36319,BATCH-2025-02539,8,Final assembly defect,Medium,Handling damage,2025-06-24
+DEF-01027,UNIT-05453,BATCH-2026-00375,7,Fan failure,Critical,Material defect,2026-03-06
+DEF-01028,UNIT-22163,BATCH-2025-01551,8,Final assembly defect,Low,Supplier quality issue,2025-05-14
+DEF-01029,UNIT-36249,BATCH-2025-02534,4,Cell imbalance,Low,Packaging error,2025-04-19
+DEF-01030,UNIT-01256,BATCH-2026-00088,8,Final assembly defect,Low,Handling damage,2026-04-29
+DEF-01031,UNIT-36393,BATCH-2025-02544,3,Low volume output,High,Environmental exposure,2025-10-22
+DEF-01032,UNIT-15580,BATCH-2025-01090,3,Speaker distortion,Medium,Supplier quality issue,2025-03-30
+DEF-01033,UNIT-27649,BATCH-2026-01934,4,Charging instability,High,Investigation pending,2026-05-28
+DEF-01034,UNIT-27221,BATCH-2025-01903,2,Lens scratch,Low,Environmental exposure,2025-11-23
+DEF-01035,UNIT-04237,BATCH-2024-00292,3,Audio clipping,Low,Handling damage,2024-10-28
+DEF-01036,UNIT-08654,BATCH-2026-00599,8,Final assembly defect,High,Handling damage,2026-03-10
+DEF-01037,UNIT-26152,BATCH-2025-01828,3,Audio clipping,Medium,Material defect,2025-10-01
+DEF-01038,UNIT-40445,BATCH-2025-02832,1,Short circuit,Medium,Equipment calibration drift,2025-10-24
+DEF-01039,UNIT-24446,BATCH-2024-01711,8,Ingress issue,High,Supplier quality issue,2024-10-06
+DEF-01040,UNIT-25507,BATCH-2025-01783,1,Power fluctuation,Critical,Handling damage,2025-02-26
+DEF-01041,UNIT-17854,BATCH-2026-01248,3,Audio clipping,Medium,Material defect,2026-04-12
+DEF-01042,UNIT-14530,BATCH-2026-01016,4,Battery not detected,Medium,Handling damage,2026-06-12
+DEF-01043,UNIT-24715,BATCH-2026-01729,7,Thermal runaway risk,Low,Equipment calibration drift,2026-05-22
+DEF-01044,UNIT-06699,BATCH-2025-00462,5,Dead pixel,Medium,Material defect,2025-09-12
+DEF-01045,UNIT-22590,BATCH-2024-01581,1,Short circuit,Low,Investigation pending,2024-10-14
+DEF-01046,UNIT-34178,BATCH-2025-02389,6,Port instability,High,Equipment calibration drift,2025-11-03
+DEF-01047,UNIT-49668,BATCH-2025-03471,6,Port instability,Low,Supplier quality issue,2025-08-02
+DEF-01048,UNIT-34835,BATCH-2025-02435,7,Fan failure,Medium,Investigation pending,2025-02-11
+DEF-01049,UNIT-41593,BATCH-2026-02912,1,Connector misalignment,Medium,Packaging error,2026-04-08
+DEF-01050,UNIT-12953,BATCH-2024-00906,3,Audio clipping,High,Packaging error,2024-12-10
+DEF-01051,UNIT-02007,BATCH-2025-00139,1,Connector misalignment,High,Equipment calibration drift,2025-08-28
+DEF-01052,UNIT-27134,BATCH-2024-01898,7,Overheating,Medium,Process variation,2024-11-23
+DEF-01053,UNIT-15113,BATCH-2025-01059,7,Thermal runaway risk,Medium,Investigation pending,2026-01-05
+DEF-01054,UNIT-34367,BATCH-2026-02402,3,Audio clipping,High,Environmental exposure,2026-07-05
+DEF-01055,UNIT-21553,BATCH-2025-01508,1,Short circuit,Low,Handling damage,2025-10-06
+DEF-01056,UNIT-09257,BATCH-2025-00641,5,Dead pixel,High,Material defect,2025-11-15
+DEF-01057,UNIT-10770,BATCH-2024-00751,5,Screen artifact,High,Investigation pending,2024-12-08
+DEF-01058,UNIT-03495,BATCH-2025-00241,8,Final assembly defect,Low,Packaging error,2025-04-04
+DEF-01059,UNIT-40342,BATCH-2026-02825,6,Signal interference,Low,Handling damage,2026-03-08
+DEF-01060,UNIT-29021,BATCH-2026-02030,4,Charging instability,Critical,Handling damage,2026-03-04
+DEF-01061,UNIT-16252,BATCH-2025-01136,3,Speaker distortion,Medium,Handling damage,2025-08-14
+DEF-01062,UNIT-22542,BATCH-2024-01577,5,Screen artifact,Medium,Supplier quality issue,2024-12-08
+DEF-01063,UNIT-37632,BATCH-2025-02630,5,Screen artifact,High,Environmental exposure,2025-11-24
+DEF-01064,UNIT-28214,BATCH-2026-01973,5,Color calibration issue,Low,Handling damage,2026-09-04
+DEF-01065,UNIT-40017,BATCH-2024-02801,8,Packaging damage,High,Investigation pending,2025-01-14
+DEF-01066,UNIT-10409,BATCH-2025-00726,3,Speaker distortion,Low,Equipment calibration drift,2025-07-23
+DEF-01067,UNIT-22065,BATCH-2026-01545,2,Sensor calibration drift,Critical,Process variation,2026-04-03
+DEF-01068,UNIT-02866,BATCH-2025-00198,2,Sensor calibration drift,Low,Environmental exposure,2025-05-21
+DEF-01069,UNIT-25578,BATCH-2025-01787,2,Sensor calibration drift,Critical,Environmental exposure,2025-03-03
+DEF-01070,UNIT-35252,BATCH-2026-02465,5,Dead pixel,High,Process variation,2026-06-21
+DEF-01071,UNIT-12523,BATCH-2026-00875,4,Cell imbalance,Low,Material defect,2026-02-07
+DEF-01072,UNIT-21955,BATCH-2025-01536,1,Power fluctuation,Medium,Packaging error,2025-06-18
+DEF-01073,UNIT-25503,BATCH-2025-01782,4,Battery not detected,Low,Material defect,2025-05-29
+DEF-01074,UNIT-45461,BATCH-2025-03186,5,Screen artifact,Critical,Environmental exposure,2025-08-17
+DEF-01075,UNIT-00558,BATCH-2026-00039,6,Port instability,Low,Supplier quality issue,2026-05-18
+DEF-01076,UNIT-26285,BATCH-2025-01837,7,Fan failure,Low,Process variation,2025-11-30
+DEF-01077,UNIT-02970,BATCH-2026-00206,4,Charging instability,Low,Equipment calibration drift,2026-06-23
+DEF-01078,UNIT-14946,BATCH-2026-01047,8,Final assembly defect,Low,Material defect,2026-09-13
+DEF-01079,UNIT-15832,BATCH-2025-01107,4,Battery not detected,Low,Packaging error,2025-08-15
+DEF-01080,UNIT-27104,BATCH-2025-01895,2,Sensor calibration drift,High,Environmental exposure,2025-06-08
+DEF-01081,UNIT-36973,BATCH-2025-02584,2,Lens scratch,High,Environmental exposure,2025-07-20
+DEF-01082,UNIT-07860,BATCH-2025-00545,2,Sensor calibration drift,Critical,Material defect,2025-10-13
+DEF-01083,UNIT-48853,BATCH-2025-03417,2,Sensor calibration drift,Medium,Process variation,2025-10-27
+DEF-01084,UNIT-36999,BATCH-2025-02586,2,Sensor calibration drift,Critical,Environmental exposure,2025-05-12
+DEF-01085,UNIT-16107,BATCH-2024-01126,3,Speaker distortion,High,Equipment calibration drift,2024-12-24
+DEF-01086,UNIT-49426,BATCH-2026-03456,8,Final assembly defect,Medium,Handling damage,2026-08-03
+DEF-01087,UNIT-46065,BATCH-2025-03228,8,Ingress issue,Critical,Investigation pending,2025-02-26
+DEF-01088,UNIT-05622,BATCH-2025-00388,7,Thermal runaway risk,Low,Supplier quality issue,2025-02-01
+DEF-01089,UNIT-09585,BATCH-2026-00665,8,Final assembly defect,High,Supplier quality issue,2026-01-31
+DEF-01090,UNIT-30615,BATCH-2024-02141,8,Packaging damage,Medium,Environmental exposure,2024-10-11
+DEF-01091,UNIT-23511,BATCH-2025-01646,5,Screen artifact,Low,Handling damage,2025-05-31
+DEF-01092,UNIT-05536,BATCH-2024-00381,1,Short circuit,Medium,Handling damage,2024-11-06
+DEF-01093,UNIT-05212,BATCH-2024-00358,1,Connector misalignment,High,Equipment calibration drift,2024-12-20
+DEF-01094,UNIT-11861,BATCH-2025-00828,7,Overheating,Medium,Supplier quality issue,2025-04-12
+DEF-01095,UNIT-05561,BATCH-2025-00382,4,Charging instability,High,Equipment calibration drift,2025-01-24
+DEF-01096,UNIT-38028,BATCH-2026-02659,1,Power fluctuation,High,Process variation,2026-09-17
+DEF-01097,UNIT-12932,BATCH-2025-00904,7,Thermal runaway risk,Low,Packaging error,2025-02-10
+DEF-01098,UNIT-20079,BATCH-2026-01404,6,Signal interference,Medium,Handling damage,2026-09-08
+DEF-01099,UNIT-15917,BATCH-2026-01113,4,Cell imbalance,Low,Investigation pending,2026-08-15
+DEF-01100,UNIT-29366,BATCH-2025-02056,2,Camera focus failed,Medium,Supplier quality issue,2025-02-27
+DEF-01101,UNIT-39310,BATCH-2025-02751,7,Thermal runaway risk,Low,Material defect,2025-03-16
+DEF-01102,UNIT-20893,BATCH-2025-01461,2,Sensor calibration drift,Low,Material defect,2025-08-27
+DEF-01103,UNIT-41148,BATCH-2025-02882,6,Port instability,Medium,Equipment calibration drift,2026-01-17
+DEF-01104,UNIT-17095,BATCH-2025-01196,1,Short circuit,Low,Investigation pending,2025-02-26
+DEF-01105,UNIT-00307,BATCH-2025-00021,7,Thermal runaway risk,Medium,Material defect,2025-10-23
+DEF-01106,UNIT-15202,BATCH-2025-01064,8,Ingress issue,Medium,Investigation pending,2025-08-19
+DEF-01107,UNIT-14110,BATCH-2026-00987,6,Signal interference,High,Material defect,2026-06-18
+DEF-01108,UNIT-08973,BATCH-2026-00622,6,Signal interference,Medium,Handling damage,2026-03-14
+DEF-01109,UNIT-39722,BATCH-2024-02780,7,Fan failure,Low,Process variation,2024-10-26
+DEF-01110,UNIT-07250,BATCH-2026-00502,6,Signal interference,Low,Environmental exposure,2026-03-16
+DEF-01111,UNIT-23584,BATCH-2024-01651,2,Sensor calibration drift,Low,Supplier quality issue,2025-01-15
+DEF-01112,UNIT-37091,BATCH-2025-02592,4,Cell imbalance,Medium,Handling damage,2025-06-30
+DEF-01113,UNIT-29855,BATCH-2025-02090,4,Battery not detected,High,Process variation,2025-05-05
+DEF-01114,UNIT-42303,BATCH-2024-02964,5,Color calibration issue,High,Supplier quality issue,2024-11-27
+DEF-01115,UNIT-22057,BATCH-2026-01544,2,Camera focus failed,Low,Material defect,2026-05-25
+DEF-01116,UNIT-27885,BATCH-2026-01950,8,Packaging damage,Low,Equipment calibration drift,2026-01-28
+DEF-01117,UNIT-06835,BATCH-2026-00472,5,Color calibration issue,High,Process variation,2026-05-28
+DEF-01118,UNIT-34971,BATCH-2025-02446,2,Sensor calibration drift,Low,Material defect,2025-07-18
+DEF-01119,UNIT-35997,BATCH-2025-02516,3,Low volume output,Low,Environmental exposure,2025-11-13
+DEF-01120,UNIT-36252,BATCH-2026-02535,3,Speaker distortion,Medium,Handling damage,2026-03-15
+DEF-01121,UNIT-22208,BATCH-2026-01554,7,Thermal runaway risk,Critical,Environmental exposure,2026-06-26
+DEF-01122,UNIT-09616,BATCH-2025-00667,8,Ingress issue,Medium,Supplier quality issue,2025-09-30
+DEF-01123,UNIT-04126,BATCH-2025-00284,8,Final assembly defect,Medium,Supplier quality issue,2025-09-06
+DEF-01124,UNIT-19263,BATCH-2025-01347,8,Final assembly defect,Low,Investigation pending,2025-01-22
+DEF-01125,UNIT-42773,BATCH-2026-02999,6,Signal interference,Medium,Supplier quality issue,2026-09-28
+DEF-01126,UNIT-00162,BATCH-2025-00012,3,Speaker distortion,Low,Investigation pending,2025-04-27
+DEF-01127,UNIT-47222,BATCH-2025-03306,1,Connector misalignment,High,Equipment calibration drift,2025-03-09
+DEF-01128,UNIT-05677,BATCH-2026-00392,5,Dead pixel,Low,Investigation pending,2026-08-05
+DEF-01129,UNIT-07522,BATCH-2024-00522,7,Overheating,Critical,Packaging error,2024-10-30
+DEF-01130,UNIT-21843,BATCH-2026-01528,4,Cell imbalance,Critical,Equipment calibration drift,2026-08-02
+DEF-01131,UNIT-02100,BATCH-2026-00146,2,Camera focus failed,Low,Equipment calibration drift,2026-09-13
+DEF-01132,UNIT-26689,BATCH-2026-01865,7,Thermal runaway risk,Medium,Packaging error,2026-03-14
+DEF-01133,UNIT-33270,BATCH-2025-02325,6,Signal interference,High,Packaging error,2025-01-29
+DEF-01134,UNIT-02315,BATCH-2025-00161,2,Camera focus failed,Low,Supplier quality issue,2025-05-14
+DEF-01135,UNIT-49406,BATCH-2026-03454,6,Connectivity drop,Medium,Process variation,2026-06-26
+DEF-01136,UNIT-47859,BATCH-2026-03350,8,Packaging damage,High,Equipment calibration drift,2026-05-29
+DEF-01137,UNIT-29810,BATCH-2024-02087,2,Lens scratch,Low,Supplier quality issue,2024-11-12
+DEF-01138,UNIT-42688,BATCH-2026-02992,5,Dead pixel,Low,Material defect,2026-06-12
+DEF-01139,UNIT-22351,BATCH-2025-01564,6,Port instability,Medium,Packaging error,2025-05-13
+DEF-01140,UNIT-02257,BATCH-2026-00157,2,Sensor calibration drift,Low,Environmental exposure,2026-06-21
+DEF-01141,UNIT-22837,BATCH-2026-01599,4,Battery not detected,Low,Equipment calibration drift,2026-07-17
+DEF-01142,UNIT-20613,BATCH-2024-01441,5,Screen artifact,High,Handling damage,2025-01-13
+DEF-01143,UNIT-35265,BATCH-2025-02466,7,Fan failure,Low,Supplier quality issue,2025-12-03
+DEF-01144,UNIT-46693,BATCH-2025-03270,5,Dead pixel,High,Investigation pending,2025-05-28
+DEF-01145,UNIT-49007,BATCH-2025-03428,6,Signal interference,Medium,Handling damage,2025-02-28
+DEF-01146,UNIT-25468,BATCH-2026-01780,6,Port instability,High,Material defect,2026-07-22
+DEF-01147,UNIT-28059,BATCH-2025-01961,7,Overheating,High,Environmental exposure,2025-12-14
+DEF-01148,UNIT-11535,BATCH-2026-00805,4,Battery not detected,Medium,Process variation,2026-03-01
+DEF-01149,UNIT-23224,BATCH-2025-01626,5,Dead pixel,Medium,Material defect,2025-09-19
+DEF-01150,UNIT-30561,BATCH-2025-02138,5,Dead pixel,High,Supplier quality issue,2025-06-07
+DEF-01151,UNIT-10194,BATCH-2025-00710,6,Connectivity drop,Medium,Supplier quality issue,2025-07-01
+DEF-01152,UNIT-33472,BATCH-2025-02339,2,Lens scratch,Low,Material defect,2025-03-05
+DEF-01153,UNIT-15557,BATCH-2025-01088,4,Battery not detected,Medium,Packaging error,2025-05-22
+DEF-01154,UNIT-27519,BATCH-2024-01924,6,Connectivity drop,Medium,Investigation pending,2025-01-03
+DEF-01155,UNIT-49156,BATCH-2025-03437,4,Cell imbalance,Critical,Material defect,2025-12-29
+DEF-01156,UNIT-28928,BATCH-2025-02023,3,Speaker distortion,Low,Equipment calibration drift,2025-03-09
+DEF-01157,UNIT-04029,BATCH-2025-00277,5,Color calibration issue,Critical,Process variation,2025-10-01
+DEF-01158,UNIT-31628,BATCH-2025-02214,6,Connectivity drop,Low,Handling damage,2025-09-15
+DEF-01159,UNIT-31988,BATCH-2024-02237,8,Final assembly defect,Medium,Process variation,2024-10-12
+DEF-01160,UNIT-14053,BATCH-2026-00984,4,Battery not detected,Low,Supplier quality issue,2026-08-23
+DEF-01161,UNIT-40929,BATCH-2025-02866,1,Connector misalignment,Medium,Environmental exposure,2025-02-14
+DEF-01162,UNIT-24419,BATCH-2025-01709,7,Fan failure,Critical,Environmental exposure,2025-04-10
+DEF-01163,UNIT-37444,BATCH-2025-02617,3,Speaker distortion,Low,Environmental exposure,2025-11-15
+DEF-01164,UNIT-43720,BATCH-2026-03064,6,Port instability,Medium,Equipment calibration drift,2026-04-02
+DEF-01165,UNIT-44974,BATCH-2025-03150,7,Overheating,Critical,Equipment calibration drift,2025-01-25
+DEF-01166,UNIT-04986,BATCH-2024-00343,5,Screen artifact,Critical,Packaging error,2024-11-17
+DEF-01167,UNIT-01418,BATCH-2025-00100,4,Cell imbalance,Medium,Process variation,2025-03-15
+DEF-01168,UNIT-45796,BATCH-2025-03209,3,Audio clipping,Low,Investigation pending,2025-12-01
+DEF-01169,UNIT-19118,BATCH-2025-01336,5,Color calibration issue,Low,Investigation pending,2025-01-28
+DEF-01170,UNIT-07058,BATCH-2024-00488,5,Color calibration issue,Critical,Process variation,2024-11-09
+DEF-01171,UNIT-10117,BATCH-2025-00704,1,Connector misalignment,Low,Packaging error,2025-04-13
+DEF-01172,UNIT-31145,BATCH-2026-02180,3,Audio clipping,Medium,Investigation pending,2026-05-01
+DEF-01173,UNIT-31274,BATCH-2025-02189,7,Fan failure,High,Process variation,2025-09-18
+DEF-01174,UNIT-08567,BATCH-2025-00594,7,Thermal runaway risk,Medium,Handling damage,2025-02-12
+DEF-01175,UNIT-31772,BATCH-2026-02223,3,Speaker distortion,Medium,Material defect,2026-05-27
+DEF-01176,UNIT-36488,BATCH-2025-02550,6,Port instability,High,Investigation pending,2025-08-20
+DEF-01177,UNIT-49632,BATCH-2025-03469,5,Dead pixel,Low,Packaging error,2025-10-18
+DEF-01178,UNIT-45652,BATCH-2025-03199,7,Overheating,Medium,Process variation,2025-01-31
+DEF-01179,UNIT-41762,BATCH-2025-02925,3,Audio clipping,High,Investigation pending,2025-01-29
+DEF-01180,UNIT-27405,BATCH-2025-01916,7,Overheating,High,Handling damage,2025-04-15
+DEF-01181,UNIT-03912,BATCH-2025-00269,7,Thermal runaway risk,High,Packaging error,2025-04-12
+DEF-01182,UNIT-12562,BATCH-2025-00877,4,Battery not detected,Low,Handling damage,2025-04-15
+DEF-01183,UNIT-24393,BATCH-2026-01707,6,Connectivity drop,Medium,Equipment calibration drift,2026-09-08
+DEF-01184,UNIT-09177,BATCH-2026-00635,4,Charging instability,Medium,Packaging error,2026-05-28
+DEF-01185,UNIT-22420,BATCH-2024-01569,2,Camera focus failed,Critical,Environmental exposure,2024-11-27
+DEF-01186,UNIT-15686,BATCH-2026-01097,8,Ingress issue,High,Packaging error,2026-09-26
+DEF-01187,UNIT-06731,BATCH-2026-00465,7,Fan failure,High,Environmental exposure,2026-04-11
+DEF-01188,UNIT-27160,BATCH-2026-01900,7,Overheating,High,Equipment calibration drift,2026-03-17
+DEF-01189,UNIT-44125,BATCH-2025-03091,5,Screen artifact,High,Equipment calibration drift,2025-04-10
+DEF-01190,UNIT-47507,BATCH-2026-03326,2,Camera focus failed,Low,Process variation,2026-08-21
+DEF-01191,UNIT-06891,BATCH-2025-00476,4,Battery not detected,Low,Handling damage,2025-05-17
+DEF-01192,UNIT-03765,BATCH-2025-00260,8,Final assembly defect,Medium,Process variation,2025-11-27
+DEF-01193,UNIT-18581,BATCH-2025-01298,1,Connector misalignment,Medium,Environmental exposure,2025-01-25
+DEF-01194,UNIT-10176,BATCH-2026-00708,4,Cell imbalance,Low,Environmental exposure,2026-06-24
+DEF-01195,UNIT-09032,BATCH-2025-00626,2,Lens scratch,Medium,Material defect,2025-05-27
+DEF-01196,UNIT-32015,BATCH-2025-02239,1,Power fluctuation,Low,Equipment calibration drift,2025-07-19
+DEF-01197,UNIT-07555,BATCH-2025-00524,8,Ingress issue,High,Investigation pending,2025-01-30
+DEF-01198,UNIT-19084,BATCH-2025-01333,4,Cell imbalance,High,Process variation,2025-10-04
+DEF-01199,UNIT-03930,BATCH-2026-00271,8,Ingress issue,Low,Equipment calibration drift,2026-08-07
+DEF-01200,UNIT-08508,BATCH-2025-00590,8,Packaging damage,Medium,Investigation pending,2025-12-23
+DEF-01201,UNIT-48430,BATCH-2025-03389,5,Dead pixel,High,Environmental exposure,2025-11-04
+DEF-01202,UNIT-13917,BATCH-2025-00974,3,Low volume output,Low,Investigation pending,2025-12-29
+DEF-01203,UNIT-31810,BATCH-2026-02226,7,Fan failure,Medium,Investigation pending,2026-05-01
+DEF-01204,UNIT-21054,BATCH-2026-01472,3,Low volume output,Medium,Material defect,2026-08-19
+DEF-01205,UNIT-21040,BATCH-2026-01471,7,Thermal runaway risk,Critical,Process variation,2026-06-20
+DEF-01206,UNIT-27584,BATCH-2025-01929,5,Color calibration issue,Medium,Environmental exposure,2026-01-02
+DEF-01207,UNIT-22048,BATCH-2026-01543,7,Overheating,Low,Equipment calibration drift,2026-09-08
+DEF-01208,UNIT-01601,BATCH-2025-00112,2,Sensor calibration drift,High,Equipment calibration drift,2025-12-27
+DEF-01209,UNIT-39134,BATCH-2024-02740,2,Camera focus failed,Medium,Supplier quality issue,2024-11-10
+DEF-01210,UNIT-36529,BATCH-2026-02553,8,Final assembly defect,Medium,Investigation pending,2026-05-23
+DEF-01211,UNIT-00439,BATCH-2026-00030,1,Short circuit,Medium,Environmental exposure,2026-08-15
+DEF-01212,UNIT-24961,BATCH-2024-01746,1,Short circuit,Low,Environmental exposure,2025-01-09
+DEF-01213,UNIT-45085,BATCH-2026-03158,6,Connectivity drop,High,Investigation pending,2026-04-18
+DEF-01214,UNIT-36300,BATCH-2024-02538,5,Screen artifact,Critical,Packaging error,2024-12-10
+DEF-01215,UNIT-44450,BATCH-2025-03114,8,Final assembly defect,Low,Investigation pending,2025-12-22
+DEF-01216,UNIT-42086,BATCH-2025-02949,6,Signal interference,Low,Environmental exposure,2026-01-05
+DEF-01217,UNIT-17227,BATCH-2024-01206,6,Signal interference,Low,Supplier quality issue,2024-10-12
+DEF-01218,UNIT-46499,BATCH-2026-03258,1,Power fluctuation,Low,Material defect,2026-05-25
+DEF-01219,UNIT-15455,BATCH-2025-01081,5,Screen artifact,High,Process variation,2025-02-19
+DEF-01220,UNIT-19296,BATCH-2024-01349,6,Port instability,Medium,Supplier quality issue,2025-01-05
+DEF-01221,UNIT-32922,BATCH-2026-02300,5,Screen artifact,High,Environmental exposure,2026-03-24
+DEF-01222,UNIT-37309,BATCH-2025-02608,1,Connector misalignment,High,Packaging error,2025-11-25
+DEF-01223,UNIT-15512,BATCH-2025-01085,2,Lens scratch,Medium,Supplier quality issue,2025-07-13
+DEF-01224,UNIT-26387,BATCH-2025-01844,7,Overheating,Low,Process variation,2025-07-28
+DEF-01225,UNIT-40896,BATCH-2026-02864,4,Charging instability,Low,Environmental exposure,2026-02-26
+DEF-01226,UNIT-24134,BATCH-2026-01689,8,Ingress issue,Medium,Investigation pending,2026-04-29
+DEF-01227,UNIT-41748,BATCH-2025-02924,1,Short circuit,High,Investigation pending,2025-12-30
+DEF-01228,UNIT-23659,BATCH-2026-01656,7,Overheating,Low,Supplier quality issue,2026-03-22
+DEF-01229,UNIT-43470,BATCH-2026-03046,4,Battery not detected,Medium,Material defect,2026-08-16
+DEF-01230,UNIT-08068,BATCH-2025-00559,8,Ingress issue,Low,Equipment calibration drift,2025-10-15
+DEF-01231,UNIT-29578,BATCH-2024-02071,3,Speaker distortion,Medium,Material defect,2024-10-27
+DEF-01232,UNIT-01541,BATCH-2026-00108,5,Dead pixel,Low,Supplier quality issue,2026-09-11
+DEF-01233,UNIT-48448,BATCH-2026-03390,6,Connectivity drop,High,Packaging error,2026-02-21
+DEF-01234,UNIT-18642,BATCH-2026-01303,4,Battery not detected,Low,Environmental exposure,2026-04-05
+DEF-01235,UNIT-15908,BATCH-2026-01113,5,Dead pixel,Low,Process variation,2026-08-11
+DEF-01236,UNIT-25090,BATCH-2026-01755,1,Power fluctuation,Low,Equipment calibration drift,2026-03-20
+DEF-01237,UNIT-36345,BATCH-2026-02540,5,Color calibration issue,Medium,Supplier quality issue,2026-02-27
+DEF-01238,UNIT-44479,BATCH-2026-03116,4,Battery not detected,Low,Handling damage,2026-06-16
+DEF-01239,UNIT-06807,BATCH-2026-00470,1,Connector misalignment,Medium,Environmental exposure,2026-06-13
+DEF-01240,UNIT-32558,BATCH-2025-02274,5,Dead pixel,Low,Material defect,2025-09-24
+DEF-01241,UNIT-30841,BATCH-2025-02158,6,Port instability,Low,Handling damage,2025-05-10
+DEF-01242,UNIT-12293,BATCH-2025-00858,7,Thermal runaway risk,High,Process variation,2025-09-17
+DEF-01243,UNIT-48029,BATCH-2025-03362,3,Audio clipping,High,Packaging error,2026-01-19
+DEF-01244,UNIT-11737,BATCH-2026-00819,7,Overheating,Low,Packaging error,2026-03-17
+DEF-01245,UNIT-42234,BATCH-2026-02959,7,Thermal runaway risk,Critical,Supplier quality issue,2026-08-03
+DEF-01246,UNIT-05530,BATCH-2026-00380,7,Thermal runaway risk,Medium,Process variation,2026-02-06
+DEF-01247,UNIT-03938,BATCH-2026-00271,5,Screen artifact,Low,Equipment calibration drift,2026-08-06
+DEF-01248,UNIT-23984,BATCH-2025-01678,3,Audio clipping,High,Supplier quality issue,2025-10-07
+DEF-01249,UNIT-36460,BATCH-2026-02549,4,Charging instability,Low,Supplier quality issue,2026-02-06
+DEF-01250,UNIT-49702,BATCH-2025-03474,3,Low volume output,High,Investigation pending,2025-04-13
+DEF-01251,UNIT-24710,BATCH-2026-01729,6,Signal interference,High,Packaging error,2026-05-21
+DEF-01252,UNIT-15490,BATCH-2024-01084,7,Fan failure,Low,Material defect,2024-10-24
+DEF-01253,UNIT-25925,BATCH-2025-01812,7,Thermal runaway risk,Low,Material defect,2025-09-17
+DEF-01254,UNIT-34009,BATCH-2025-02377,4,Battery not detected,Medium,Material defect,2025-06-19
+DEF-01255,UNIT-31831,BATCH-2025-02227,6,Connectivity drop,Medium,Environmental exposure,2025-03-15
+DEF-01256,UNIT-41266,BATCH-2024-02890,4,Cell imbalance,Low,Material defect,2025-01-01
+DEF-01257,UNIT-03599,BATCH-2024-00248,6,Signal interference,Medium,Handling damage,2024-11-30
+DEF-01258,UNIT-27457,BATCH-2025-01920,1,Short circuit,Medium,Environmental exposure,2025-03-12
+DEF-01259,UNIT-08392,BATCH-2026-00582,6,Port instability,Low,Packaging error,2026-08-22
+DEF-01260,UNIT-16016,BATCH-2026-01120,5,Color calibration issue,High,Packaging error,2026-06-04
+DEF-01261,UNIT-42685,BATCH-2026-02992,1,Short circuit,Medium,Material defect,2026-06-11
+DEF-01262,UNIT-05026,BATCH-2025-00346,8,Packaging damage,Low,Packaging error,2025-01-30
+DEF-01263,UNIT-17486,BATCH-2026-01223,6,Port instability,Medium,Environmental exposure,2026-05-19
+DEF-01264,UNIT-23502,BATCH-2025-01646,8,Packaging damage,Low,Equipment calibration drift,2025-05-28
+DEF-01265,UNIT-29616,BATCH-2026-02073,3,Speaker distortion,Low,Environmental exposure,2026-07-20
+DEF-01266,UNIT-47104,BATCH-2026-03298,7,Thermal runaway risk,Low,Handling damage,2026-06-22
+DEF-01267,UNIT-09964,BATCH-2025-00693,8,Ingress issue,High,Material defect,2025-07-04
+DEF-01268,UNIT-17554,BATCH-2025-01228,3,Speaker distortion,High,Material defect,2025-04-30
+DEF-01269,UNIT-22820,BATCH-2025-01598,8,Final assembly defect,Low,Packaging error,2025-05-17
+DEF-01270,UNIT-22763,BATCH-2026-01594,1,Connector misalignment,High,Process variation,2026-04-14
+DEF-01271,UNIT-10139,BATCH-2026-00705,7,Fan failure,Medium,Process variation,2026-08-10
+DEF-01272,UNIT-34303,BATCH-2025-02397,4,Charging instability,High,Material defect,2025-04-07
+DEF-01273,UNIT-49864,BATCH-2025-03486,2,Camera focus failed,Low,Handling damage,2025-11-03
+DEF-01274,UNIT-42424,BATCH-2026-02973,8,Final assembly defect,Medium,Packaging error,2026-08-18
+DEF-01275,UNIT-11569,BATCH-2025-00807,7,Fan failure,High,Investigation pending,2025-06-02
+DEF-01276,UNIT-45965,BATCH-2024-03221,3,Audio clipping,Medium,Material defect,2024-11-11
+DEF-01277,UNIT-14842,BATCH-2025-01039,6,Connectivity drop,Critical,Material defect,2025-10-17
+DEF-01278,UNIT-07878,BATCH-2025-00546,3,Speaker distortion,Critical,Equipment calibration drift,2025-05-13
+DEF-01279,UNIT-22997,BATCH-2026-01610,6,Connectivity drop,Low,Equipment calibration drift,2026-08-22
+DEF-01280,UNIT-48666,BATCH-2025-03403,2,Sensor calibration drift,Medium,Material defect,2026-01-09
+DEF-01281,UNIT-29472,BATCH-2025-02064,1,Short circuit,Low,Packaging error,2025-08-01
+DEF-01282,UNIT-37071,BATCH-2026-02591,6,Signal interference,Medium,Material defect,2026-09-29
+DEF-01283,UNIT-43979,BATCH-2025-03082,3,Speaker distortion,High,Handling damage,2025-12-28
+DEF-01284,UNIT-39385,BATCH-2025-02757,4,Battery not detected,Low,Environmental exposure,2025-03-14
+DEF-01285,UNIT-41590,BATCH-2026-02912,6,Port instability,Low,Packaging error,2026-04-11
+DEF-01286,UNIT-43923,BATCH-2025-03078,5,Screen artifact,Low,Material defect,2025-10-30
+DEF-01287,UNIT-22281,BATCH-2026-01559,4,Charging instability,High,Environmental exposure,2026-03-17
+DEF-01288,UNIT-05371,BATCH-2026-00368,8,Final assembly defect,Critical,Supplier quality issue,2026-03-13
+DEF-01289,UNIT-10162,BATCH-2025-00707,7,Fan failure,High,Equipment calibration drift,2025-05-30
+DEF-01290,UNIT-22727,BATCH-2024-01592,4,Battery not detected,Medium,Process variation,2024-11-02
+DEF-01291,UNIT-35931,BATCH-2026-02512,5,Dead pixel,Critical,Environmental exposure,2026-07-09
+DEF-01292,UNIT-29573,BATCH-2025-02070,5,Screen artifact,High,Material defect,2025-03-31
+DEF-01293,UNIT-34886,BATCH-2025-02440,5,Screen artifact,Low,Investigation pending,2025-11-25
+DEF-01294,UNIT-40532,BATCH-2025-02838,4,Charging instability,Medium,Packaging error,2025-05-16
+DEF-01295,UNIT-07445,BATCH-2026-00517,4,Charging instability,High,Investigation pending,2026-03-11
+DEF-01296,UNIT-09377,BATCH-2025-00649,8,Packaging damage,Low,Supplier quality issue,2025-03-21
+DEF-01297,UNIT-18630,BATCH-2026-01302,2,Sensor calibration drift,High,Investigation pending,2026-05-12
+DEF-01298,UNIT-43259,BATCH-2025-03032,3,Low volume output,Low,Process variation,2025-07-23
+DEF-01299,UNIT-41327,BATCH-2024-02894,2,Camera focus failed,Medium,Equipment calibration drift,2024-11-20
+DEF-01300,UNIT-23090,BATCH-2026-01617,6,Connectivity drop,Low,Equipment calibration drift,2026-05-18
+DEF-01301,UNIT-02513,BATCH-2026-00173,4,Charging instability,Low,Material defect,2026-10-04
+DEF-01302,UNIT-42208,BATCH-2025-02957,3,Audio clipping,High,Packaging error,2025-08-01
+DEF-01303,UNIT-35352,BATCH-2026-02472,3,Low volume output,Low,Equipment calibration drift,2026-09-09
+DEF-01304,UNIT-42761,BATCH-2025-02998,1,Power fluctuation,Critical,Handling damage,2025-02-01
+DEF-01305,UNIT-43605,BATCH-2025-03056,6,Port instability,High,Equipment calibration drift,2025-07-25
+DEF-01306,UNIT-31880,BATCH-2025-02230,1,Power fluctuation,Critical,Supplier quality issue,2025-09-03
+DEF-01307,UNIT-25192,BATCH-2026-01762,3,Audio clipping,Low,Investigation pending,2026-05-19
+DEF-01308,UNIT-09663,BATCH-2026-00670,4,Battery not detected,High,Supplier quality issue,2026-08-29
+DEF-01309,UNIT-32088,BATCH-2024-02243,4,Cell imbalance,Critical,Packaging error,2025-01-15
+DEF-01310,UNIT-47282,BATCH-2025-03310,3,Speaker distortion,Critical,Equipment calibration drift,2025-03-15
+DEF-01311,UNIT-44054,BATCH-2025-03087,2,Camera focus failed,Critical,Handling damage,2025-12-24
+DEF-01312,UNIT-09881,BATCH-2025-00686,7,Overheating,Medium,Material defect,2025-04-03
+DEF-01313,UNIT-06253,BATCH-2024-00431,3,Speaker distortion,High,Supplier quality issue,2024-10-11
+DEF-01314,UNIT-01874,BATCH-2026-00130,7,Thermal runaway risk,Medium,Supplier quality issue,2026-10-04
+DEF-01315,UNIT-34720,BATCH-2024-02428,7,Overheating,High,Investigation pending,2024-10-20
+DEF-01316,UNIT-41701,BATCH-2025-02921,8,Ingress issue,Medium,Equipment calibration drift,2025-12-18
+DEF-01317,UNIT-20835,BATCH-2025-01457,5,Color calibration issue,Low,Packaging error,2025-09-28
+DEF-01318,UNIT-24001,BATCH-2026-01680,8,Packaging damage,High,Material defect,2026-09-14
+DEF-01319,UNIT-22816,BATCH-2025-01598,5,Color calibration issue,Low,Environmental exposure,2025-05-16
+DEF-01320,UNIT-26768,BATCH-2024-01870,7,Thermal runaway risk,Medium,Process variation,2024-11-05
+DEF-01321,UNIT-39503,BATCH-2026-02765,3,Low volume output,Medium,Process variation,2026-06-13
+DEF-01322,UNIT-30079,BATCH-2025-02105,1,Short circuit,Low,Environmental exposure,2025-12-21
+DEF-01323,UNIT-11919,BATCH-2025-00832,2,Camera focus failed,High,Handling damage,2025-02-12
+DEF-01324,UNIT-41343,BATCH-2024-02895,5,Color calibration issue,Low,Equipment calibration drift,2024-11-20
+DEF-01325,UNIT-06182,BATCH-2026-00425,6,Connectivity drop,Medium,Environmental exposure,2026-02-18
+DEF-01326,UNIT-25065,BATCH-2024-01753,8,Packaging damage,High,Material defect,2024-10-28
+DEF-01327,UNIT-38514,BATCH-2026-02695,5,Screen artifact,Medium,Environmental exposure,2026-06-09
+DEF-01328,UNIT-44169,BATCH-2025-03094,6,Port instability,Medium,Environmental exposure,2025-02-09
+DEF-01329,UNIT-35688,BATCH-2025-02494,8,Final assembly defect,High,Packaging error,2025-05-02
+DEF-01330,UNIT-20138,BATCH-2026-01408,8,Final assembly defect,Low,Packaging error,2026-04-19
+DEF-01331,UNIT-28068,BATCH-2026-01962,3,Speaker distortion,Low,Investigation pending,2026-06-09
+DEF-01332,UNIT-24343,BATCH-2026-01704,6,Connectivity drop,Medium,Supplier quality issue,2026-03-17
+DEF-01333,UNIT-47384,BATCH-2026-03317,2,Sensor calibration drift,High,Packaging error,2026-02-27
+DEF-01334,UNIT-47037,BATCH-2025-03293,6,Connectivity drop,High,Environmental exposure,2025-10-26
+DEF-01335,UNIT-41976,BATCH-2025-02941,8,Final assembly defect,Medium,Handling damage,2025-02-19
+DEF-01336,UNIT-07941,BATCH-2026-00550,4,Battery not detected,Medium,Material defect,2026-06-23
+DEF-01337,UNIT-15971,BATCH-2026-01117,5,Dead pixel,Critical,Supplier quality issue,2026-01-26
+DEF-01338,UNIT-21365,BATCH-2026-01495,2,Camera focus failed,High,Supplier quality issue,2026-05-23
+DEF-01339,UNIT-22652,BATCH-2025-01586,2,Sensor calibration drift,Medium,Investigation pending,2025-07-07
+DEF-01340,UNIT-46483,BATCH-2026-03257,8,Ingress issue,High,Supplier quality issue,2026-10-06
+DEF-01341,UNIT-00871,BATCH-2025-00062,1,Short circuit,Medium,Material defect,2025-08-12
+DEF-01342,UNIT-17228,BATCH-2024-01206,5,Color calibration issue,Medium,Equipment calibration drift,2024-10-13
+DEF-01343,UNIT-46145,BATCH-2025-03233,7,Thermal runaway risk,Medium,Supplier quality issue,2025-10-13
+DEF-01344,UNIT-17366,BATCH-2025-01215,2,Lens scratch,Low,Handling damage,2025-10-05
+DEF-01345,UNIT-41269,BATCH-2024-02890,3,Speaker distortion,High,Equipment calibration drift,2025-01-06
+DEF-01346,UNIT-30856,BATCH-2025-02158,1,Power fluctuation,Low,Packaging error,2025-05-17
+DEF-01347,UNIT-32449,BATCH-2025-02267,2,Camera focus failed,High,Environmental exposure,2025-03-07
+DEF-01348,UNIT-00908,BATCH-2025-00064,8,Final assembly defect,Medium,Process variation,2025-09-05
+DEF-01349,UNIT-41112,BATCH-2025-02880,2,Lens scratch,High,Process variation,2025-03-30
+DEF-01350,UNIT-03203,BATCH-2025-00221,5,Screen artifact,Critical,Process variation,2025-07-23
+DEF-01351,UNIT-12734,BATCH-2025-00890,5,Dead pixel,Low,Packaging error,2025-09-11
+DEF-01352,UNIT-24911,BATCH-2025-01743,1,Power fluctuation,Medium,Equipment calibration drift,2025-03-19
+DEF-01353,UNIT-44548,BATCH-2026-03120,1,Power fluctuation,Medium,Environmental exposure,2026-02-08
+DEF-01354,UNIT-29681,BATCH-2025-02077,1,Connector misalignment,High,Packaging error,2025-03-15
+DEF-01355,UNIT-10753,BATCH-2024-00750,6,Signal interference,Medium,Packaging error,2024-11-20
+DEF-01356,UNIT-43467,BATCH-2026-03046,3,Speaker distortion,Critical,Material defect,2026-08-19
+DEF-01357,UNIT-30238,BATCH-2026-02117,4,Battery not detected,Medium,Equipment calibration drift,2026-07-11
+DEF-01358,UNIT-22862,BATCH-2026-01601,8,Ingress issue,Critical,Material defect,2026-02-21
+DEF-01359,UNIT-10081,BATCH-2025-00701,2,Lens scratch,High,Environmental exposure,2025-07-19
+DEF-01360,UNIT-34489,BATCH-2025-02411,7,Fan failure,High,Investigation pending,2025-10-06
+DEF-01361,UNIT-26035,BATCH-2026-01820,3,Speaker distortion,High,Process variation,2026-07-26
+DEF-01362,UNIT-15613,BATCH-2026-01092,5,Color calibration issue,Low,Environmental exposure,2026-05-04
+DEF-01363,UNIT-28898,BATCH-2025-02021,1,Power fluctuation,High,Equipment calibration drift,2025-12-22
+DEF-01364,UNIT-13726,BATCH-2025-00961,6,Port instability,Low,Environmental exposure,2025-08-21
+DEF-01365,UNIT-03001,BATCH-2026-00208,5,Screen artifact,Medium,Packaging error,2026-04-20
+DEF-01366,UNIT-24808,BATCH-2026-01735,8,Packaging damage,Low,Process variation,2026-02-08
+DEF-01367,UNIT-26192,BATCH-2025-01830,3,Speaker distortion,Medium,Environmental exposure,2025-02-03
+DEF-01368,UNIT-38084,BATCH-2026-02664,2,Camera focus failed,High,Investigation pending,2026-07-18
+DEF-01369,UNIT-01212,BATCH-2026-00085,8,Packaging damage,Medium,Process variation,2026-05-26
+DEF-01370,UNIT-14717,BATCH-2026-01029,5,Color calibration issue,Low,Investigation pending,2026-03-20
+DEF-01371,UNIT-34911,BATCH-2026-02441,7,Thermal runaway risk,Low,Environmental exposure,2026-05-05
+DEF-01372,UNIT-48172,BATCH-2024-03371,1,Connector misalignment,Critical,Handling damage,2024-12-29
+DEF-01373,UNIT-18446,BATCH-2026-01290,3,Speaker distortion,High,Handling damage,2026-08-24
+DEF-01374,UNIT-41190,BATCH-2026-02885,2,Lens scratch,High,Equipment calibration drift,2026-07-31
+DEF-01375,UNIT-30476,BATCH-2025-02132,6,Port instability,Medium,Handling damage,2025-08-27
+DEF-01376,UNIT-40151,BATCH-2025-02810,2,Sensor calibration drift,Medium,Equipment calibration drift,2025-07-13
+DEF-01377,UNIT-18881,BATCH-2025-01319,1,Short circuit,Medium,Process variation,2025-03-15
+DEF-01378,UNIT-01145,BATCH-2026-00081,8,Packaging damage,Low,Handling damage,2026-05-03
+DEF-01379,UNIT-45921,BATCH-2025-03218,1,Short circuit,High,Environmental exposure,2025-01-30
+DEF-01380,UNIT-08749,BATCH-2025-00606,7,Overheating,Low,Investigation pending,2025-12-12
+DEF-01381,UNIT-12955,BATCH-2024-00906,6,Port instability,High,Process variation,2024-12-13
+DEF-01382,UNIT-31242,BATCH-2025-02187,1,Short circuit,Medium,Equipment calibration drift,2025-04-10
+DEF-01383,UNIT-32051,BATCH-2026-02241,6,Connectivity drop,Medium,Supplier quality issue,2026-09-04
+DEF-01384,UNIT-38594,BATCH-2026-02700,1,Connector misalignment,Medium,Material defect,2026-09-21
+DEF-01385,UNIT-24403,BATCH-2026-01708,4,Charging instability,Medium,Environmental exposure,2026-08-19
+DEF-01386,UNIT-49931,BATCH-2026-03492,6,Connectivity drop,High,Process variation,2026-01-20
+DEF-01387,UNIT-37259,BATCH-2025-02604,4,Cell imbalance,Medium,Equipment calibration drift,2025-03-14
+DEF-01388,UNIT-22563,BATCH-2025-01579,5,Screen artifact,Medium,Environmental exposure,2025-05-07
+DEF-01389,UNIT-40586,BATCH-2025-02842,2,Camera focus failed,Critical,Handling damage,2025-04-30
+DEF-01390,UNIT-26938,BATCH-2026-01883,8,Final assembly defect,Low,Investigation pending,2026-04-04
+DEF-01391,UNIT-13522,BATCH-2024-00946,2,Camera focus failed,High,Investigation pending,2024-12-26
+DEF-01392,UNIT-46719,BATCH-2024-03272,3,Audio clipping,Critical,Investigation pending,2024-10-31
+DEF-01393,UNIT-34269,BATCH-2025-02395,4,Battery not detected,Medium,Environmental exposure,2025-03-09
+DEF-01394,UNIT-44205,BATCH-2026-03097,5,Screen artifact,High,Environmental exposure,2026-07-11
+DEF-01395,UNIT-19113,BATCH-2025-01336,8,Packaging damage,Low,Investigation pending,2025-01-28
+DEF-01396,UNIT-28463,BATCH-2025-01990,4,Charging instability,Medium,Process variation,2025-06-14
+DEF-01397,UNIT-24595,BATCH-2025-01721,7,Overheating,Low,Supplier quality issue,2025-08-04
+DEF-01398,UNIT-23373,BATCH-2026-01636,2,Lens scratch,Low,Supplier quality issue,2026-01-27
+DEF-01399,UNIT-35447,BATCH-2026-02478,2,Sensor calibration drift,High,Material defect,2026-10-08
+DEF-01400,UNIT-26992,BATCH-2024-01887,7,Thermal runaway risk,Low,Material defect,2024-11-26
+DEF-01401,UNIT-26081,BATCH-2026-01823,1,Connector misalignment,Medium,Investigation pending,2026-04-02
+DEF-01402,UNIT-35031,BATCH-2026-02449,3,Low volume output,Medium,Process variation,2026-03-16
+DEF-01403,UNIT-39712,BATCH-2026-02779,6,Signal interference,Low,Material defect,2026-06-25
+DEF-01404,UNIT-27007,BATCH-2026-01889,6,Port instability,Critical,Packaging error,2026-02-19
+DEF-01405,UNIT-20675,BATCH-2024-01445,5,Dead pixel,High,Investigation pending,2024-10-07
+DEF-01406,UNIT-16937,BATCH-2025-01185,5,Color calibration issue,Medium,Environmental exposure,2025-08-08
+DEF-01407,UNIT-48287,BATCH-2024-03379,3,Speaker distortion,Medium,Handling damage,2024-11-23
+DEF-01408,UNIT-26313,BATCH-2025-01839,5,Screen artifact,Medium,Packaging error,2025-12-21
+DEF-01409,UNIT-07126,BATCH-2025-00493,3,Audio clipping,Low,Supplier quality issue,2025-02-09
+DEF-01410,UNIT-10129,BATCH-2026-00705,2,Lens scratch,Low,Supplier quality issue,2026-08-15
+DEF-01411,UNIT-16626,BATCH-2025-01164,1,Power fluctuation,Low,Environmental exposure,2025-12-25
+DEF-01412,UNIT-12053,BATCH-2025-00842,2,Lens scratch,Low,Supplier quality issue,2025-10-06
+DEF-01413,UNIT-07580,BATCH-2026-00527,3,Low volume output,Critical,Environmental exposure,2026-04-16
+DEF-01414,UNIT-05341,BATCH-2024-00367,8,Packaging damage,High,Packaging error,2024-12-27
+DEF-01415,UNIT-02751,BATCH-2025-00190,8,Ingress issue,Medium,Packaging error,2025-03-25
+DEF-01416,UNIT-32427,BATCH-2026-02266,8,Packaging damage,Low,Supplier quality issue,2026-05-14
+DEF-01417,UNIT-34120,BATCH-2026-02384,5,Color calibration issue,Low,Material defect,2026-07-22
+DEF-01418,UNIT-20724,BATCH-2025-01448,5,Color calibration issue,Critical,Material defect,2025-02-02
+DEF-01419,UNIT-00079,BATCH-2025-00006,6,Port instability,Low,Material defect,2025-05-21
+DEF-01420,UNIT-10022,BATCH-2025-00697,7,Thermal runaway risk,Medium,Process variation,2025-09-23
+DEF-01421,UNIT-37868,BATCH-2025-02648,5,Dead pixel,High,Investigation pending,2025-09-10
+DEF-01422,UNIT-06063,BATCH-2025-00418,7,Overheating,Low,Equipment calibration drift,2025-09-03
+DEF-01423,UNIT-27916,BATCH-2026-01952,6,Port instability,High,Material defect,2026-07-12
+DEF-01424,UNIT-31395,BATCH-2025-02198,4,Battery not detected,Low,Packaging error,2025-08-15
+DEF-01425,UNIT-16135,BATCH-2026-01127,1,Connector misalignment,Medium,Investigation pending,2026-03-11
+DEF-01426,UNIT-04831,BATCH-2025-00332,2,Camera focus failed,Low,Equipment calibration drift,2025-05-11
+DEF-01427,UNIT-06723,BATCH-2025-00464,5,Dead pixel,High,Equipment calibration drift,2025-07-02
+DEF-01428,UNIT-44940,BATCH-2025-03148,3,Speaker distortion,Medium,Investigation pending,2025-10-24
+DEF-01429,UNIT-04968,BATCH-2026-00342,8,Ingress issue,Medium,Environmental exposure,2026-09-22
+DEF-01430,UNIT-11895,BATCH-2025-00830,8,Packaging damage,Critical,Equipment calibration drift,2025-03-26
+DEF-01431,UNIT-49519,BATCH-2026-03462,3,Low volume output,High,Investigation pending,2026-07-24
+DEF-01432,UNIT-04506,BATCH-2026-00310,1,Power fluctuation,High,Supplier quality issue,2026-09-11
+DEF-01433,UNIT-34268,BATCH-2025-02395,4,Battery not detected,Low,Process variation,2025-03-08
+DEF-01434,UNIT-08265,BATCH-2026-00573,4,Charging instability,Medium,Handling damage,2026-08-18
+DEF-01435,UNIT-41064,BATCH-2025-02876,1,Power fluctuation,Medium,Packaging error,2025-08-18
+DEF-01436,UNIT-37902,BATCH-2025-02650,1,Connector misalignment,High,Handling damage,2025-04-08
+DEF-01437,UNIT-28893,BATCH-2025-02020,4,Cell imbalance,Medium,Investigation pending,2025-11-30
+DEF-01438,UNIT-36284,BATCH-2026-02537,6,Signal interference,High,Material defect,2026-08-09
+DEF-01439,UNIT-49077,BATCH-2024-03432,6,Connectivity drop,Low,Supplier quality issue,2025-01-09
+DEF-01440,UNIT-30284,BATCH-2025-02121,8,Packaging damage,Low,Equipment calibration drift,2025-05-18
+DEF-01441,UNIT-29250,BATCH-2025-02047,6,Signal interference,Medium,Process variation,2025-11-01
+DEF-01442,UNIT-04562,BATCH-2026-00315,7,Thermal runaway risk,Medium,Handling damage,2026-04-06
+DEF-01443,UNIT-07306,BATCH-2024-00506,4,Cell imbalance,Low,Packaging error,2024-11-30
+DEF-01444,UNIT-09544,BATCH-2024-00662,1,Short circuit,Low,Packaging error,2024-11-15
+DEF-01445,UNIT-21198,BATCH-2026-01482,7,Fan failure,High,Environmental exposure,2026-02-16
+DEF-01446,UNIT-12798,BATCH-2024-00895,7,Thermal runaway risk,High,Equipment calibration drift,2025-01-01
+DEF-01447,UNIT-05615,BATCH-2025-00387,1,Connector misalignment,Low,Environmental exposure,2025-02-13
+DEF-01448,UNIT-15649,BATCH-2025-01094,3,Audio clipping,Medium,Handling damage,2025-05-24
+DEF-01449,UNIT-20021,BATCH-2026-01399,4,Battery not detected,High,Material defect,2026-06-10
+DEF-01450,UNIT-48315,BATCH-2025-03381,6,Connectivity drop,Low,Investigation pending,2025-09-11
+DEF-01451,UNIT-00336,BATCH-2026-00023,2,Camera focus failed,Medium,Investigation pending,2026-07-09
+DEF-01452,UNIT-49045,BATCH-2024-03430,2,Sensor calibration drift,Medium,Packaging error,2024-12-31
+DEF-01453,UNIT-12353,BATCH-2026-00862,5,Screen artifact,Low,Equipment calibration drift,2026-04-05
+DEF-01454,UNIT-24844,BATCH-2026-01738,8,Final assembly defect,Medium,Process variation,2026-02-01
+DEF-01455,UNIT-43934,BATCH-2026-03079,6,Port instability,Medium,Equipment calibration drift,2026-09-12
+DEF-01456,UNIT-17338,BATCH-2024-01213,8,Ingress issue,Critical,Investigation pending,2024-12-26
+DEF-01457,UNIT-29286,BATCH-2025-02050,3,Low volume output,Low,Process variation,2025-11-29
+DEF-01458,UNIT-41635,BATCH-2025-02916,6,Connectivity drop,Medium,Environmental exposure,2026-01-09
+DEF-01459,UNIT-39899,BATCH-2026-02792,3,Audio clipping,Critical,Material defect,2026-05-16
+DEF-01460,UNIT-06527,BATCH-2025-00450,3,Low volume output,High,Equipment calibration drift,2025-12-30
+DEF-01461,UNIT-31507,BATCH-2026-02205,6,Port instability,Low,Material defect,2026-04-03
+DEF-01462,UNIT-03461,BATCH-2025-00238,1,Short circuit,High,Investigation pending,2025-07-12
+DEF-01463,UNIT-17439,BATCH-2025-01220,2,Lens scratch,High,Equipment calibration drift,2025-10-27
+DEF-01464,UNIT-31450,BATCH-2024-02202,7,Fan failure,Low,Investigation pending,2024-11-12
+DEF-01465,UNIT-21223,BATCH-2026-01484,5,Screen artifact,Low,Process variation,2026-05-09
+DEF-01466,UNIT-27692,BATCH-2025-01937,7,Fan failure,Medium,Material defect,2025-04-28
+DEF-01467,UNIT-26633,BATCH-2026-01861,4,Battery not detected,Low,Material defect,2026-09-30
+DEF-01468,UNIT-19821,BATCH-2024-01386,3,Audio clipping,Low,Material defect,2024-11-17
+DEF-01469,UNIT-03504,BATCH-2024-00242,4,Cell imbalance,Medium,Packaging error,2024-12-06
+DEF-01470,UNIT-10531,BATCH-2025-00734,4,Cell imbalance,High,Process variation,2025-12-08
+DEF-01471,UNIT-25671,BATCH-2025-01794,5,Color calibration issue,Low,Material defect,2025-10-22
+DEF-01472,UNIT-20904,BATCH-2025-01461,7,Overheating,High,Supplier quality issue,2025-08-22
+DEF-01473,UNIT-32626,BATCH-2026-02279,4,Battery not detected,Medium,Environmental exposure,2026-03-11
+DEF-01474,UNIT-43590,BATCH-2025-03055,7,Fan failure,Low,Packaging error,2025-07-14
+DEF-01475,UNIT-10500,BATCH-2025-00732,5,Dead pixel,Critical,Handling damage,2025-05-18
+DEF-01476,UNIT-25504,BATCH-2025-01782,4,Charging instability,High,Handling damage,2025-05-25
+DEF-01477,UNIT-33533,BATCH-2024-02343,2,Camera focus failed,Medium,Equipment calibration drift,2024-10-13
+DEF-01478,UNIT-17599,BATCH-2025-01231,1,Connector misalignment,Medium,Process variation,2025-03-25
+DEF-01479,UNIT-16280,BATCH-2025-01138,7,Thermal runaway risk,Low,Process variation,2025-08-22
+DEF-01480,UNIT-06605,BATCH-2026-00455,5,Screen artifact,Low,Process variation,2026-08-06
+DEF-01481,UNIT-35909,BATCH-2026-02510,1,Connector misalignment,High,Material defect,2026-06-17
+DEF-01482,UNIT-44219,BATCH-2026-03098,1,Power fluctuation,Medium,Investigation pending,2026-04-24
+DEF-01483,UNIT-10209,BATCH-2025-00711,4,Charging instability,Low,Equipment calibration drift,2025-08-09
+DEF-01484,UNIT-12441,BATCH-2024-00869,7,Fan failure,Low,Environmental exposure,2025-01-03
+DEF-01485,UNIT-14386,BATCH-2025-01006,8,Final assembly defect,Low,Handling damage,2025-05-07
+DEF-01486,UNIT-11761,BATCH-2025-00821,8,Final assembly defect,High,Process variation,2025-03-30
+DEF-01487,UNIT-36350,BATCH-2024-02541,8,Ingress issue,Critical,Equipment calibration drift,2024-11-23
+DEF-01488,UNIT-02564,BATCH-2025-00177,6,Port instability,Medium,Packaging error,2025-03-31
+DEF-01489,UNIT-10711,BATCH-2026-00747,8,Final assembly defect,Medium,Supplier quality issue,2026-04-22
+DEF-01490,UNIT-06033,BATCH-2025-00416,2,Lens scratch,Medium,Equipment calibration drift,2025-10-18
+DEF-01491,UNIT-33154,BATCH-2025-02317,5,Dead pixel,Medium,Material defect,2025-02-28
+DEF-01492,UNIT-37855,BATCH-2026-02647,8,Ingress issue,Medium,Material defect,2026-03-26
+DEF-01493,UNIT-19489,BATCH-2025-01362,8,Ingress issue,Critical,Investigation pending,2025-09-19
+DEF-01494,UNIT-27369,BATCH-2025-01914,6,Port instability,Medium,Handling damage,2025-03-31
+DEF-01495,UNIT-44520,BATCH-2026-03119,8,Ingress issue,Medium,Process variation,2026-03-27
+DEF-01496,UNIT-12179,BATCH-2025-00850,3,Speaker distortion,Low,Environmental exposure,2025-09-05
+DEF-01497,UNIT-18421,BATCH-2025-01288,5,Screen artifact,Critical,Packaging error,2025-09-15
+DEF-01498,UNIT-47520,BATCH-2024-03327,8,Final assembly defect,Medium,Investigation pending,2024-11-12
+DEF-01499,UNIT-33020,BATCH-2025-02307,2,Camera focus failed,Critical,Packaging error,2025-05-29
+DEF-01500,UNIT-43460,BATCH-2026-03046,1,Connector misalignment,High,Handling damage,2026-08-13
+DEF-01501,UNIT-45999,BATCH-2026-03223,3,Low volume output,Medium,Material defect,2026-06-10
+DEF-01502,UNIT-41578,BATCH-2025-02911,1,Short circuit,High,Investigation pending,2025-11-23
+DEF-01503,UNIT-19650,BATCH-2025-01374,2,Sensor calibration drift,Medium,Packaging error,2025-09-24
+DEF-01504,UNIT-08164,BATCH-2024-00566,4,Cell imbalance,Critical,Handling damage,2024-12-26
+DEF-01505,UNIT-21875,BATCH-2026-01531,4,Cell imbalance,Low,Equipment calibration drift,2026-07-12
+DEF-01506,UNIT-45786,BATCH-2025-03209,6,Connectivity drop,Low,Packaging error,2025-12-06
+DEF-01507,UNIT-49291,BATCH-2026-03447,2,Camera focus failed,High,Equipment calibration drift,2026-02-08
+DEF-01508,UNIT-38581,BATCH-2025-02699,2,Camera focus failed,Low,Supplier quality issue,2025-10-29
+DEF-01509,UNIT-26111,BATCH-2025-01825,3,Low volume output,Critical,Equipment calibration drift,2025-03-10
+DEF-01510,UNIT-19461,BATCH-2024-01360,7,Fan failure,Critical,Investigation pending,2025-01-15
+DEF-01511,UNIT-40626,BATCH-2025-02845,7,Thermal runaway risk,Low,Supplier quality issue,2025-05-19
+DEF-01512,UNIT-06061,BATCH-2024-00417,4,Battery not detected,Medium,Supplier quality issue,2024-10-20
+DEF-01513,UNIT-40934,BATCH-2024-02867,1,Connector misalignment,Low,Environmental exposure,2024-12-12
+DEF-01514,UNIT-30180,BATCH-2026-02112,7,Overheating,Critical,Supplier quality issue,2026-02-19
+DEF-01515,UNIT-41487,BATCH-2026-02905,4,Cell imbalance,Medium,Environmental exposure,2026-06-19
+DEF-01516,UNIT-49235,BATCH-2024-03443,3,Audio clipping,Low,Equipment calibration drift,2024-10-18
+DEF-01517,UNIT-26480,BATCH-2025-01850,4,Charging instability,Medium,Supplier quality issue,2025-01-30
+DEF-01518,UNIT-41582,BATCH-2026-02912,8,Packaging damage,High,Supplier quality issue,2026-04-13
+DEF-01519,UNIT-14272,BATCH-2025-00998,1,Connector misalignment,Medium,Environmental exposure,2025-04-02
+DEF-01520,UNIT-18861,BATCH-2025-01318,4,Cell imbalance,Low,Investigation pending,2025-06-11
+DEF-01521,UNIT-05006,BATCH-2026-00344,8,Final assembly defect,Low,Investigation pending,2026-08-06
+DEF-01522,UNIT-36884,BATCH-2026-02577,3,Low volume output,Medium,Handling damage,2026-02-06
+DEF-01523,UNIT-15063,BATCH-2025-01055,8,Ingress issue,Low,Packaging error,2026-01-04
+DEF-01524,UNIT-02065,BATCH-2026-00143,3,Low volume output,Medium,Environmental exposure,2026-04-26
+DEF-01525,UNIT-26014,BATCH-2025-01818,6,Port instability,Medium,Investigation pending,2025-03-24
+DEF-01526,UNIT-35373,BATCH-2024-02473,7,Overheating,Medium,Handling damage,2024-10-14
+DEF-01527,UNIT-34817,BATCH-2024-02434,7,Thermal runaway risk,Critical,Supplier quality issue,2024-12-01
+DEF-01528,UNIT-02144,BATCH-2026-00148,6,Port instability,Medium,Packaging error,2026-06-21
+DEF-01529,UNIT-29127,BATCH-2026-02038,7,Overheating,Medium,Handling damage,2026-07-19
+DEF-01530,UNIT-26330,BATCH-2025-01840,1,Short circuit,Medium,Equipment calibration drift,2025-08-16
+DEF-01531,UNIT-49755,BATCH-2026-03478,7,Overheating,Critical,Supplier quality issue,2026-06-04
+DEF-01532,UNIT-38729,BATCH-2026-02710,3,Audio clipping,High,Supplier quality issue,2026-06-08
+DEF-01533,UNIT-30779,BATCH-2026-02153,2,Sensor calibration drift,Medium,Environmental exposure,2026-09-06
+DEF-01534,UNIT-27608,BATCH-2025-01930,3,Low volume output,Low,Material defect,2025-03-09
+DEF-01535,UNIT-48127,BATCH-2025-03368,6,Port instability,Low,Investigation pending,2025-09-27
+DEF-01536,UNIT-36954,BATCH-2025-02582,1,Power fluctuation,High,Supplier quality issue,2025-09-17
+DEF-01537,UNIT-38398,BATCH-2026-02686,3,Audio clipping,Low,Investigation pending,2026-01-17
+DEF-01538,UNIT-35797,BATCH-2025-02501,3,Low volume output,Medium,Supplier quality issue,2025-04-04
+DEF-01539,UNIT-33527,BATCH-2024-02343,4,Battery not detected,High,Environmental exposure,2024-10-13
+DEF-01540,UNIT-12229,BATCH-2025-00853,5,Dead pixel,Low,Material defect,2025-07-17
+DEF-01541,UNIT-01434,BATCH-2024-00101,4,Cell imbalance,Medium,Equipment calibration drift,2024-12-11
+DEF-01542,UNIT-30756,BATCH-2025-02152,4,Battery not detected,Low,Packaging error,2025-06-18
+DEF-01543,UNIT-37243,BATCH-2025-02604,3,Low volume output,Medium,Packaging error,2025-03-09
+DEF-01544,UNIT-48050,BATCH-2025-03363,1,Power fluctuation,Medium,Environmental exposure,2025-02-18
+DEF-01545,UNIT-48091,BATCH-2024-03366,3,Speaker distortion,Critical,Handling damage,2024-12-08
+DEF-01546,UNIT-08366,BATCH-2025-00580,4,Charging instability,Medium,Handling damage,2025-09-25
+DEF-01547,UNIT-36392,BATCH-2025-02544,1,Short circuit,Low,Material defect,2025-10-29
+DEF-01548,UNIT-26417,BATCH-2024-01846,1,Short circuit,Medium,Investigation pending,2024-11-27
+DEF-01549,UNIT-32022,BATCH-2025-02239,5,Screen artifact,Critical,Handling damage,2025-07-19
+DEF-01550,UNIT-26211,BATCH-2026-01831,4,Charging instability,Medium,Packaging error,2026-06-24
+DEF-01551,UNIT-49164,BATCH-2025-03438,3,Low volume output,Medium,Investigation pending,2025-07-05
+DEF-01552,UNIT-25877,BATCH-2025-01809,3,Low volume output,Medium,Investigation pending,2025-04-13
+DEF-01553,UNIT-20842,BATCH-2025-01457,6,Port instability,Medium,Supplier quality issue,2025-09-25
+DEF-01554,UNIT-40389,BATCH-2026-02828,7,Fan failure,Medium,Investigation pending,2026-05-11
+DEF-01555,UNIT-32991,BATCH-2025-02305,6,Connectivity drop,Low,Environmental exposure,2025-12-17
+DEF-01556,UNIT-36355,BATCH-2024-02541,8,Final assembly defect,Medium,Equipment calibration drift,2024-11-19
+DEF-01557,UNIT-32201,BATCH-2025-02251,8,Packaging damage,Medium,Investigation pending,2025-04-07
+DEF-01558,UNIT-07209,BATCH-2025-00500,6,Connectivity drop,Low,Process variation,2025-06-13
+DEF-01559,UNIT-13192,BATCH-2025-00923,8,Final assembly defect,Low,Environmental exposure,2025-01-25
+DEF-01560,UNIT-30790,BATCH-2026-02154,7,Thermal runaway risk,Critical,Handling damage,2026-01-30
+DEF-01561,UNIT-35954,BATCH-2026-02513,2,Lens scratch,Medium,Handling damage,2026-03-16
+DEF-01562,UNIT-29359,BATCH-2025-02055,8,Final assembly defect,Critical,Equipment calibration drift,2025-06-24
+DEF-01563,UNIT-01974,BATCH-2026-00137,2,Sensor calibration drift,High,Environmental exposure,2026-08-07
+DEF-01564,UNIT-23501,BATCH-2025-01646,2,Lens scratch,Critical,Investigation pending,2025-05-26
+DEF-01565,UNIT-39430,BATCH-2025-02760,1,Connector misalignment,High,Environmental exposure,2025-06-08
+DEF-01566,UNIT-12843,BATCH-2025-00899,3,Low volume output,Low,Material defect,2025-11-16
+DEF-01567,UNIT-14089,BATCH-2026-00986,4,Battery not detected,High,Supplier quality issue,2026-07-14
+DEF-01568,UNIT-46134,BATCH-2025-03233,5,Screen artifact,Medium,Supplier quality issue,2025-10-12
+DEF-01569,UNIT-46018,BATCH-2025-03224,7,Thermal runaway risk,Low,Equipment calibration drift,2026-01-08
+DEF-01570,UNIT-41252,BATCH-2025-02889,1,Connector misalignment,Medium,Material defect,2025-06-21
+DEF-01571,UNIT-26470,BATCH-2025-01850,8,Packaging damage,High,Material defect,2025-01-25
+DEF-01572,UNIT-32182,BATCH-2025-02250,3,Low volume output,Medium,Supplier quality issue,2025-11-30
+DEF-01573,UNIT-38752,BATCH-2024-02712,3,Low volume output,High,Investigation pending,2024-10-23
+DEF-01574,UNIT-02828,BATCH-2026-00196,1,Connector misalignment,Low,Supplier quality issue,2026-05-23
+DEF-01575,UNIT-27758,BATCH-2024-01942,8,Packaging damage,Medium,Packaging error,2024-10-27
+DEF-01576,UNIT-32267,BATCH-2024-02255,8,Packaging damage,Medium,Equipment calibration drift,2024-12-03
+DEF-01577,UNIT-29860,BATCH-2024-02091,4,Charging instability,Medium,Environmental exposure,2024-12-26
+DEF-01578,UNIT-32322,BATCH-2026-02259,6,Port instability,Medium,Supplier quality issue,2026-08-02
+DEF-01579,UNIT-11850,BATCH-2025-00827,2,Lens scratch,Low,Investigation pending,2025-12-11
+DEF-01580,UNIT-14284,BATCH-2026-00999,1,Connector misalignment,Low,Handling damage,2026-01-27
+DEF-01581,UNIT-24305,BATCH-2024-01701,5,Dead pixel,Medium,Handling damage,2024-12-13
+DEF-01582,UNIT-48477,BATCH-2025-03392,2,Sensor calibration drift,High,Material defect,2025-12-23
+DEF-01583,UNIT-35027,BATCH-2026-02449,6,Port instability,High,Material defect,2026-03-12
+DEF-01584,UNIT-38883,BATCH-2026-02722,6,Port instability,High,Handling damage,2026-08-22
+DEF-01585,UNIT-40453,BATCH-2025-02832,2,Camera focus failed,High,Environmental exposure,2025-10-21
+DEF-01586,UNIT-11999,BATCH-2026-00837,6,Signal interference,Medium,Environmental exposure,2026-08-10
+DEF-01587,UNIT-29352,BATCH-2025-02055,7,Fan failure,Critical,Handling damage,2025-06-24
+DEF-01588,UNIT-43587,BATCH-2024-03054,7,Thermal runaway risk,Medium,Supplier quality issue,2024-12-26
+DEF-01589,UNIT-16089,BATCH-2026-01125,8,Packaging damage,Low,Process variation,2026-05-31
+DEF-01590,UNIT-24931,BATCH-2026-01744,7,Thermal runaway risk,Low,Handling damage,2026-06-01
+DEF-01591,UNIT-15901,BATCH-2025-01112,2,Camera focus failed,Medium,Material defect,2025-04-02
+DEF-01592,UNIT-08018,BATCH-2026-00555,5,Color calibration issue,Low,Environmental exposure,2026-09-22
+DEF-01593,UNIT-33206,BATCH-2025-02321,2,Lens scratch,High,Environmental exposure,2025-01-22
+DEF-01594,UNIT-43945,BATCH-2026-03079,3,Speaker distortion,Medium,Environmental exposure,2026-09-11
+DEF-01595,UNIT-27741,BATCH-2025-01941,7,Overheating,Medium,Environmental exposure,2025-11-20
+DEF-01596,UNIT-03137,BATCH-2026-00216,6,Port instability,Medium,Material defect,2026-08-27
+DEF-01597,UNIT-12514,BATCH-2026-00874,7,Overheating,Low,Environmental exposure,2026-02-04
+DEF-01598,UNIT-35484,BATCH-2026-02480,6,Port instability,Low,Supplier quality issue,2026-02-05
+DEF-01599,UNIT-23128,BATCH-2026-01619,5,Dead pixel,High,Supplier quality issue,2026-07-27
+DEF-01600,UNIT-00624,BATCH-2025-00044,3,Audio clipping,Low,Environmental exposure,2025-10-23
+DEF-01601,UNIT-45218,BATCH-2024-03168,8,Packaging damage,Medium,Material defect,2024-10-10
+DEF-01602,UNIT-34052,BATCH-2026-02379,2,Lens scratch,Low,Process variation,2026-05-08
+DEF-01603,UNIT-46001,BATCH-2026-03223,2,Camera focus failed,High,Handling damage,2026-06-12
+DEF-01604,UNIT-17679,BATCH-2026-01236,2,Sensor calibration drift,Low,Investigation pending,2026-02-17
+DEF-01605,UNIT-20909,BATCH-2024-01462,7,Thermal runaway risk,Low,Environmental exposure,2024-12-19
+DEF-01606,UNIT-18428,BATCH-2025-01289,4,Cell imbalance,Medium,Handling damage,2025-08-29
+DEF-01607,UNIT-00838,BATCH-2025-00059,6,Connectivity drop,Medium,Material defect,2025-09-10
+DEF-01608,UNIT-28216,BATCH-2026-01973,6,Port instability,Low,Process variation,2026-09-02
+DEF-01609,UNIT-39084,BATCH-2025-02736,1,Connector misalignment,Low,Handling damage,2025-02-11
+DEF-01610,UNIT-24206,BATCH-2026-01694,8,Packaging damage,Low,Handling damage,2026-04-04
+DEF-01611,UNIT-00919,BATCH-2026-00065,3,Audio clipping,Medium,Environmental exposure,2026-05-18
+DEF-01612,UNIT-31588,BATCH-2025-02211,5,Dead pixel,Low,Environmental exposure,2025-04-22
+DEF-01613,UNIT-36003,BATCH-2025-02517,2,Sensor calibration drift,Medium,Environmental exposure,2025-07-02
+DEF-01614,UNIT-42848,BATCH-2026-03004,3,Low volume output,Medium,Packaging error,2026-02-05
+DEF-01615,UNIT-31159,BATCH-2025-02181,4,Cell imbalance,Critical,Packaging error,2025-08-17
+DEF-01616,UNIT-30465,BATCH-2025-02132,7,Thermal runaway risk,Medium,Environmental exposure,2025-08-26
+DEF-01617,UNIT-10445,BATCH-2025-00728,3,Speaker distortion,High,Investigation pending,2025-05-25
+DEF-01618,UNIT-20043,BATCH-2025-01401,5,Dead pixel,High,Equipment calibration drift,2025-12-10
+DEF-01619,UNIT-00719,BATCH-2025-00050,4,Battery not detected,Medium,Environmental exposure,2025-10-17
+DEF-01620,UNIT-07801,BATCH-2025-00541,2,Lens scratch,High,Process variation,2025-08-28
+DEF-01621,UNIT-30591,BATCH-2026-02140,6,Port instability,Medium,Environmental exposure,2026-08-26
+DEF-01622,UNIT-35513,BATCH-2026-02482,2,Sensor calibration drift,Low,Equipment calibration drift,2026-08-13
+DEF-01623,UNIT-08512,BATCH-2025-00590,4,Battery not detected,High,Environmental exposure,2025-12-22
+DEF-01624,UNIT-22413,BATCH-2025-01568,1,Connector misalignment,Medium,Environmental exposure,2025-01-21
+DEF-01625,UNIT-22978,BATCH-2024-01609,3,Low volume output,Low,Supplier quality issue,2024-11-25
+DEF-01626,UNIT-38985,BATCH-2026-02729,3,Speaker distortion,Medium,Investigation pending,2026-04-08
+DEF-01627,UNIT-24266,BATCH-2024-01698,5,Dead pixel,Low,Handling damage,2024-12-26
+DEF-01628,UNIT-23005,BATCH-2026-01611,4,Battery not detected,Medium,Equipment calibration drift,2026-04-07
+DEF-01629,UNIT-04335,BATCH-2025-00298,8,Packaging damage,High,Equipment calibration drift,2025-12-01
+DEF-01630,UNIT-09605,BATCH-2025-00666,4,Cell imbalance,Critical,Process variation,2025-09-26
+DEF-01631,UNIT-09046,BATCH-2025-00627,8,Final assembly defect,Low,Investigation pending,2025-08-16
+DEF-01632,UNIT-37622,BATCH-2026-02629,6,Port instability,Medium,Investigation pending,2026-02-16
+DEF-01633,UNIT-22124,BATCH-2024-01548,4,Cell imbalance,Low,Environmental exposure,2024-11-22
+DEF-01634,UNIT-20177,BATCH-2025-01411,5,Color calibration issue,Critical,Process variation,2025-01-11
+DEF-01635,UNIT-12335,BATCH-2025-00861,4,Cell imbalance,High,Process variation,2025-02-19
+DEF-01636,UNIT-12645,BATCH-2024-00884,7,Thermal runaway risk,Low,Process variation,2024-11-26
+DEF-01637,UNIT-43548,BATCH-2025-03052,4,Charging instability,Low,Supplier quality issue,2025-03-23
+DEF-01638,UNIT-01183,BATCH-2026-00083,8,Final assembly defect,Low,Handling damage,2026-06-19
+DEF-01639,UNIT-10728,BATCH-2026-00748,5,Color calibration issue,High,Material defect,2026-07-13
+DEF-01640,UNIT-20980,BATCH-2026-01466,8,Ingress issue,Medium,Supplier quality issue,2026-10-03
+DEF-01641,UNIT-36210,BATCH-2025-02532,6,Connectivity drop,Medium,Supplier quality issue,2025-03-18
+DEF-01642,UNIT-10195,BATCH-2025-00710,3,Low volume output,High,Investigation pending,2025-07-04
+DEF-01643,UNIT-23004,BATCH-2026-01611,1,Power fluctuation,Low,Packaging error,2026-04-13
+DEF-01644,UNIT-24321,BATCH-2026-01702,7,Fan failure,Critical,Material defect,2026-06-11
+DEF-01645,UNIT-42974,BATCH-2025-03012,3,Low volume output,Medium,Supplier quality issue,2025-12-16
+DEF-01646,UNIT-43153,BATCH-2025-03025,5,Screen artifact,High,Process variation,2025-02-20
+DEF-01647,UNIT-41077,BATCH-2026-02877,3,Speaker distortion,Medium,Environmental exposure,2026-04-16
+DEF-01648,UNIT-16404,BATCH-2025-01148,1,Power fluctuation,High,Investigation pending,2025-06-06
+DEF-01649,UNIT-47039,BATCH-2025-03293,1,Short circuit,Low,Investigation pending,2025-10-24
+DEF-01650,UNIT-22320,BATCH-2025-01562,5,Dead pixel,Medium,Equipment calibration drift,2025-04-03
+DEF-01651,UNIT-15868,BATCH-2025-01109,2,Camera focus failed,Medium,Supplier quality issue,2025-06-05
+DEF-01652,UNIT-22721,BATCH-2026-01591,6,Signal interference,High,Investigation pending,2026-07-31
+DEF-01653,UNIT-39602,BATCH-2025-02772,1,Connector misalignment,Low,Equipment calibration drift,2025-02-07
+DEF-01654,UNIT-48011,BATCH-2026-03361,7,Thermal runaway risk,Low,Environmental exposure,2026-10-01
+DEF-01655,UNIT-34888,BATCH-2025-02440,5,Screen artifact,Medium,Handling damage,2025-11-27
+DEF-01656,UNIT-39398,BATCH-2025-02757,5,Color calibration issue,High,Packaging error,2025-03-12
+DEF-01657,UNIT-32068,BATCH-2025-02242,7,Thermal runaway risk,High,Process variation,2025-06-12
+DEF-01658,UNIT-20224,BATCH-2025-01414,1,Short circuit,Medium,Environmental exposure,2025-12-24
+DEF-01659,UNIT-39329,BATCH-2025-02752,6,Signal interference,Low,Packaging error,2025-12-14
+DEF-01660,UNIT-12090,BATCH-2026-00844,1,Power fluctuation,Medium,Supplier quality issue,2026-08-02
+DEF-01661,UNIT-47611,BATCH-2024-03333,8,Ingress issue,Low,Process variation,2024-10-18
+DEF-01662,UNIT-18113,BATCH-2025-01265,5,Screen artifact,High,Equipment calibration drift,2025-03-28
+DEF-01663,UNIT-12864,BATCH-2025-00900,2,Camera focus failed,Low,Process variation,2025-05-08
+DEF-01664,UNIT-26629,BATCH-2026-01861,6,Signal interference,Medium,Equipment calibration drift,2026-09-29
+DEF-01665,UNIT-38760,BATCH-2026-02713,6,Connectivity drop,Medium,Process variation,2026-06-22
+DEF-01666,UNIT-32100,BATCH-2026-02244,1,Power fluctuation,Low,Environmental exposure,2026-10-03
+DEF-01667,UNIT-08934,BATCH-2025-00619,3,Low volume output,Low,Equipment calibration drift,2025-11-15
+DEF-01668,UNIT-01593,BATCH-2025-00112,5,Dead pixel,Low,Process variation,2025-12-25
+DEF-01669,UNIT-43672,BATCH-2025-03060,8,Final assembly defect,Low,Supplier quality issue,2025-02-21
+DEF-01670,UNIT-23094,BATCH-2026-01617,6,Connectivity drop,Low,Supplier quality issue,2026-05-25
+DEF-01671,UNIT-45724,BATCH-2025-03204,3,Speaker distortion,Low,Packaging error,2025-05-24
+DEF-01672,UNIT-15996,BATCH-2025-01118,8,Ingress issue,High,Handling damage,2025-07-14
+DEF-01673,UNIT-24540,BATCH-2025-01717,4,Charging instability,Low,Process variation,2025-02-25
+DEF-01674,UNIT-28134,BATCH-2025-01967,2,Camera focus failed,High,Equipment calibration drift,2025-09-25
+DEF-01675,UNIT-46036,BATCH-2026-03226,4,Cell imbalance,Low,Process variation,2026-02-14
+DEF-01676,UNIT-19485,BATCH-2025-01362,3,Low volume output,Low,Equipment calibration drift,2025-09-11
+DEF-01677,UNIT-02852,BATCH-2024-00197,3,Speaker distortion,Critical,Process variation,2024-10-24
+DEF-01678,UNIT-13603,BATCH-2024-00952,1,Short circuit,Medium,Environmental exposure,2024-12-24
+DEF-01679,UNIT-05966,BATCH-2025-00411,1,Power fluctuation,Medium,Investigation pending,2025-04-06
+DEF-01680,UNIT-00101,BATCH-2024-00007,5,Dead pixel,Medium,Material defect,2024-12-07
+DEF-01681,UNIT-16526,BATCH-2025-01157,7,Overheating,High,Material defect,2025-10-31
+DEF-01682,UNIT-14346,BATCH-2026-01003,7,Fan failure,High,Environmental exposure,2026-02-04
+DEF-01683,UNIT-12582,BATCH-2024-00879,4,Cell imbalance,Medium,Process variation,2025-01-20
+DEF-01684,UNIT-15922,BATCH-2026-01113,7,Thermal runaway risk,Critical,Packaging error,2026-08-14
+DEF-01685,UNIT-08190,BATCH-2026-00567,3,Speaker distortion,Low,Equipment calibration drift,2026-07-25
+DEF-01686,UNIT-03455,BATCH-2025-00238,4,Battery not detected,Low,Handling damage,2025-07-09
+DEF-01687,UNIT-03099,BATCH-2026-00214,8,Ingress issue,Medium,Equipment calibration drift,2026-07-12
+DEF-01688,UNIT-33102,BATCH-2026-02313,2,Lens scratch,Low,Handling damage,2026-08-31
+DEF-01689,UNIT-07916,BATCH-2025-00549,4,Cell imbalance,High,Packaging error,2025-12-09
+DEF-01690,UNIT-08502,BATCH-2025-00589,5,Dead pixel,Medium,Process variation,2025-04-07
+DEF-01691,UNIT-31606,BATCH-2024-02212,3,Speaker distortion,Critical,Material defect,2024-12-01
+DEF-01692,UNIT-20332,BATCH-2026-01421,3,Low volume output,Medium,Environmental exposure,2026-06-11
+DEF-01693,UNIT-23132,BATCH-2026-01620,7,Fan failure,Low,Process variation,2026-05-12
+DEF-01694,UNIT-49425,BATCH-2024-03455,6,Port instability,Low,Equipment calibration drift,2024-10-28
+DEF-01695,UNIT-19526,BATCH-2025-01365,5,Screen artifact,High,Handling damage,2025-02-19
+DEF-01696,UNIT-47685,BATCH-2025-03338,6,Signal interference,Medium,Packaging error,2025-07-28
+DEF-01697,UNIT-25131,BATCH-2026-01758,7,Fan failure,Medium,Packaging error,2026-04-30
+DEF-01698,UNIT-29566,BATCH-2025-02070,5,Color calibration issue,Critical,Supplier quality issue,2025-03-24
+DEF-01699,UNIT-33219,BATCH-2026-02322,2,Camera focus failed,Critical,Process variation,2026-01-27
+DEF-01700,UNIT-27922,BATCH-2026-01952,6,Port instability,Low,Supplier quality issue,2026-07-14
+DEF-01701,UNIT-27948,BATCH-2026-01954,8,Ingress issue,Low,Material defect,2026-04-17
+DEF-01702,UNIT-18927,BATCH-2025-01323,5,Dead pixel,Critical,Packaging error,2025-11-06
+DEF-01703,UNIT-33159,BATCH-2024-02318,3,Low volume output,Medium,Investigation pending,2024-10-31
+DEF-01704,UNIT-33917,BATCH-2025-02371,6,Signal interference,High,Environmental exposure,2025-08-17
+DEF-01705,UNIT-38491,BATCH-2024-02693,5,Dead pixel,Critical,Material defect,2025-01-03
+DEF-01706,UNIT-37191,BATCH-2025-02600,8,Final assembly defect,Medium,Material defect,2025-12-10
+DEF-01707,UNIT-37757,BATCH-2024-02640,6,Signal interference,Low,Process variation,2025-01-01
+DEF-01708,UNIT-05805,BATCH-2025-00401,7,Thermal runaway risk,Low,Handling damage,2025-02-20
+DEF-01709,UNIT-07815,BATCH-2025-00542,2,Lens scratch,Critical,Handling damage,2025-06-27
+DEF-01710,UNIT-35718,BATCH-2026-02496,7,Thermal runaway risk,Medium,Equipment calibration drift,2026-06-07
+DEF-01711,UNIT-31279,BATCH-2025-02189,1,Power fluctuation,High,Investigation pending,2025-09-12
+DEF-01712,UNIT-14504,BATCH-2024-01015,3,Low volume output,High,Equipment calibration drift,2025-01-14
+DEF-01713,UNIT-39195,BATCH-2026-02744,1,Connector misalignment,Medium,Equipment calibration drift,2026-03-18
+DEF-01714,UNIT-35858,BATCH-2024-02506,4,Battery not detected,Medium,Packaging error,2024-11-24
+DEF-01715,UNIT-24724,BATCH-2024-01730,7,Fan failure,Critical,Process variation,2024-10-29
+DEF-01716,UNIT-21417,BATCH-2026-01499,2,Camera focus failed,Low,Packaging error,2026-01-19
+DEF-01717,UNIT-25995,BATCH-2024-01817,2,Sensor calibration drift,Low,Environmental exposure,2024-10-18
+DEF-01718,UNIT-29512,BATCH-2024-02066,1,Power fluctuation,High,Supplier quality issue,2024-11-08
+DEF-01719,UNIT-01719,BATCH-2025-00120,7,Thermal runaway risk,Low,Supplier quality issue,2025-04-02
+DEF-01720,UNIT-24534,BATCH-2025-01717,6,Port instability,Medium,Process variation,2025-02-23
+DEF-01721,UNIT-48638,BATCH-2024-03402,7,Thermal runaway risk,Medium,Process variation,2024-10-06
+DEF-01722,UNIT-25690,BATCH-2025-01795,2,Camera focus failed,Medium,Packaging error,2025-02-23
+DEF-01723,UNIT-13638,BATCH-2026-00955,5,Color calibration issue,Medium,Equipment calibration drift,2026-09-29
+DEF-01724,UNIT-33437,BATCH-2025-02337,1,Connector misalignment,High,Environmental exposure,2025-11-26
+DEF-01725,UNIT-28430,BATCH-2024-01988,2,Sensor calibration drift,High,Supplier quality issue,2024-11-27
+DEF-01726,UNIT-01147,BATCH-2026-00081,2,Lens scratch,Medium,Packaging error,2026-04-26
+DEF-01727,UNIT-38909,BATCH-2024-02724,3,Speaker distortion,Critical,Investigation pending,2024-10-09
+DEF-01728,UNIT-22834,BATCH-2026-01599,8,Packaging damage,Medium,Equipment calibration drift,2026-07-16
+DEF-01729,UNIT-28450,BATCH-2025-01990,5,Dead pixel,Low,Equipment calibration drift,2025-06-17
+DEF-01730,UNIT-42510,BATCH-2025-02980,8,Packaging damage,Medium,Equipment calibration drift,2025-07-17
+DEF-01731,UNIT-35443,BATCH-2026-02478,7,Thermal runaway risk,Low,Environmental exposure,2026-10-04
+DEF-01732,UNIT-29051,BATCH-2025-02032,8,Ingress issue,High,Packaging error,2025-05-11
+DEF-01733,UNIT-22273,BATCH-2026-01559,6,Signal interference,Low,Environmental exposure,2026-03-08
+DEF-01734,UNIT-02237,BATCH-2025-00155,6,Connectivity drop,Medium,Material defect,2025-10-12
+DEF-01735,UNIT-47403,BATCH-2025-03318,5,Dead pixel,High,Process variation,2026-01-10
+DEF-01736,UNIT-17475,BATCH-2026-01223,5,Color calibration issue,Low,Packaging error,2026-05-20
+DEF-01737,UNIT-08577,BATCH-2025-00594,7,Overheating,Low,Packaging error,2025-02-09
+DEF-01738,UNIT-49023,BATCH-2026-03429,7,Fan failure,Low,Environmental exposure,2026-07-16
+DEF-01739,UNIT-17961,BATCH-2026-01255,7,Overheating,High,Packaging error,2026-07-19
+DEF-01740,UNIT-21358,BATCH-2025-01494,8,Packaging damage,Medium,Handling damage,2026-01-07
+DEF-01741,UNIT-24410,BATCH-2026-01708,7,Thermal runaway risk,Medium,Investigation pending,2026-08-21
+DEF-01742,UNIT-10167,BATCH-2026-00708,7,Overheating,Low,Material defect,2026-06-28
+DEF-01743,UNIT-13507,BATCH-2026-00945,8,Packaging damage,Medium,Packaging error,2026-06-16
+DEF-01744,UNIT-00358,BATCH-2024-00024,5,Dead pixel,Critical,Equipment calibration drift,2024-12-27
+DEF-01745,UNIT-18443,BATCH-2026-01290,8,Ingress issue,Medium,Investigation pending,2026-08-28
+DEF-01746,UNIT-25238,BATCH-2026-01765,6,Port instability,Medium,Supplier quality issue,2026-09-07
+DEF-01747,UNIT-42910,BATCH-2024-03008,2,Sensor calibration drift,High,Process variation,2024-12-04
+DEF-01748,UNIT-05175,BATCH-2026-00355,8,Ingress issue,High,Environmental exposure,2026-05-02
+DEF-01749,UNIT-43270,BATCH-2025-03032,5,Screen artifact,Medium,Handling damage,2025-07-26
+DEF-01750,UNIT-07530,BATCH-2025-00523,8,Packaging damage,Medium,Process variation,2025-03-29
+DEF-01751,UNIT-23396,BATCH-2026-01638,4,Battery not detected,Medium,Investigation pending,2026-09-28
+DEF-01752,UNIT-30711,BATCH-2026-02148,4,Battery not detected,Medium,Supplier quality issue,2026-04-24
+DEF-01753,UNIT-11437,BATCH-2026-00798,5,Screen artifact,Low,Supplier quality issue,2026-02-05
+DEF-01754,UNIT-00824,BATCH-2025-00059,3,Low volume output,Medium,Environmental exposure,2025-09-09
+DEF-01755,UNIT-23546,BATCH-2026-01648,3,Audio clipping,Medium,Equipment calibration drift,2026-08-30
+DEF-01756,UNIT-12379,BATCH-2025-00864,4,Cell imbalance,Medium,Investigation pending,2025-11-30
+DEF-01757,UNIT-16685,BATCH-2026-01168,4,Charging instability,High,Material defect,2026-02-04
+DEF-01758,UNIT-37613,BATCH-2026-02629,5,Color calibration issue,Medium,Equipment calibration drift,2026-02-14
+DEF-01759,UNIT-04059,BATCH-2024-00280,2,Camera focus failed,Medium,Equipment calibration drift,2024-12-18
+DEF-01760,UNIT-17490,BATCH-2026-01224,8,Packaging damage,Low,Supplier quality issue,2026-04-18
+DEF-01761,UNIT-20720,BATCH-2025-01448,6,Signal interference,Critical,Investigation pending,2025-02-05
+DEF-01762,UNIT-46563,BATCH-2026-03262,7,Overheating,Medium,Process variation,2026-05-11
+DEF-01763,UNIT-05780,BATCH-2026-00399,5,Dead pixel,Low,Investigation pending,2026-05-17
+DEF-01764,UNIT-09769,BATCH-2025-00678,4,Cell imbalance,Medium,Environmental exposure,2025-03-14
+DEF-01765,UNIT-24268,BATCH-2024-01698,6,Signal interference,Low,Handling damage,2024-12-19
+DEF-01766,UNIT-29510,BATCH-2024-02066,5,Color calibration issue,Low,Material defect,2024-11-10
+DEF-01767,UNIT-19117,BATCH-2025-01336,1,Power fluctuation,Medium,Packaging error,2025-01-26
+DEF-01768,UNIT-38150,BATCH-2025-02668,5,Dead pixel,Low,Handling damage,2025-08-18
+DEF-01769,UNIT-06074,BATCH-2025-00418,2,Lens scratch,High,Supplier quality issue,2025-08-29
+DEF-01770,UNIT-28221,BATCH-2026-01973,2,Sensor calibration drift,Medium,Supplier quality issue,2026-09-06
+DEF-01771,UNIT-02783,BATCH-2026-00192,5,Color calibration issue,High,Handling damage,2026-10-07
+DEF-01772,UNIT-38387,BATCH-2026-02685,8,Final assembly defect,Medium,Environmental exposure,2026-08-01
+DEF-01773,UNIT-39717,BATCH-2024-02780,1,Connector misalignment,Critical,Material defect,2024-10-24
+DEF-01774,UNIT-19481,BATCH-2025-01362,6,Signal interference,Medium,Process variation,2025-09-16
+DEF-01775,UNIT-14690,BATCH-2026-01027,6,Connectivity drop,Medium,Material defect,2026-04-01
+DEF-01776,UNIT-16999,BATCH-2024-01190,3,Audio clipping,Low,Handling damage,2024-11-05
+DEF-01777,UNIT-18920,BATCH-2024-01322,2,Lens scratch,Medium,Packaging error,2024-10-22
+DEF-01778,UNIT-40544,BATCH-2025-02838,2,Camera focus failed,Medium,Process variation,2025-05-17
+DEF-01779,UNIT-02945,BATCH-2025-00204,7,Thermal runaway risk,Medium,Investigation pending,2025-08-28
+DEF-01780,UNIT-11405,BATCH-2026-00796,1,Connector misalignment,Medium,Process variation,2026-07-06
+DEF-01781,UNIT-11342,BATCH-2025-00791,6,Connectivity drop,Low,Process variation,2025-01-27
+DEF-01782,UNIT-17729,BATCH-2026-01240,3,Low volume output,Low,Packaging error,2026-03-21
+DEF-01783,UNIT-38445,BATCH-2025-02690,7,Thermal runaway risk,Medium,Process variation,2025-05-18
+DEF-01784,UNIT-41525,BATCH-2026-02908,1,Power fluctuation,Medium,Material defect,2026-04-12
+DEF-01785,UNIT-03306,BATCH-2025-00228,8,Packaging damage,Medium,Packaging error,2025-04-04
+DEF-01786,UNIT-43557,BATCH-2025-03052,3,Speaker distortion,High,Investigation pending,2025-03-23
+DEF-01787,UNIT-26360,BATCH-2026-01842,4,Charging instability,Low,Environmental exposure,2026-03-28
+DEF-01788,UNIT-47010,BATCH-2025-03292,6,Signal interference,Low,Handling damage,2025-02-19
+DEF-01789,UNIT-21439,BATCH-2025-01500,6,Port instability,High,Process variation,2025-01-24
+DEF-01790,UNIT-00579,BATCH-2025-00041,7,Fan failure,Medium,Environmental exposure,2025-03-20
+DEF-01791,UNIT-46893,BATCH-2026-03284,8,Final assembly defect,Medium,Process variation,2026-05-19
+DEF-01792,UNIT-31519,BATCH-2026-02206,5,Dead pixel,Low,Process variation,2026-07-18
+DEF-01793,UNIT-33135,BATCH-2026-02316,8,Final assembly defect,Medium,Packaging error,2026-05-17
+DEF-01794,UNIT-45093,BATCH-2025-03159,4,Battery not detected,Low,Investigation pending,2025-05-11
+DEF-01795,UNIT-15269,BATCH-2025-01069,4,Charging instability,High,Investigation pending,2025-08-23
+DEF-01796,UNIT-44456,BATCH-2025-03114,6,Connectivity drop,Low,Handling damage,2025-12-20
+DEF-01797,UNIT-16385,BATCH-2025-01146,6,Signal interference,Low,Equipment calibration drift,2025-11-25
+DEF-01798,UNIT-44483,BATCH-2026-03116,3,Low volume output,Medium,Process variation,2026-06-22
+DEF-01799,UNIT-26699,BATCH-2026-01865,6,Signal interference,High,Supplier quality issue,2026-03-18
+DEF-01800,UNIT-06177,BATCH-2026-00425,8,Final assembly defect,High,Packaging error,2026-02-18
+DEF-01801,UNIT-41394,BATCH-2024-02899,8,Ingress issue,Low,Packaging error,2024-10-24
+DEF-01802,UNIT-49480,BATCH-2026-03459,8,Final assembly defect,High,Supplier quality issue,2026-09-04
+DEF-01803,UNIT-33521,BATCH-2024-02343,7,Thermal runaway risk,Medium,Process variation,2024-10-17
+DEF-01804,UNIT-06870,BATCH-2024-00474,7,Overheating,High,Environmental exposure,2024-11-29
+DEF-01805,UNIT-41833,BATCH-2025-02930,8,Final assembly defect,Low,Material defect,2025-06-13
+DEF-01806,UNIT-41407,BATCH-2025-02900,8,Ingress issue,High,Process variation,2025-04-09
+DEF-01807,UNIT-36079,BATCH-2025-02522,4,Battery not detected,Low,Environmental exposure,2025-05-05
+DEF-01808,UNIT-04491,BATCH-2026-00309,7,Fan failure,Medium,Environmental exposure,2026-01-20
+DEF-01809,UNIT-46100,BATCH-2026-03231,5,Dead pixel,High,Material defect,2026-05-14
+DEF-01810,UNIT-16313,BATCH-2024-01140,5,Dead pixel,High,Material defect,2024-11-18
+DEF-01811,UNIT-28876,BATCH-2025-02019,5,Dead pixel,High,Packaging error,2025-11-02
+DEF-01812,UNIT-42444,BATCH-2026-02975,2,Camera focus failed,Medium,Equipment calibration drift,2026-04-26
+DEF-01813,UNIT-05623,BATCH-2025-00388,5,Color calibration issue,High,Investigation pending,2025-01-26
+DEF-01814,UNIT-25435,BATCH-2025-01777,8,Final assembly defect,Low,Material defect,2025-04-30
+DEF-01815,UNIT-48610,BATCH-2025-03400,4,Charging instability,Low,Investigation pending,2025-12-12
+DEF-01816,UNIT-34093,BATCH-2026-02382,7,Overheating,Medium,Handling damage,2026-04-14
+DEF-01817,UNIT-23486,BATCH-2026-01645,3,Audio clipping,Medium,Packaging error,2026-06-22
+DEF-01818,UNIT-17028,BATCH-2025-01191,3,Low volume output,High,Process variation,2025-03-12
+DEF-01819,UNIT-25278,BATCH-2025-01767,6,Connectivity drop,High,Material defect,2025-12-28
+DEF-01820,UNIT-11333,BATCH-2025-00790,3,Speaker distortion,Medium,Packaging error,2025-01-19
+DEF-01821,UNIT-16292,BATCH-2025-01139,6,Connectivity drop,Medium,Material defect,2025-05-17
+DEF-01822,UNIT-06595,BATCH-2026-00455,5,Color calibration issue,Low,Equipment calibration drift,2026-08-03
+DEF-01823,UNIT-09832,BATCH-2026-00682,1,Connector misalignment,Medium,Material defect,2026-02-14
+DEF-01824,UNIT-18116,BATCH-2025-01266,1,Connector misalignment,Medium,Investigation pending,2025-09-16
+DEF-01825,UNIT-14375,BATCH-2025-01006,1,Short circuit,Low,Handling damage,2025-05-07
+DEF-01826,UNIT-17339,BATCH-2024-01213,1,Short circuit,Low,Equipment calibration drift,2024-12-31
+DEF-01827,UNIT-43840,BATCH-2025-03072,5,Dead pixel,Medium,Packaging error,2025-04-07
+DEF-01828,UNIT-32930,BATCH-2025-02301,1,Short circuit,Low,Supplier quality issue,2025-02-24
+DEF-01829,UNIT-28108,BATCH-2025-01965,4,Charging instability,Low,Handling damage,2025-07-14
+DEF-01830,UNIT-42467,BATCH-2025-02977,8,Ingress issue,High,Environmental exposure,2025-09-08
+DEF-01831,UNIT-36885,BATCH-2026-02577,8,Packaging damage,Medium,Investigation pending,2026-02-15
+DEF-01832,UNIT-34525,BATCH-2024-02414,1,Short circuit,High,Equipment calibration drift,2024-11-17
+DEF-01833,UNIT-14199,BATCH-2025-00993,1,Short circuit,Medium,Environmental exposure,2025-09-26
+DEF-01834,UNIT-30840,BATCH-2025-02158,6,Signal interference,Low,Environmental exposure,2025-05-11
+DEF-01835,UNIT-25009,BATCH-2026-01750,7,Overheating,Medium,Material defect,2026-08-31
+DEF-01836,UNIT-13694,BATCH-2025-00959,1,Connector misalignment,High,Handling damage,2025-05-23
+DEF-01837,UNIT-30078,BATCH-2025-02105,8,Ingress issue,High,Process variation,2025-12-21
+DEF-01838,UNIT-23317,BATCH-2025-01632,4,Charging instability,Medium,Supplier quality issue,2026-01-18
+DEF-01839,UNIT-34421,BATCH-2026-02406,6,Connectivity drop,Medium,Packaging error,2026-03-26
+DEF-01840,UNIT-47915,BATCH-2025-03354,4,Cell imbalance,High,Investigation pending,2025-02-21
+DEF-01841,UNIT-18588,BATCH-2026-01299,8,Final assembly defect,Medium,Equipment calibration drift,2026-05-25
+DEF-01842,UNIT-38034,BATCH-2025-02660,7,Overheating,Medium,Equipment calibration drift,2025-02-15
+DEF-01843,UNIT-18000,BATCH-2025-01257,7,Thermal runaway risk,Low,Equipment calibration drift,2025-04-06
+DEF-01844,UNIT-24510,BATCH-2026-01716,8,Final assembly defect,Medium,Packaging error,2026-01-23
+DEF-01845,UNIT-31477,BATCH-2025-02203,3,Low volume output,High,Supplier quality issue,2025-12-10
+DEF-01846,UNIT-36900,BATCH-2026-02578,7,Thermal runaway risk,Medium,Supplier quality issue,2026-09-13
+DEF-01847,UNIT-49738,BATCH-2025-03477,1,Short circuit,Low,Investigation pending,2025-01-29
+DEF-01848,UNIT-42546,BATCH-2025-02983,2,Lens scratch,High,Handling damage,2025-07-09
+DEF-01849,UNIT-02402,BATCH-2025-00167,5,Dead pixel,Medium,Equipment calibration drift,2025-11-10
+DEF-01850,UNIT-35048,BATCH-2026-02450,3,Low volume output,Critical,Packaging error,2026-07-18
+DEF-01851,UNIT-15553,BATCH-2025-01088,7,Overheating,Low,Investigation pending,2025-05-21
+DEF-01852,UNIT-40451,BATCH-2025-02832,1,Short circuit,High,Material defect,2025-10-19
+DEF-01853,UNIT-23605,BATCH-2025-01652,5,Dead pixel,Medium,Equipment calibration drift,2025-11-11
+DEF-01854,UNIT-17910,BATCH-2026-01251,3,Speaker distortion,High,Environmental exposure,2026-06-14
+DEF-01855,UNIT-06287,BATCH-2025-00434,7,Overheating,Medium,Process variation,2025-03-23
+DEF-01856,UNIT-17775,BATCH-2026-01243,1,Power fluctuation,Low,Handling damage,2026-08-05
+DEF-01857,UNIT-25762,BATCH-2025-01800,6,Connectivity drop,High,Packaging error,2026-01-14
+DEF-01858,UNIT-11676,BATCH-2025-00815,7,Fan failure,High,Process variation,2025-04-18
+DEF-01859,UNIT-14387,BATCH-2025-01006,8,Ingress issue,Low,Material defect,2025-05-10
+DEF-01860,UNIT-32152,BATCH-2025-02248,5,Screen artifact,Low,Process variation,2025-03-11
+DEF-01861,UNIT-33055,BATCH-2025-02310,4,Charging instability,Medium,Environmental exposure,2025-11-03
+DEF-01862,UNIT-46801,BATCH-2024-03277,2,Camera focus failed,High,Handling damage,2024-11-23
+DEF-01863,UNIT-17410,BATCH-2025-01218,5,Color calibration issue,Low,Investigation pending,2025-03-08
+DEF-01864,UNIT-22127,BATCH-2024-01548,4,Battery not detected,Low,Supplier quality issue,2024-11-22
+DEF-01865,UNIT-42043,BATCH-2025-02945,7,Fan failure,Medium,Handling damage,2025-11-22
+DEF-01866,UNIT-46686,BATCH-2025-03270,4,Battery not detected,Low,Supplier quality issue,2025-05-28
+DEF-01867,UNIT-02618,BATCH-2026-00180,7,Thermal runaway risk,Medium,Process variation,2026-09-12
+DEF-01868,UNIT-04091,BATCH-2026-00281,7,Thermal runaway risk,Medium,Environmental exposure,2026-01-25
+DEF-01869,UNIT-49032,BATCH-2026-03429,4,Cell imbalance,Medium,Environmental exposure,2026-07-17
+DEF-01870,UNIT-06520,BATCH-2025-00450,5,Dead pixel,Medium,Equipment calibration drift,2025-12-26
+DEF-01871,UNIT-43773,BATCH-2026-03068,7,Fan failure,High,Packaging error,2026-03-28
+DEF-01872,UNIT-06153,BATCH-2025-00424,1,Power fluctuation,Medium,Environmental exposure,2026-01-11
+DEF-01873,UNIT-36270,BATCH-2026-02536,2,Lens scratch,Low,Material defect,2026-08-10
+DEF-01874,UNIT-00526,BATCH-2025-00037,8,Final assembly defect,Medium,Environmental exposure,2026-01-19
+DEF-01875,UNIT-12210,BATCH-2024-00852,4,Charging instability,High,Environmental exposure,2025-01-05
+DEF-01876,UNIT-20595,BATCH-2026-01439,8,Packaging damage,Medium,Environmental exposure,2026-08-22
+DEF-01877,UNIT-32873,BATCH-2026-02297,4,Cell imbalance,Critical,Equipment calibration drift,2026-08-18
+DEF-01878,UNIT-15194,BATCH-2025-01064,8,Final assembly defect,Medium,Packaging error,2025-08-15
+DEF-01879,UNIT-32698,BATCH-2025-02284,7,Overheating,High,Packaging error,2025-01-28
+DEF-01880,UNIT-32793,BATCH-2026-02292,2,Lens scratch,Medium,Handling damage,2026-07-21
+DEF-01881,UNIT-00172,BATCH-2025-00012,6,Signal interference,High,Handling damage,2025-04-24
+DEF-01882,UNIT-39815,BATCH-2025-02786,6,Connectivity drop,Medium,Investigation pending,2025-06-21
+DEF-01883,UNIT-37253,BATCH-2025-02604,3,Audio clipping,Medium,Supplier quality issue,2025-03-11
+DEF-01884,UNIT-47062,BATCH-2024-03295,6,Signal interference,Low,Material defect,2025-01-05
+DEF-01885,UNIT-31627,BATCH-2025-02214,6,Signal interference,High,Handling damage,2025-09-09
+DEF-01886,UNIT-13930,BATCH-2025-00975,2,Camera focus failed,Critical,Material defect,2025-10-17
+DEF-01887,UNIT-23255,BATCH-2025-01628,1,Short circuit,High,Material defect,2025-10-26
+DEF-01888,UNIT-13176,BATCH-2026-00922,6,Connectivity drop,Low,Process variation,2026-07-24
+DEF-01889,UNIT-10678,BATCH-2025-00745,2,Camera focus failed,Medium,Packaging error,2025-11-16
+DEF-01890,UNIT-01946,BATCH-2025-00135,4,Charging instability,Critical,Investigation pending,2025-10-06
+DEF-01891,UNIT-32833,BATCH-2026-02294,6,Connectivity drop,High,Handling damage,2026-09-22
+DEF-01892,UNIT-02460,BATCH-2026-00170,2,Camera focus failed,Medium,Handling damage,2026-06-19
+DEF-01893,UNIT-29225,BATCH-2026-02046,5,Screen artifact,Medium,Handling damage,2026-04-06
+DEF-01894,UNIT-14633,BATCH-2024-01024,6,Connectivity drop,Low,Supplier quality issue,2024-11-03
+DEF-01895,UNIT-05743,BATCH-2026-00396,6,Connectivity drop,Low,Process variation,2026-07-28
+DEF-01896,UNIT-42599,BATCH-2025-02986,6,Connectivity drop,Medium,Handling damage,2025-02-22
+DEF-01897,UNIT-49193,BATCH-2026-03440,6,Signal interference,Medium,Handling damage,2026-04-13
+DEF-01898,UNIT-22794,BATCH-2025-01596,1,Connector misalignment,High,Packaging error,2025-07-22
+DEF-01899,UNIT-28472,BATCH-2025-01991,1,Power fluctuation,High,Handling damage,2025-06-11
+DEF-01900,UNIT-48311,BATCH-2025-03381,4,Cell imbalance,High,Supplier quality issue,2025-09-02
+DEF-01901,UNIT-00315,BATCH-2025-00022,3,Audio clipping,Medium,Environmental exposure,2025-10-20
+DEF-01902,UNIT-37060,BATCH-2026-02590,8,Packaging damage,Medium,Supplier quality issue,2026-09-12
+DEF-01903,UNIT-16615,BATCH-2025-01163,7,Overheating,Medium,Process variation,2025-09-21
+DEF-01904,UNIT-04075,BATCH-2026-00281,4,Cell imbalance,High,Investigation pending,2026-01-23
+DEF-01905,UNIT-32529,BATCH-2025-02273,5,Dead pixel,High,Supplier quality issue,2025-02-17
+DEF-01906,UNIT-04199,BATCH-2026-00289,6,Signal interference,Low,Equipment calibration drift,2026-07-10
+DEF-01907,UNIT-39502,BATCH-2026-02765,3,Audio clipping,Low,Process variation,2026-06-17
+DEF-01908,UNIT-21009,BATCH-2026-01468,8,Ingress issue,High,Supplier quality issue,2026-07-16
+DEF-01909,UNIT-14079,BATCH-2025-00985,2,Lens scratch,High,Process variation,2025-10-14
+DEF-01910,UNIT-49772,BATCH-2025-03479,5,Color calibration issue,High,Environmental exposure,2025-03-14
+DEF-01911,UNIT-15060,BATCH-2025-01054,8,Packaging damage,Low,Investigation pending,2025-04-17
+DEF-01912,UNIT-32034,BATCH-2025-02240,4,Cell imbalance,Medium,Material defect,2025-12-23
+DEF-01913,UNIT-28299,BATCH-2026-01979,2,Lens scratch,Medium,Packaging error,2026-03-13
+DEF-01914,UNIT-09010,BATCH-2025-00624,6,Port instability,High,Process variation,2025-12-21
+DEF-01915,UNIT-26628,BATCH-2026-01860,6,Signal interference,Medium,Packaging error,2026-09-01
+DEF-01916,UNIT-31930,BATCH-2026-02233,5,Color calibration issue,High,Handling damage,2026-08-28
+DEF-01917,UNIT-10270,BATCH-2025-00716,7,Fan failure,High,Environmental exposure,2025-11-19
+DEF-01918,UNIT-03732,BATCH-2025-00257,7,Fan failure,Medium,Environmental exposure,2025-05-26
+DEF-01919,UNIT-22696,BATCH-2026-01589,6,Port instability,Medium,Investigation pending,2026-07-19
+DEF-01920,UNIT-05228,BATCH-2025-00359,4,Cell imbalance,Critical,Material defect,2025-09-17
+DEF-01921,UNIT-16673,BATCH-2025-01167,8,Ingress issue,Low,Equipment calibration drift,2025-12-18
+DEF-01922,UNIT-46979,BATCH-2025-03290,6,Connectivity drop,Medium,Packaging error,2025-06-30
+DEF-01923,UNIT-42196,BATCH-2024-02956,7,Fan failure,Low,Packaging error,2024-11-04
+DEF-01924,UNIT-47709,BATCH-2026-03340,5,Color calibration issue,Low,Equipment calibration drift,2026-04-02
+DEF-01925,UNIT-19800,BATCH-2025-01384,2,Sensor calibration drift,Low,Investigation pending,2026-01-04
+DEF-01926,UNIT-48304,BATCH-2025-03380,2,Lens scratch,High,Handling damage,2025-10-20
+DEF-01927,UNIT-09594,BATCH-2026-00665,4,Cell imbalance,Medium,Handling damage,2026-01-27
+DEF-01928,UNIT-02952,BATCH-2026-00205,6,Port instability,Medium,Material defect,2026-06-01
+DEF-01929,UNIT-07385,BATCH-2026-00512,6,Port instability,Low,Supplier quality issue,2026-08-16
+DEF-01930,UNIT-16099,BATCH-2026-01125,7,Overheating,Critical,Equipment calibration drift,2026-05-31
+DEF-01931,UNIT-36093,BATCH-2025-02523,7,Thermal runaway risk,High,Packaging error,2026-01-24
+DEF-01932,UNIT-08270,BATCH-2026-00573,5,Screen artifact,Low,Equipment calibration drift,2026-08-12
+DEF-01933,UNIT-35854,BATCH-2026-02505,5,Screen artifact,Medium,Supplier quality issue,2026-04-05
+DEF-01934,UNIT-28901,BATCH-2025-02021,1,Power fluctuation,Medium,Process variation,2025-12-17
+DEF-01935,UNIT-36321,BATCH-2025-02539,3,Low volume output,High,Investigation pending,2025-06-23
+DEF-01936,UNIT-47812,BATCH-2026-03347,7,Overheating,Low,Environmental exposure,2026-05-08
+DEF-01937,UNIT-26359,BATCH-2026-01842,7,Overheating,Medium,Investigation pending,2026-03-28
+DEF-01938,UNIT-25577,BATCH-2025-01787,5,Screen artifact,High,Environmental exposure,2025-03-05
+DEF-01939,UNIT-09624,BATCH-2025-00667,7,Fan failure,High,Process variation,2025-09-28
+DEF-01940,UNIT-21427,BATCH-2026-01499,7,Thermal runaway risk,Low,Environmental exposure,2026-01-20
+DEF-01941,UNIT-06953,BATCH-2026-00480,7,Thermal runaway risk,Low,Process variation,2026-01-29
+DEF-01942,UNIT-10073,BATCH-2025-00701,3,Audio clipping,Medium,Supplier quality issue,2025-07-23
+DEF-01943,UNIT-28462,BATCH-2025-01990,7,Fan failure,Medium,Packaging error,2025-06-20
+DEF-01944,UNIT-46285,BATCH-2025-03242,2,Lens scratch,Low,Material defect,2025-07-27
+DEF-01945,UNIT-36165,BATCH-2026-02528,4,Battery not detected,Medium,Equipment calibration drift,2026-03-26
+DEF-01946,UNIT-45272,BATCH-2024-03171,1,Power fluctuation,Critical,Investigation pending,2024-11-10
+DEF-01947,UNIT-28052,BATCH-2025-01961,4,Charging instability,Medium,Environmental exposure,2025-12-07
+DEF-01948,UNIT-14325,BATCH-2025-01002,5,Dead pixel,Medium,Supplier quality issue,2025-04-02
+DEF-01949,UNIT-47871,BATCH-2025-03351,3,Low volume output,Medium,Packaging error,2025-09-01
+DEF-01950,UNIT-17895,BATCH-2024-01250,3,Speaker distortion,High,Supplier quality issue,2024-10-14
+DEF-01951,UNIT-22318,BATCH-2025-01562,2,Sensor calibration drift,Low,Supplier quality issue,2025-03-28
+DEF-01952,UNIT-02714,BATCH-2025-00187,2,Camera focus failed,High,Supplier quality issue,2025-01-20
+DEF-01953,UNIT-11370,BATCH-2026-00793,3,Speaker distortion,Medium,Handling damage,2026-08-24
+DEF-01954,UNIT-43633,BATCH-2026-03058,8,Ingress issue,High,Packaging error,2026-07-17
+DEF-01955,UNIT-02682,BATCH-2026-00185,3,Low volume output,Low,Material defect,2026-02-12
+DEF-01956,UNIT-42939,BATCH-2026-03010,4,Charging instability,Critical,Packaging error,2026-04-26
+DEF-01957,UNIT-18539,BATCH-2025-01296,3,Speaker distortion,High,Environmental exposure,2025-08-07
+DEF-01958,UNIT-32336,BATCH-2024-02260,1,Short circuit,Critical,Environmental exposure,2024-10-28
+DEF-01959,UNIT-07411,BATCH-2025-00514,3,Low volume output,Medium,Process variation,2025-06-30
+DEF-01960,UNIT-28313,BATCH-2024-01980,1,Short circuit,Low,Supplier quality issue,2024-12-16
+DEF-01961,UNIT-29290,BATCH-2025-02051,4,Charging instability,Low,Handling damage,2025-09-04
+DEF-01962,UNIT-14038,BATCH-2025-00982,1,Power fluctuation,Low,Packaging error,2025-04-09
+DEF-01963,UNIT-39383,BATCH-2025-02756,3,Low volume output,High,Investigation pending,2025-11-03
+DEF-01964,UNIT-10502,BATCH-2025-00732,3,Speaker distortion,Medium,Handling damage,2025-05-21
+DEF-01965,UNIT-23312,BATCH-2025-01632,1,Connector misalignment,Low,Environmental exposure,2026-01-16
+DEF-01966,UNIT-33951,BATCH-2024-02373,7,Fan failure,Low,Environmental exposure,2024-11-29
+DEF-01967,UNIT-05390,BATCH-2025-00370,1,Power fluctuation,Medium,Equipment calibration drift,2025-05-01
+DEF-01968,UNIT-07136,BATCH-2026-00494,1,Power fluctuation,High,Investigation pending,2026-01-14
+DEF-01969,UNIT-01730,BATCH-2026-00121,3,Speaker distortion,Medium,Environmental exposure,2026-08-31
+DEF-01970,UNIT-40492,BATCH-2026-02835,8,Packaging damage,Medium,Handling damage,2026-01-30
+DEF-01971,UNIT-30481,BATCH-2024-02133,6,Port instability,High,Packaging error,2024-11-22
+DEF-01972,UNIT-49034,BATCH-2026-03429,8,Final assembly defect,Critical,Packaging error,2026-07-21
+DEF-01973,UNIT-02502,BATCH-2026-00173,1,Connector misalignment,High,Investigation pending,2026-10-03
+DEF-01974,UNIT-09980,BATCH-2024-00694,1,Short circuit,Medium,Handling damage,2024-10-08
+DEF-01975,UNIT-45496,BATCH-2025-03188,5,Screen artifact,Low,Handling damage,2025-07-31
+DEF-01976,UNIT-01489,BATCH-2025-00105,8,Packaging damage,High,Material defect,2025-01-21
+DEF-01977,UNIT-24511,BATCH-2026-01716,8,Ingress issue,Low,Process variation,2026-01-17
+DEF-01978,UNIT-40616,BATCH-2025-02845,6,Port instability,Critical,Packaging error,2025-05-18
+DEF-01979,UNIT-42707,BATCH-2025-02994,4,Battery not detected,High,Investigation pending,2025-02-19
+DEF-01980,UNIT-21101,BATCH-2025-01475,3,Speaker distortion,Medium,Supplier quality issue,2025-11-19
+DEF-01981,UNIT-12420,BATCH-2025-00868,1,Connector misalignment,Critical,Packaging error,2025-05-29
+DEF-01982,UNIT-23242,BATCH-2025-01628,1,Power fluctuation,Low,Equipment calibration drift,2025-10-22
+DEF-01983,UNIT-38687,BATCH-2025-02707,3,Low volume output,Critical,Packaging error,2025-06-18
+DEF-01984,UNIT-31837,BATCH-2025-02227,7,Overheating,Low,Material defect,2025-03-11
+DEF-01985,UNIT-04926,BATCH-2025-00339,8,Packaging damage,Medium,Equipment calibration drift,2025-06-04
+DEF-01986,UNIT-42920,BATCH-2024-03008,1,Connector misalignment,Critical,Supplier quality issue,2024-12-11
+DEF-01987,UNIT-41028,BATCH-2025-02874,7,Thermal runaway risk,Low,Handling damage,2025-04-13
+DEF-01988,UNIT-38468,BATCH-2024-02692,1,Short circuit,Low,Environmental exposure,2024-12-12
+DEF-01989,UNIT-48067,BATCH-2025-03365,3,Audio clipping,Low,Packaging error,2025-08-23
+DEF-01990,UNIT-24124,BATCH-2026-01688,2,Camera focus failed,Medium,Investigation pending,2026-05-25
+DEF-01991,UNIT-31893,BATCH-2026-02231,6,Port instability,High,Investigation pending,2026-07-05
+DEF-01992,UNIT-42727,BATCH-2025-02995,5,Dead pixel,Critical,Investigation pending,2025-04-08
+DEF-01993,UNIT-16059,BATCH-2025-01123,5,Dead pixel,Low,Investigation pending,2025-04-15
+DEF-01994,UNIT-23579,BATCH-2024-01651,6,Connectivity drop,Medium,Environmental exposure,2025-01-17
+DEF-01995,UNIT-23313,BATCH-2025-01632,4,Charging instability,Medium,Handling damage,2026-01-19
+DEF-01996,UNIT-42306,BATCH-2025-02965,1,Connector misalignment,Medium,Investigation pending,2025-09-21
+DEF-01997,UNIT-47973,BATCH-2025-03358,7,Thermal runaway risk,Medium,Environmental exposure,2025-09-07
+DEF-01998,UNIT-10156,BATCH-2025-00707,2,Camera focus failed,Medium,Handling damage,2025-05-31
+DEF-01999,UNIT-33248,BATCH-2025-02324,3,Low volume output,Low,Investigation pending,2025-08-22
+DEF-02000,UNIT-35731,BATCH-2026-02497,7,Fan failure,Medium,Process variation,2026-03-06

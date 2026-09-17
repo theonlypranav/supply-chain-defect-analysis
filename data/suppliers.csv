@@ -1,0 +1,51 @@
+supplier_id,supplier_name,country,lead_time_days,unit_price,quality_score
+1,Samsung,USA,19,220.56,89
+2,TSMC,South Korea,34,349.29,92
+3,Corning,Taiwan,24,487.86,63
+4,Intel,China,48,393.46,88
+5,Apple,Japan,38,226.29,64
+6,NVIDIA,Germany,38,463.53,74
+7,Foxconn,USA,50,411.74,84
+8,LG Chem,South Korea,40,115.16,76
+9,Sony,Taiwan,19,33.78,81
+10,Panasonic,China,54,316.57,91
+11,Murata,Japan,22,178.55,88
+12,Amphenol,Germany,18,446.77,96
+13,Onsemi,USA,46,98.93,89
+14,STMicroelectronics,South Korea,31,23.81,77
+15,SK Hynix,Taiwan,40,342.16,65
+16,Hitachi,China,57,483.82,88
+17,Mitsubishi,Japan,33,186.49,72
+18,Bosch,Germany,18,96.36,77
+19,Sumitomo,USA,36,238.9,64
+20,Delta Electronics,South Korea,30,335.57,68
+21,Jabil,Taiwan,58,416.67,76
+22,Flex,China,43,157.56,86
+23,ASE,Japan,50,402.77,91
+24,Qualcomm,Germany,53,145.59,74
+25,Broadcom,USA,26,71.6,85
+26,Texas Instruments,South Korea,53,5.67,67
+27,Infineon,Taiwan,51,333.1,89
+28,Kioxia,China,36,390.8,86
+29,Seagate,Japan,40,285.23,77
+30,Western Digital,Germany,16,59.04,65
+31,Kyocera,USA,35,236.61,85
+32,Canon,South Korea,54,382.97,81
+33,Denso,Taiwan,41,277.68,84
+34,Renesas,China,19,153.37,81
+35,Nokia,Japan,42,219.49,61
+36,Ericsson,Germany,60,205.45,68
+37,Huawei,USA,60,118.5,92
+38,Xiaomi,South Korea,52,142.13,62
+39,Lenovo,Taiwan,57,331.63,71
+40,Dell,China,20,392.38,81
+41,HP,Japan,60,204.38,85
+42,Acer,Germany,34,85.15,90
+43,ASUSTeK,USA,30,46.84,60
+44,Wistron,South Korea,50,232.01,87
+45,Pegatron,Taiwan,47,251.52,66
+46,Liteon,China,58,348.77,65
+47,Molex,Japan,37,191.75,76
+48,TE Connectivity,Germany,25,315.88,71
+49,Coherent,USA,42,45.65,73
+50,APC,South Korea,30,481.03,64
